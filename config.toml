@@ -1,0 +1,51 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "O.B."
+theme = "desk"
+
+[Author]
+  name = "Olga Bochkareva"
+
+[params]
+  AuthorName = "Olga Bochkareva"
+  emlString = "olga.bochkaryova@gmail.com"
+  twitter = "o_bochkareva"
+  github = "OlgaBochkaryova"
+
+[menu]
+  # Main topline menu
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 4
+  [[menu.main]]
+      name = "Students"
+      url = "/students/"
+      weight = 3
+  [[menu.main]]
+          name = "BioInf CookBook"
+          url = "/cookbook/"
+          weight = 5
+  [[menu.main]]
+      name = "Contact"
+      url = "/contacts/"
+      weight = 6
+
+  # Icons menu
+  [[menu.side]]
+    name="i-envelope"
+    url="mailto:olga.bochkaryova@gmail.com"
+  [[menu.side]]
+    name="i-twitter"
+    url="https://twitter.com/o_bochkareva"
+
+[markup.goldmark.renderer]
+  unsafe = true

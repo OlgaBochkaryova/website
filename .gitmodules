@@ -1,0 +1,3 @@
+[submodule "themes/desk"]
+	path = themes/desk
+	url = https://github.com/OlgaBochkaryova/hugo-desk-theme.git
