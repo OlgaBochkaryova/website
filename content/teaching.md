@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-### Courses
+## Courses
 
 **Comparative Genomics of Prokaryotes**
 
@@ -13,12 +13,12 @@ Taught at:
 - Bioinformatics Institute (St Petersburg, Russia), autumn term, in Russian, online
 - IST Austria (Klosterneuburg, Austria), spring term, in English
 
-### Open / invited lectures
+## Open / invited lectures
 - [Structure and evolution of bacterial chromosomes](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) (video, in Russian) -- Bioinformatics Institute Open Lectures, 2020.
 - [Comparative genomics of prokaryotes, cookbook](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) (video, in Russian) -- Summer School of Bioinformatics Institute, 2020.
 
 
-### Student projects for Theoretical and Molecular Biology
+## Student projects for School of Theoretical and Molecular Biology
 There is an [initiative](https://molbioschool.org/) by Dr. Kondrashov and Co. to let high-school students participate in real scientific research. Supervised projects:
 
 - 2020 [Effectors' evolution in pathogenic _E.coli_](https://molbioschool.org/en/archive/9/)

@@ -1,14 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://OlgaBochkaryova.github.io/"
 languageCode = "en-us"
 title = "O.B."
 theme = "desk"
 
 [Author]
   name = "Olga Bochkareva"
+  email = "olga.bochkaryova@gmail.com"
 
 [params]
   AuthorName = "Olga Bochkareva"
-  emlString = "olga.bochkaryova@gmail.com"
   twitter = "o_bochkareva"
   github = "OlgaBochkaryova"
 
@@ -27,17 +27,17 @@ theme = "desk"
     url = "/teaching/"
     weight = 4
   [[menu.main]]
-      name = "Students"
-      url = "/students/"
-      weight = 3
+    name = "Students"
+    url = "/students/"
+    weight = 3
   [[menu.main]]
-          name = "BioInf CookBook"
-          url = "/cookbook/"
-          weight = 5
+    name = "BioInf CookBook"
+    url = "/cookbook/"
+    weight = 5
   [[menu.main]]
-      name = "Contact"
-      url = "/contacts/"
-      weight = 6
+    name = "Contact"
+    url = "/contacts/"
+    weight = 6
 
   # Icons menu
   [[menu.side]]
