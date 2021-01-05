@@ -79,5 +79,5 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## datasets
 
-**Data** [A unified catalog of 204,938 reference genomes from the human gut microbiome](https://www.nature.com/articles/s41587-020-0603-3).
+**💾 Data** [A unified catalog of 204,938 reference genomes from the human gut microbiome](https://www.nature.com/articles/s41587-020-0603-3).
 
