@@ -5,7 +5,7 @@ theme = "desk"
 
 [Author]
   name = "Olga Bochkareva"
-  email = "olga.bochkaryova@gmail.com"
+  email = "olga.bochkareva@ist.ac.at"
 
 [params]
   AuthorName = "Olga Bochkareva"
@@ -42,7 +42,7 @@ theme = "desk"
   # Icons menu
   [[menu.side]]
     name="i-envelope"
-    url="mailto:olga.bochkaryova@gmail.com"
+    url="mailto:olga.bochkareva@ist.ac.at"
   [[menu.side]]
     name="i-twitter"
     url="https://twitter.com/o_bochkareva"
