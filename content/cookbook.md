@@ -53,7 +53,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [PhaME](https://github.com/LANL-Bioinformatics/PhaME) ([paper](https://www.nature.com/articles/s41598-020-58356-1)) phylogenetic and molecular evolutionary analysis from sequencing reads, draft assemblies or completed genomes of closely related organisms. Rapid phylogenetic characterization of organisms within complex samples without the need for prior assembly.
 
-**📦 Python Package** [ete3] a tool for comparison of phylogenetic trees.
+**📦 Python Package** [ete3](http://etetoolkit.org/) a tool for comparison of phylogenetic trees.
 
 **🔧 Tool** [TreeCmp](https://bioweb.supagro.inra.fr/macse/) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - a package of applications for comparing phylogenetic tree sets. Visual TreeCmp includes a graphical web interface allowing the visualization of compared trees and command line application extended by comparison methods recently proposed in the literature.
 
