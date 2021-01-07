@@ -3,11 +3,11 @@ title: "BioInf CookBook"
 ---
 Tools, packages and software for genomics.
 
-The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments. 
+The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
-## assemblers
+%## assemblers
 
-## genome browser
+%## genome browser
 
 ## genome annotation
 
@@ -17,7 +17,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [PaperBLAST](https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi) ([paper](https://msystems.asm.org/content/2/4/e00039-17)) uses EuropePMC to search the full text of scientific articles for references to genes. PaperBLAST also takes advantage of curated resources (Swiss-Prot, GeneRIF, and EcoCyc) that link protein sequences to scientific articles. PaperBLAST’s database includes over 700,000 scientific articles that mention over 400,000 different proteins. Given a protein of interest, PaperBLAST quickly finds similar proteins that are discussed in the literature and presents snippets of text from relevant articles or from the curators.
 
-## databases
+%## databases
 
 ## alignments
 
@@ -42,7 +42,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## whole-genome alignment
 
-**🔧 Tool** [SibeliaZ]([paper](https://www.nature.com/articles/s41467-020-19777-8)) -  an algorithm for identifying collinear blocks in closely related genomes based on analysis of the de Bruijn graph, incorporated into a multiple whole-genome alignment pipeline.
+**🔧 Tool** [SibeliaZ]([paper](https://www.nature.com/articles/s41467-020-19777-8)) -  an algorithm for identifying collinear blocks in closely related genomes based on analysis of the de Bruijn graph, incorporated into a multiple whole-genome alignment pipeline. Instruction how to construct synteny blocks with given length threshold [here](https://github.com/ctlab/parallel-rearrangements/blob/master/BLOCKS-OBTAIN.md)
 
 **🔧 Tool** [ProgressiveMauve](http://darlinglab.org/mauve/mauve.html) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/20593022)) is a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. The alignment display is organized into one horizontal “panel” per input genome sequence. Each genome’s panel contains the name of the genome sequence, a scale showing the sequence coordinates for that genome, and a single black horizontal center line. Colored block outlines appear above and possibly below the center line. Each of these block outlines surrounds a region of the genome sequence that aligned to part of another genome, and is presumably homologous and internally free from genomic rearrangement. However, the algorithm’s compute time scales cubically in the number of genomes to align, making it unsuitable for datasets containing more than 50-100 bacterial genomes.
 
@@ -53,7 +53,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **📦 Python Package** [ete3] a tool for comparison of phylogenetic trees.
 
-**🔧 Tool** [TreeCmp](https://bioweb.supagro.inra.fr/macse/) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - a package of applications for comparing phylogenetic tree sets. Visual TreeCmp includes a graphical web interface allowing the visualization of compared trees and command line application extended by comparison methods recently proposed in the literature. 
+**🔧 Tool** [TreeCmp](https://bioweb.supagro.inra.fr/macse/) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - a package of applications for comparing phylogenetic tree sets. Visual TreeCmp includes a graphical web interface allowing the visualization of compared trees and command line application extended by comparison methods recently proposed in the literature.
 
 **🔧 Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
@@ -81,3 +81,4 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **💾 Data** [A unified catalog of 204,938 reference genomes from the human gut microbiome](https://www.nature.com/articles/s41587-020-0603-3).
 
+**💾 Data** [genomic data of 414 E.coli/Shigella genomes (full assemblies)](https://github.com/zseferbekova/ShigellaProject). The phylogenetic tree, alignments of common orthogroups, synteny blocks. [Citation](https://www.biorxiv.org/content/10.1101/2020.06.12.147751v1.abstract)
