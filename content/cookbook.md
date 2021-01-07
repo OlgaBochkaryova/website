@@ -5,9 +5,11 @@ Tools, packages and software for genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
-%## assemblers
+<!--
 
-%## genome browser
+## assemblers
+
+## genome browser -->
 
 ## genome annotation
 
