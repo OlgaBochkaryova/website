@@ -83,4 +83,4 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **💾 Data** [A unified catalog of 204,938 reference genomes from the human gut microbiome](https://www.nature.com/articles/s41587-020-0603-3).
 
-**💾 Data** [genomic data of 414 E.coli/Shigella genomes (full assemblies)](https://github.com/zseferbekova/ShigellaProject). The phylogenetic tree, alignments of common orthogroups, synteny blocks. [Citation](https://www.biorxiv.org/content/10.1101/2020.06.12.147751v1.abstract)
+**💾 Data** [genomic data of 414 E.coli/Shigella genomes (full assemblies)](https://github.com/zseferbekova/ShigellaProject). The project contains the phylogenetic tree, alignments of common orthogroups, synteny blocks. [Citation](https://www.biorxiv.org/content/10.1101/2020.06.12.147751v1.abstract)
