@@ -5,11 +5,11 @@ Tools, packages and software for genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
-<!--
-
 ## assemblers
 
-## genome browser -->
+**🔧 Tool** [SPAdes assembler](https://github.com/ablab/spades) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/)) an assembly toolkit containing various assembly pipelines.
+
+<!-- ## genome browser -->
 
 ## genome annotation
 
@@ -19,7 +19,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [PaperBLAST](https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi) ([paper](https://msystems.asm.org/content/2/4/e00039-17)) uses EuropePMC to search the full text of scientific articles for references to genes. PaperBLAST also takes advantage of curated resources (Swiss-Prot, GeneRIF, and EcoCyc) that link protein sequences to scientific articles. PaperBLAST’s database includes over 700,000 scientific articles that mention over 400,000 different proteins. Given a protein of interest, PaperBLAST quickly finds similar proteins that are discussed in the literature and presents snippets of text from relevant articles or from the curators.
 
-%## databases
+<!-- ## databases -->
 
 ## alignments
 
