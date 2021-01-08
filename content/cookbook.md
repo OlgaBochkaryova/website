@@ -13,9 +13,11 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## genome annotation
 
-**🔧 Web Tool** [Rast](https://kbase.us/applist/apps/RAST_SDK/reannotate_microbial_genome/release?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmI2nvh6bDU_OkagT76hMuxDqv7jBRq2GXqc1u3LZqa-cwpUuOqcfrEaAvdUEALw_wcB) ([paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-75)) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.
+**🔧 WebTool** [Rast](https://kbase.us/applist/apps/RAST_SDK/reannotate_microbial_genome/release?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmI2nvh6bDU_OkagT76hMuxDqv7jBRq2GXqc1u3LZqa-cwpUuOqcfrEaAvdUEALw_wcB) ([paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-75)) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.
 
 **🔧 Tool** [Prokka](https://github.com/tseemann/prokka) ([paper](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517)) a command line software tool that can be installed on any Unix system. Prokka coordinates a suite of existing software tools to achieve a rich and reliable annotation of genomic bacterial sequences. Where possible, it will exploit multiple processing cores, and a typical bacterial genome can be annotated in ∼10 min on a quad core desktop computer. It is well suited to iterative models of sequence analysis and integration into genomic software pipelines.
+
+**🔧 Tool** [Prodigal](https://github.com/hyattpd/Prodigal) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848648/)) a fast, lightweight, open source gene prediction program, focused specifically on the three goals of improved gene structure prediction, improved translation initiation site recognition, and reduced false positives.
 
 **🔧 Tool** [PaperBLAST](https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi) ([paper](https://msystems.asm.org/content/2/4/e00039-17)) uses EuropePMC to search the full text of scientific articles for references to genes. PaperBLAST also takes advantage of curated resources (Swiss-Prot, GeneRIF, and EcoCyc) that link protein sequences to scientific articles. PaperBLAST’s database includes over 700,000 scientific articles that mention over 400,000 different proteins. Given a protein of interest, PaperBLAST quickly finds similar proteins that are discussed in the literature and presents snippets of text from relevant articles or from the curators.
 
@@ -23,7 +25,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## alignments
 
-**🔧 Web Tool** [T-Coffee](http://tcoffee.crg.cat/) ([paper](http://tcoffee.crg.cat/)) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.
+**🔧 WebTool** [T-Coffee](http://tcoffee.crg.cat/) ([paper](http://tcoffee.crg.cat/)) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.
 
 **🔧 Tool** [MASCE](https://bioweb.supagro.inra.fr/macse/) - aligns coding NT sequences with respect to their AA translation while allowing NT sequences to contain multiple frameshifts and/or stop codons. MACSE is hence the first automatic solution to align protein-coding gene datasets containing non-functional sequences (pseudogenes) without disrupting the underlying codon structure. It has also proved useful in detecting undocumented frameshifts in public database sequences and in aligning next-generation sequencing reads/contigs against a reference coding sequence.
 
@@ -35,7 +37,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [Piggy](https://sanger-pathogens.github.io/Roary/) ([paper](https://academic.oup.com/gigascience/article/7/4/giy015/4919733))  -  a novel pipeline that emulates Roary except that it is based only on intergenic regions. A key utility provided by Piggy is the detection of highly divergent (“switched”) intergenic regions (IGRs) upstream of genes.
 
-**🔧 Tool** [PANACOTA](https://academic.oup.com/gigascience/article/7/4/giy015/4919733) - a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
+**🔧 Tool** [PanACoTA](https://academic.oup.com/gigascience/article/7/4/giy015/4919733) - a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
 
 **📄 Review** Costa, Sávio & Guimarães, Luís & Silva, Artur & Soares, Siomar & Baraúna, Rafael. (2020). [First Steps in the Analysis of Prokaryotic Pan-Genomes](https://journals.sagepub.com/doi/full/10.1177/1177932220938064). Bioinformatics and Biology Insights. 14. 117793222093806. 10.1177/1177932220938064
 
@@ -52,7 +54,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) is a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
 
-**🔧 Web Tool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
+**🔧 WebTool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
 
 **🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) 
 
@@ -69,7 +71,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [TreeCmp](https://bioweb.supagro.inra.fr/macse/) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - a package of applications for comparing phylogenetic tree sets. Visual TreeCmp includes a graphical web interface allowing the visualization of compared trees and command line application extended by comparison methods recently proposed in the literature.
 
-**🔧 Web Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🔧 WebTool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
 ## selection
 
@@ -83,13 +85,13 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## visualization
 
-**🔧 Web Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🔧 WebTool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
 **🔧 Tool** [Gene Graphics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) ([paper](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx793))- an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 
-**🔧 Web Tool** [Biorender](https://biorender.com/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is a tool to help scientists create and share professional scientific figures.
+**🔧 WebTool** [Biorender](https://biorender.com/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is a tool to help scientists create and share professional scientific figures.
 
-**🔧 Web Tool** [Overleaf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
+**🔧 WebTool** [Overleaf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
 
 ## datasets
 
