@@ -13,7 +13,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## genome annotation
 
-**🔧 Tool** [Rast](https://kbase.us/applist/apps/RAST_SDK/reannotate_microbial_genome/release?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmI2nvh6bDU_OkagT76hMuxDqv7jBRq2GXqc1u3LZqa-cwpUuOqcfrEaAvdUEALw_wcB) ([paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-75)) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.
+**🔧 Web Tool** [Rast](https://kbase.us/applist/apps/RAST_SDK/reannotate_microbial_genome/release?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmI2nvh6bDU_OkagT76hMuxDqv7jBRq2GXqc1u3LZqa-cwpUuOqcfrEaAvdUEALw_wcB) ([paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-75)) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.
 
 **🔧 Tool** [Prokka](https://github.com/tseemann/prokka) ([paper](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517)) a command line software tool that can be installed on any Unix system. Prokka coordinates a suite of existing software tools to achieve a rich and reliable annotation of genomic bacterial sequences. Where possible, it will exploit multiple processing cores, and a typical bacterial genome can be annotated in ∼10 min on a quad core desktop computer. It is well suited to iterative models of sequence analysis and integration into genomic software pipelines.
 
@@ -23,7 +23,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## alignments
 
-**🔧 Tool** [T-Coffee](http://tcoffee.crg.cat/) ([paper](http://tcoffee.crg.cat/)) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.
+**🔧 Web Tool** [T-Coffee](http://tcoffee.crg.cat/) ([paper](http://tcoffee.crg.cat/)) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.
 
 **🔧 Tool** [MASCE](https://bioweb.supagro.inra.fr/macse/) - aligns coding NT sequences with respect to their AA translation while allowing NT sequences to contain multiple frameshifts and/or stop codons. MACSE is hence the first automatic solution to align protein-coding gene datasets containing non-functional sequences (pseudogenes) without disrupting the underlying codon structure. It has also proved useful in detecting undocumented frameshifts in public database sequences and in aligning next-generation sequencing reads/contigs against a reference coding sequence.
 
@@ -48,8 +48,6 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [ProgressiveMauve](http://darlinglab.org/mauve/mauve.html) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/20593022)) is a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. The alignment display is organized into one horizontal “panel” per input genome sequence. Each genome’s panel contains the name of the genome sequence, a scale showing the sequence coordinates for that genome, and a single black horizontal center line. Colored block outlines appear above and possibly below the center line. Each of these block outlines surrounds a region of the genome sequence that aligned to part of another genome, and is presumably homologous and internally free from genomic rearrangement. However, the algorithm’s compute time scales cubically in the number of genomes to align, making it unsuitable for datasets containing more than 50-100 bacterial genomes.
 
-**🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) is a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
-
 ## rearrangements
 
 **🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) is a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
@@ -71,7 +69,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [TreeCmp](https://bioweb.supagro.inra.fr/macse/) [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - a package of applications for comparing phylogenetic tree sets. Visual TreeCmp includes a graphical web interface allowing the visualization of compared trees and command line application extended by comparison methods recently proposed in the literature.
 
-**🔧 Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🔧 Web Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
 ## selection
 
@@ -85,13 +83,13 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## visualization
 
-**🔧 Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🔧 Web Tool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
 **🔧 Tool** [Gene Graphics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) ([paper](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx793))- an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 
-**🔧 Tool** [Biorender](https://biorender.com/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is a tool to help scientists create and share professional scientific figures.
+**🔧 Web Tool** [Biorender](https://biorender.com/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - is a tool to help scientists create and share professional scientific figures.
 
-**🔧 Tool** [Overleaf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
+**🔧 Web Tool** [Overleaf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
 
 ## datasets
 
