@@ -1,7 +1,7 @@
 ---
 title: "BioInf CookBook"
 ---
-Tools, packages and software for genomics.
+Tools, packages and software for bacterial genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
@@ -60,7 +60,10 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 
 ## phylogenetics
-**📄 Review**: Kapli et al. [Phylogenetic tree building in the genomic age](https://pubmed.ncbi.nlm.nih.gov/32424311/)
+
+**📄 Review** Kapli et al. [Phylogenetic tree building in the genomic age](https://pubmed.ncbi.nlm.nih.gov/32424311/)
+
+**🔧 Tool** [RAxML](https://github.com/stamatak/standard-RAxML) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998144/)) a popular program for phylogenetic analyses of large datasets under maximum likelihood with substantial extension of substitution models and supported data types, the introduction of SSE3, AVX and AVX2 vector intrinsics, techniques for reducing the memory requirements of the code and a plethora of operations for conducting post-analyses on sets of trees.
 
 **🔧 Tool** [PhaME](https://github.com/LANL-Bioinformatics/PhaME) ([paper](https://www.nature.com/articles/s41598-020-58356-1)) phylogenetic and molecular evolutionary analysis from sequencing reads, draft assemblies or completed genomes of closely related organisms. Rapid phylogenetic characterization of organisms within complex samples without the need for prior assembly.
 
