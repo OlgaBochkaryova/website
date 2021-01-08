@@ -48,6 +48,17 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [ProgressiveMauve](http://darlinglab.org/mauve/mauve.html) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/20593022)) is a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. The alignment display is organized into one horizontal “panel” per input genome sequence. Each genome’s panel contains the name of the genome sequence, a scale showing the sequence coordinates for that genome, and a single black horizontal center line. Colored block outlines appear above and possibly below the center line. Each of these block outlines surrounds a region of the genome sequence that aligned to part of another genome, and is presumably homologous and internally free from genomic rearrangement. However, the algorithm’s compute time scales cubically in the number of genomes to align, making it unsuitable for datasets containing more than 50-100 bacterial genomes.
 
+**🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) is a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
+
+## rearrangements
+
+**🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) is a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
+
+**🔧 Web Tool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
+
+**🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) 
+
+
 ## phylogenetics
 **📄 Review**: Kapli et al. [Phylogenetic tree building in the genomic age](https://pubmed.ncbi.nlm.nih.gov/32424311/)
 
