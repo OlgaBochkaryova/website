@@ -27,9 +27,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 WebTool** [T-Coffee](http://tcoffee.crg.cat/) ([paper](http://tcoffee.crg.cat/)) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.
 
-**🔧 Tool** [MUSCLE]
-
-**🔧 Tool** [MAFFT]() 
+**🔧 Tool** [MAFFT-DASH](https://mafft.cbrc.jp/alignment/software/) ([paper](https://academic.oup.com/nar/article/47/W1/W5/5486273)) a web server that integrates structural alignments with the MAFFT multiple sequence alignment (MSA) tool.
 
 **🔧 Tool** [MASCE](https://bioweb.supagro.inra.fr/macse/) - aligns coding NT sequences with respect to their AA translation while allowing NT sequences to contain multiple frameshifts and/or stop codons. MACSE is hence the first automatic solution to align protein-coding gene datasets containing non-functional sequences (pseudogenes) without disrupting the underlying codon structure. It has also proved useful in detecting undocumented frameshifts in public database sequences and in aligning next-generation sequencing reads/contigs against a reference coding sequence.
 
