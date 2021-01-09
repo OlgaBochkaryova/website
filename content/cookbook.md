@@ -45,7 +45,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [Piggy](https://sanger-pathogens.github.io/Roary/) ([paper](https://academic.oup.com/gigascience/article/7/4/giy015/4919733))  -  a novel pipeline that emulates Roary except that it is based only on intergenic regions. A key utility provided by Piggy is the detection of highly divergent (“switched”) intergenic regions (IGRs) upstream of genes.
 
-**🔧 Tool** [PanACoTA](https://academic.oup.com/gigascience/article/7/4/giy015/4919733) - a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
+**🔧 Tool** [PanACoTA](https://github.com/gem-pasteur/PanACoTA) ([paper](https://www.biorxiv.org/content/10.1101/2020.09.11.293472v3))- a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
 
 ## whole-genome alignment
 
