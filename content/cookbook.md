@@ -86,9 +86,9 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## ancestral reconstruction
 
-**🔧 Tool** [MrBayes](https://github.com/NBISweden/MrBayes/tree/v3.2.7a) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329765/) a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
+**🔧 Tool** [MrBayes](https://github.com/NBISweden/MrBayes/tree/v3.2.7a) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329765/)) a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
 
-**🔧 Tool** [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) ([paper](https://academic.oup.com/mbe/article/24/8/1586/1103731) a package of programs for phylogenetic analyses of DNA and protein sequences using maximum likelihood (ML). The programs may be used to compare and test phylogenetic trees, but their main strengths lie in the rich repertoire of evolutionary models implemented, which can be used to estimate parameters in models of sequence evolution and to test interesting biological hypotheses.
+**🔧 Tool** [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) ([paper](https://academic.oup.com/mbe/article/24/8/1586/1103731)) a package of programs for phylogenetic analyses of DNA and protein sequences using maximum likelihood (ML). The programs may be used to compare and test phylogenetic trees, but their main strengths lie in the rich repertoire of evolutionary models implemented, which can be used to estimate parameters in models of sequence evolution and to test interesting biological hypotheses.
 
 ## visualization
 
