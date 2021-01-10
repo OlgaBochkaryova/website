@@ -53,6 +53,8 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## rearrangements
 
+**📄 Review** [Bacterial Genome Instability](https://mmbr.asm.org/content/78/1/1)
+
 **🔧 Tool** [SkewIT](https://github.com/jenniferlu717/SkewIT) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008439)) - a tool for analyzing GC Skew in bacterial genomes. GC Skew is a phenomenon observed in many bacterial genomes wherein the two strands of the chromosome contain different proportions of guanine/cytosine nucleotides. SkewIT quantifies GC Skew using a single metric that can then be compared/analyzed across thousands of bacterial genomes.
 
 **🌍 WebTool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) - a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
