@@ -92,13 +92,13 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## visualization
 
-**🌍 WebTool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🌍 WebTool** [iTOL](https://itol.embl.de/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987883/) - an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
-**🔧 Tool** [Gene Graphics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) ([paper](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx793)) - an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
+**🔧 Tool** [Gene Graphics](https://katlabs.cc/genegraphics/) ([paper](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx793)) - an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 
-**🌍 WebTool** [Biorender](https://biorender.com/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a tool to help scientists create and share professional scientific figures.
+**🌍 WebTool** [Biorender](https://biorender.com/) - a tool to help scientists create and share professional scientific figures.
 
-**🌍 WebTool** [Overleaf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
+**🌍 WebTool** [Overleaf](https://www.overleaf.com/) - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
 
 ## datasets
 
