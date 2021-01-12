@@ -82,7 +82,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [ShadowCaster](https://shadowcaster.readthedocs.io/en/latest/) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/)) - a hybrid approach that sequentially combines nucleotide composition-based predictions by support vector machines (SVMs) under the shadow of phylogenetic models independent of tree reconstruction, to improve the detection of HGT events in prokaryotes. ShadowCaster successfully predicted close and distant HGT events in bacterial genomes. Requires a lot of components (R, Perl, OrthoMCL, Blastp and EMBOSS package).
 
-**🔧 Tool** [BratNextGen](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/)([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/)) - a method for detecting homologous recombination events from whole-genome sequence data for bacterial population samples on a large scale. The approach can efficiently handle hundreds of whole genome sequenced population samples and identify separate origins of the recombinant sequence, offering an enhanced insight into the diversification of bacterial clones at the level of the whole genome.
+**🔧 Tool** [BratNextGen](http://www.helsinki.fi/bsg/software/BRAT-NextGen/)([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3245952/)) - a method for detecting homologous recombination events from whole-genome sequence data for bacterial population samples on a large scale. The approach can efficiently handle hundreds of whole genome sequenced population samples and identify separate origins of the recombinant sequence, offering an enhanced insight into the diversification of bacterial clones at the level of the whole genome.
 
 ## ancestral reconstruction
 
@@ -92,8 +92,10 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## visualization
 
-**🌍 WebTool** [iTOL](https://itol.embl.de/) [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987883/) - an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
+**🌍 WebTool** [iTOL](https://itol.embl.de/) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987883/)) - an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
+**🌍 WebTool** [Phandango](https://github.com/jameshadfield/phandango/wiki) ([paper](https://academic.oup.com/bioinformatics/article/34/2/292/4212949)) - a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results.
+ 
 **🔧 Tool** [Gene Graphics](https://katlabs.cc/genegraphics/) ([paper](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx793)) - an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 
 **🌍 WebTool** [Biorender](https://biorender.com/) - a tool to help scientists create and share professional scientific figures.
