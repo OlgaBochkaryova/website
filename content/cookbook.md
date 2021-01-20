@@ -78,6 +78,8 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🌍 WebTool** [iTOL](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13358) - an online tool for the display, annotation and management of phylogenetic trees. Allows to explore your trees directly in the browser and annotate them with various types of data.
 
+**🔧 Tool** [Treemmer](https://git.scicore.unibas.ch/TBRU/Treemmer) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2164-8)) - a tool to reduce large phylogenetic datasets with minimal loss of diversity. Treemmer can reduce the size of datasets with different phylogenetic structures and levels of redundancy while maintaining a sub-sample that is representative of the original diversity. Additionally, it is possible to fine-tune the behavior of Treemmer including any kind of meta-information, making Treemmer particularly useful for empirical studies.
+
 ## horizontal gene transfer (HGT)
 
 **🔧 Tool** [ShadowCaster](https://shadowcaster.readthedocs.io/en/latest/) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/)) - a hybrid approach that sequentially combines nucleotide composition-based predictions by support vector machines (SVMs) under the shadow of phylogenetic models independent of tree reconstruction, to improve the detection of HGT events in prokaryotes. ShadowCaster successfully predicted close and distant HGT events in bacterial genomes. Requires a lot of components (R, Perl, OrthoMCL, Blastp and EMBOSS package).
