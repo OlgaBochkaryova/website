@@ -35,7 +35,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [ProteinOrtho](https://www.bioinf.uni-leipzig.de/Software/proteinortho/) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-124)) - a tool to detect orthologous genes within different species. For doing so, it compares similarities of given gene sequences and clusters them to find significant groups. The algorithm was designed to handle large-scale data and can be applied to hundreds of species at one.
 
-**💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943))
+**💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943)) - a method and database for the inference of orthologs among complete genomes. 
 
 
 ## pangenomics
