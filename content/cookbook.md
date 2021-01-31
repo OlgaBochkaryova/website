@@ -31,13 +31,18 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [MACSE](https://bioweb.supagro.inra.fr/macse/) - a tool aligns coding NT sequences with respect to their AA translation while allowing NT sequences to contain multiple frameshifts and/or stop codons. MACSE is hence the first automatic solution to align protein-coding gene datasets containing non-functional sequences (pseudogenes) without disrupting the underlying codon structure. It has also proved useful in detecting undocumented frameshifts in public database sequences and in aligning next-generation sequencing reads/contigs against a reference coding sequence.
 
+## orthologs
+
+**🔧 Tool** [ProteinOrtho](https://www.bioinf.uni-leipzig.de/Software/proteinortho/) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-124)) - a tool to detect orthologous genes within different species. For doing so, it compares similarities of given gene sequences and clusters them to find significant groups. The algorithm was designed to handle large-scale data and can be applied to hundreds of species at one.
+
+**💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943))
+
+
 ## pangenomics
 
 **📄 Review** Costa, Sávio & Guimarães, Luís & Silva, Artur & Soares, Siomar & Baraúna, Rafael. (2020). [First Steps in the Analysis of Prokaryotic Pan-Genomes](https://journals.sagepub.com/doi/full/10.1177/1177932220938064). Bioinformatics and Biology Insights. 14. 117793222093806. 10.1177/1177932220938064
 
 **📖 Book** The Pangenome: Diversity, Dynamics and Evolution of Genomes. Editors: Tettelin, Hervé, Medini, Duccio (Eds.) (2020)
-
-**🔧 Tool** [ProteinOrtho](https://www.bioinf.uni-leipzig.de/Software/proteinortho/) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-124)) - a tool to detect orthologous genes within different species. For doing so, it compares similarities of given gene sequences and clusters them to find significant groups. The algorithm was designed to handle large-scale data and can be applied to hundreds of species at one.
 
 **🔧 Tool** [Roary](https://sanger-pathogens.github.io/Roary/) ([paper](https://academic.oup.com/bioinformatics/article/31/22/3691/240757)) - a tool that rapidly builds large-scale pan genomes, identifying the core and accessory genes. Roary makes construction of the pan genome of thousands of prokaryote samples possible on a standard desktop without compromising on the accuracy of results.
 
@@ -68,7 +73,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [RAxML](https://github.com/stamatak/standard-RAxML) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998144/)) - a popular program for phylogenetic analyses of large datasets under maximum likelihood with substantial extension of substitution models and supported data types, the introduction of SSE3, AVX and AVX2 vector intrinsics, techniques for reducing the memory requirements of the code and a plethora of operations for conducting post-analyses on sets of trees.
 
-**🔧 Tool** [MrBayes](https://github.com/NBISweden/MrBayes/tree/v3.2.7a) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329765/) - a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
+**🔧 Tool** [MrBayes](https://github.com/NBISweden/MrBayes/tree/v3.2.7a) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329765/)) - a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
 
 **🔧 Tool** [PhaME](https://github.com/LANL-Bioinformatics/PhaME) ([paper](https://www.nature.com/articles/s41598-020-58356-1)) - phylogenetic and molecular evolutionary analysis from sequencing reads, draft assemblies or completed genomes of closely related organisms. Rapid phylogenetic characterization of organisms within complex samples without the need for prior assembly.
 
