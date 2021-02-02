@@ -5,6 +5,21 @@ Tools, packages and software for bacterial genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
+## databases
+
+**💾 Data** [NCBI](https://www.ncbi.nlm.nih.gov/)  a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.
+
+**💾 Data** [PDB](https://www.rcsb.org/)  is powered by the Protein Data Bank archive-information about the 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health and disease.
+
+**💾 Data** [COG](https://www.ncbi.nlm.nih.gov/research/cog) ([paper2020](https://academic.oup.com/nar/article/49/D1/D274/5964069)) - release of 4877 Clusters of Orthologous Genes. The database covers complete genomes of 1187 bacteria and 122 archaea, typically, with a single genome per genus.
+
+**💾 Data** [KEGG](https://www.genome.jp/kegg/pathway.html) ([paper](https://academic.oup.com/nar/article/44/D1/D457/2502600)) - an integrated database resource for biological interpretation of genome sequences and other high-throughput data. Molecular functions of genes and proteins are associated with ortholog groups and stored in the KEGG Orthology (KO) database.
+
+**💾 Data** [UNIPROT](https://www.uniprot.org/) ([paper](https://academic.oup.com/nar/article/47/D1/D506/5160987)) -  a freely accessible database of protein sequence and functional information, many entries being derived from genome sequencing projects. It contains a large amount of information about the biological function of proteins derived from the research literature.
+  
+**💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943)) - a method and database for the inference of orthologs among complete genomes.
+
+
 ## assemblers
 
 **🔧 Tool** [SPAdes assembler](https://github.com/ablab/spades) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/)) - an assembly toolkit containing various assembly pipelines.
@@ -21,7 +36,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🌍 WebTool** [PaperBLAST](https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi) ([paper](https://msystems.asm.org/content/2/4/e00039-17))  -  web tool uses EuropePMC to search the full text of scientific articles for references to genes. PaperBLAST also takes advantage of curated resources (Swiss-Prot, GeneRIF, and EcoCyc) that link protein sequences to scientific articles. PaperBLAST’s database includes over 700,000 scientific articles that mention over 400,000 different proteins. Given a protein of interest, PaperBLAST quickly finds similar proteins that are discussed in the literature and presents snippets of text from relevant articles or from the curators.
 
-<!-- ## databases -->
+**🌍 WebTool** [InterProScan](https://www.ebi.ac.uk/interpro/search/sequence/) ([paper]()) - a resource that provides functional analysis of protein sequences by classifying them into families and predicting the presence of domains and important sites. To classify proteins in this way, InterPro uses predictive models, known as signatures, provided by several collaborating databases (referred to as member databases) that collectively make up the InterPro consortium. A key value of InterPro is that it combines protein signatures from these member databases into a single searchable resource, capitalising on their individual strengths to produce a powerful integrated database and diagnostic tool. InterPro integrates signatures from the following 13 member databases: CATH, CDD, HAMAP, MobiDB Lite, Panther, Pfam, PIRSF, PRINTS, Prosite, SFLD, SMART, SUPERFAMILY AND TIGRfams. 
 
 ## alignments
 
