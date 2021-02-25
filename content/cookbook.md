@@ -19,6 +19,8 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
   
 **💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943)) - a method and database for the inference of orthologs among complete genomes.
 
+**💾 Data** [DoriC](http://tubic.org/doric/public/index.php) ([paper](https://academic.oup.com/nar/article/47/D1/D74/5144951)) - a database of replication origins including chromosomes and plasmid. It was initially created to present the bacterial oriCs predicted by Ori-Finder or determined by experiments. Current release contains (i) inclusion of oriCs on more bacterial chromosomes increased from 1633 to 7580; (ii) inclusion of oriCs on more archaeal chromosomes increased from 86 to 226; (iii) inclusion of 1209 plasmid replication origins retrieved from NCBI annotations or predicted by in silico analysis; (iv) inclusion of more replication origin elements on bacterial chromosomes including DnaA-trio motifs.
+
 ## assemblers
 
 **🔧 Tool** [SPAdes assembler](https://github.com/ablab/spades) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/)) - an assembly toolkit containing various assembly pipelines.
@@ -78,7 +80,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🌍 WebTool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) - a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
 
-**🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) 
+**🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) - a tool takes synteny blocks and a phylogenetic tree as input and outputs rearrangement events, such as inversions, insertions, deletions and multiplications, sorted by their parallelism score. PaReBrick is written in Python and is available on GitHub.
 
 
 ## phylogenetics
