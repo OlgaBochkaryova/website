@@ -7,9 +7,9 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 ## databases
 
-**💾 Data** [NCBI](https://www.ncbi.nlm.nih.gov/)  a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.
+**💾 Data** [NCBI](https://www.ncbi.nlm.nih.gov/) - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.
 
-**💾 Data** [PDB](https://www.rcsb.org/)  is powered by the Protein Data Bank archive-information about the 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health and disease.
+**💾 Data** [PDB](https://www.rcsb.org/) - Protein Data Bank, archive-information about the 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health and disease.
 
 **💾 Data** [COG](https://www.ncbi.nlm.nih.gov/research/cog) ([paper2020](https://academic.oup.com/nar/article/49/D1/D274/5964069)) - release of 4877 Clusters of Orthologous Genes. The database covers complete genomes of 1187 bacteria and 122 archaea, typically, with a single genome per genus.
 
@@ -18,7 +18,6 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 **💾 Data** [UNIPROT](https://www.uniprot.org/) ([paper](https://academic.oup.com/nar/article/47/D1/D506/5160987)) -  a freely accessible database of protein sequence and functional information, many entries being derived from genome sequencing projects. It contains a large amount of information about the biological function of proteins derived from the research literature.
   
 **💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943)) - a method and database for the inference of orthologs among complete genomes.
-
 
 ## assemblers
 
@@ -111,6 +110,11 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 **🔧 Tool** [MrBayes](https://github.com/NBISweden/MrBayes/tree/v3.2.7a) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329765/)) - a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
 
 **🔧 Tool** [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) ([paper](https://academic.oup.com/mbe/article/24/8/1586/1103731)) - a package of programs for phylogenetic analyses of DNA and protein sequences using maximum likelihood (ML). The programs may be used to compare and test phylogenetic trees, but their main strengths lie in the rich repertoire of evolutionary models implemented, which can be used to estimate parameters in models of sequence evolution and to test interesting biological hypotheses.
+
+## GO enrichment
+
+**📦 R Package** [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) ([documentation]()) - a tool set for testing GO terms while accounting for the topology of the GO graph. Different test statistics and different methods for eliminating local similarities and dependencies between GO terms can be implemented and applied.
+
 
 ## visualization
 
