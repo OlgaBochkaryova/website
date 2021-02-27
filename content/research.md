@@ -19,6 +19,7 @@ title: "Research"
 
 ## Publications:
 
+- Alexey Zabelkin, Yulia Yakovleva, **Olga O Bochkareva**^, Nikita Alexeev^. PaReBrick: PArallel REarrangements andBReakpoints identification toolkit. In preparation
 - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Nikita Alexeev, Mikhail S Gelfand, **Olga O Bochkareva**. Genome evolution and pathoadaptation of _Shigella_ bioRxiv. 2020 [(DOI)](https://doi.org/10.1101/2020.06.12.147751).
 - Olga Sigalova, Andrei V Chaplin, **Olga O Bochkareva**, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand. _Chlamydia_ pan-genomic analysis reveals balance between host adaptation and selective pressure to genome reduction. BMC Genomics. 2019 Sep 12;20(1):710. [(DOI)](https://doi.org/10.1186/s12864-019-6059-5).
 - Pavel V Shelyakin, **Olga O Bochkareva**, Anna A Karan, Mikhail S Gelfand. Micro-evolution of three _Streptococcus_ species: selection, antigenic variation, and horizontal gene inflow. BMC Evol. Biol. 2019. Mar 27;19(1):83. [(DOI)](https://doi.org/10.1186/s12862-019-1403-6).

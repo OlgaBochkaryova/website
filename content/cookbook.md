@@ -64,7 +64,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [Piggy](https://github.com/harry-thorpe/piggy) ([paper](https://academic.oup.com/gigascience/article/7/4/giy015/4919733)) - a novel pipeline that emulates Roary except that it is based only on intergenic regions. A key utility provided by Piggy is the detection of highly divergent (“switched”) intergenic regions (IGRs) upstream of genes.
 
-**🔧 Tool** [PanACoTA](https://github.com/gem-pasteur/PanACoTA) ([paper](https://www.biorxiv.org/content/10.1101/2020.09.11.293472v3)) - a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
+**🔧 Tool** [PanACoTA](https://github.com/gem-pasteur/PanACoTA) ([paper](https://academic.oup.com/nargab/article/3/1/lqaa106/6090162)) - a tool that allows to download all genomes of a species, build a database with those passing quality and redundancy controls, define uniform annotation, and use them to build a pangenome, several variants of core or persistent genomes, their alignments, and a rapid but accurate phylogenetic tree. While many programs have become available in the last few years to build pangenomes, we have focused on a method that tackles all the key steps of the process, from download to phylogenetic inference.
 
 ## whole-genome alignment
 
@@ -80,8 +80,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🌍 WebTool** [YASS](https://bioinfo.lifl.fr/yass/yass.php) ([paper](https://nar.oxfordjournals.org/cgi/content/abstract/33/suppl_2/W540)) - a DNA local alignment tool based on an efficient and sensitive filtering algorithm. It applies transition-constrained seeds to specify the most probable conserved motifs between homologous sequences, combined with a flexible hit criterion used to identify groups of seeds that are likely to exhibit significant alignments.
 
-**🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) - a tool takes synteny blocks and a phylogenetic tree as input and outputs rearrangement events, such as inversions, insertions, deletions and multiplications, sorted by their parallelism score. PaReBrick is written in Python and is available on GitHub.
-
+**🔧 Tool** [PAREBRICK](https://pypi.org/project/PaReBrick/) ([paper]) - a  tool  to  identify  parallelrearrangements in bacterial population. It takes synteny blocks and a phylogenetic tree as input and outputs rearrangement events, such as inversions, insertions, deletions and multiplications. The tool tests each rearrangement for consistency with a tree and sorts the events by their parallelism score. As various molecular mechanisms might be responsible for variations in blocks content,  the tool provides diagrams of the neighbors for each block of interest allowing the detection of horizontally transferred blocks or its extra copies as well as the inversions in which copied blocks are involved.
 
 ## phylogenetics
 
