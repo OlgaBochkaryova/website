@@ -7,7 +7,7 @@ title: "Research"
 - Genetic factors under biofilms formation in pathogenic _E.coli_
 - Development of the bioinformatic toolkit for rearrangement analysis
 - Role of gene paralogs in bacterial chromosome maintainance
-- Origin of multipartite genomes
+- Evolution of multipartite genomes
 - Classification of _ipaH_ effectors in _Shigella_
 
 ## Collaborations:
@@ -20,10 +20,8 @@ title: "Research"
 ## Publications:
 [ <sup>#</sup> -- equal contribution. ]
 
-
-
-- Alexey Zabelkin, Yulia Yakovleva, **Olga O Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements andBReakpoints identification toolkit. In preparation [tool](https://github.com/ctlab/parallel-rearrangements) 
-- Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga O Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. BioRxiv 2020 [(DOI)](https://doi.org/10.1101/2020.06.12.147751). Accepted to Frontiers Microbiology
+- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit. In press [tool](https://github.com/ctlab/parallel-rearrangements) 
+- Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. BioRxiv 2020 [(DOI)](https://doi.org/10.1101/2020.06.12.147751). Accepted to Frontiers Microbiology
 - Olga Sigalova, Andrei V Chaplin, **Olga O Bochkareva**, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand. _Chlamydia_ pan-genomic analysis reveals balance between host adaptation and selective pressure to genome reduction. BMC Genomics. 2019 Sep 12;20(1):710. [(DOI)](https://doi.org/10.1186/s12864-019-6059-5).
 - Pavel V Shelyakin<sup>#</sup>, **Olga O Bochkareva**<sup>#</sup>, Anna A Karan, Mikhail S Gelfand. Micro-evolution of three _Streptococcus_ species: selection, antigenic variation, and horizontal gene inflow. BMC Evol. Biol. 2019. Mar 27;19(1):83. [(DOI)](https://doi.org/10.1186/s12862-019-1403-6).
 - **Olga O Bochkareva**, Elena V Moroz, Iakov I Davydov, Mikhail S Gelfand. Genome rearrangements and selection in multi-chromosome bacteria _Burkholderia_ spp. BMC Genomics. 2018 Dec 27;19(1):965. [(DOI)](https://doi.org/10.1186/s12864-018-5245-1).
