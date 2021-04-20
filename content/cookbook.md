@@ -21,6 +21,10 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **💾 Data** [DoriC](http://tubic.org/doric/public/index.php) ([paper](https://academic.oup.com/nar/article/47/D1/D74/5144951)) - a database of replication origins including chromosomes and plasmid. It was initially created to present the bacterial oriCs predicted by Ori-Finder or determined by experiments. Current release contains (i) inclusion of oriCs on more bacterial chromosomes increased from 1633 to 7580; (ii) inclusion of oriCs on more archaeal chromosomes increased from 86 to 226; (iii) inclusion of 1209 plasmid replication origins retrieved from NCBI annotations or predicted by in silico analysis; (iv) inclusion of more replication origin elements on bacterial chromosomes including DnaA-trio motifs.
 
+**💾 Data** [PHI-base](https://academic.oup.com/nar/article/48/D1/D613/5626528) ([host-pathogen_interactions](http://www.phi-base.org/)) - a database of host-pathogen and related species interactions, and their global distribution.
+
+**💾 Data**  [PATRIC](https://www.patricbrc.org/) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965095/)) - the all-bacterial Bioinformatics Resource Center (BRC) that provides researchers with an online resource that stores and integrates a variety of data types [e.g. genomics, transcriptomics, protein–protein interactions (PPIs), three-dimensional protein structures and sequence typing data] and associated metadata.
+
 ## assemblers
 
 **🔧 Tool** [SPAdes assembler](https://github.com/ablab/spades) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/)) - an assembly toolkit containing various assembly pipelines.
