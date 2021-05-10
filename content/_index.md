@@ -21,7 +21,7 @@ ISTplus postdoctoral fellowship, funding from the European Union’s Horizon 202
 - architecture and evolution of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species.
 - evolution of protein sequences and operons structure.
 - evolution of bacterial communities: pan-genome, metagenomics, taxonomy.
-- pathoadaptation, microbe-host interactions, extracellular pathogens
+- pathoadaptation, microbe-host interactions, intracellular pathogens
 - evolution of complexity
 
 (more [details](/research/))
