@@ -20,7 +20,7 @@ title: "Research"
 ## Publications:
 [ <sup>#</sup> -- equal contribution. ]
 
-- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit. Bioarxiv [DOI](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1) 
+- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit. Bioarxiv 2021 May 20 [DOI](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1) 
 - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. [(DOI)](https://doi.org/10.3389/fmicb.2021.628622)
 - Olga Sigalova, Andrei V Chaplin, **Olga O Bochkareva**, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand. _Chlamydia_ pan-genomic analysis reveals balance between host adaptation and selective pressure to genome reduction. BMC Genomics. 2019 Sep 12;20(1):710. [(DOI)](https://doi.org/10.1186/s12864-019-6059-5).
 - Pavel V Shelyakin<sup>#</sup>, **Olga O Bochkareva**<sup>#</sup>, Anna A Karan, Mikhail S Gelfand. Micro-evolution of three _Streptococcus_ species: selection, antigenic variation, and horizontal gene inflow. BMC Evol. Biol. 2019. Mar 27;19(1):83. [(DOI)](https://doi.org/10.1186/s12862-019-1403-6).
