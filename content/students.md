@@ -8,8 +8,8 @@ title: "Students"
 - Tatiana Laskina, Master thesis, MSU
 
 ## 2019-2020
-- Yulia Yakovleva, term paper, Bioinformatics Institute
-- Alexey Zabelkin, term paper, Bioinformatics Institute
+- Yulia Yakovleva, term paper, Bioinformatics Institute [article](https://doi.org/10.3389/fmicb.2021.628622) 
+- Alexey Zabelkin, term paper, Bioinformatics Institute [article](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1) 
 - Kristina Perevoshchikova, term paper, MSU
 
 ## 2018-2019
