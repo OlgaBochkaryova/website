@@ -1,25 +1,21 @@
 ---
-title: "Team"
+title: "Supervised students"
 ---
 
-### 2020-2021
-- Ariadna Semenova, term paper, MSU
-- Ivan Chernykh, term paper, MSU
-- Tatiana Laskina, Master thesis, MSU
+## Master:
+**2019** Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
 
-### 2019-2020
-- Yulia Yakovleva, term paper, Bioinformatics Institute [article](https://doi.org/10.3389/fmicb.2021.628622) 
-- Alexey Zabelkin, term paper, Bioinformatics Institute [article](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1) 
-- Kristina Perevoshchikova, term paper, MSU
+## Bachelor:
+**2018v Natalia Dranenko, MIPT, Moscow, Russia, in Russian
 
-### 2018-2019
-- Zaira Seferbekova, term paper, MSU  [(article)](https://doi.org/10.1101/2020.06.12.147751)
-- Moldir Zhiyenbayeva, Master thesis, HSE
+## Term papers:
+**2020** Yulia Yakovleva Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.3389/fmicb.2021.628622)
+**2020** Alexey Zabelkin Bioinformatics Institute, Moscow, Russia [paper](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
+**2020** Kristina Perevoshchikova, Moscow State University, Moscow, Russia
+**2019** Zaira Seferbekova, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
+**2017** Anna Karan, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
 
-### 2017-2018
-
-- Natalia Dranenko, bachelor thesis, MIPT
-
-### 2016-2017
-
-- Anna Karan, term paper, MSU [(article)](https://doi.org/10.1186/s12862-019-1403-6)
+## Ongoing
+Ariadna Semenova, term paper, Moscow State University, Moscow, Russia
+Ivan Chernykh, term paper, Moscow State University, Moscow, Russia
+Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia
