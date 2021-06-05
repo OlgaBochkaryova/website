@@ -1,7 +1,7 @@
 ---
 title: "BioInf CookBook"
 ---
-Tools, packages and software for bacterial genomics.
+Tools and packages for bacterial genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 

@@ -7,9 +7,11 @@ title: "My awesome title"
   <img src="/me2.jpg" alt="my photo" class="img-av">
 </div>
 
-  **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria. ([Google Scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao) profile)
+  **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria
 
-  **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en) ([more](/teaching/))
+  **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en)
+
+  
 
   _Computational biology, Genomics, Molecular Evolution_
 

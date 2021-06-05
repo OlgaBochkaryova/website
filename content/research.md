@@ -13,7 +13,7 @@ title: "Research"
 ## Publications:
 [ <sup>#</sup> -- equal contribution. ]
 
-- Natalia Dranenko, Maria Tutukina, **Olga Bochkareva** Classification of _ipaH_ genes family in pathogenic _Escherichia_ In preparation
+- Natalia Dranenko, Maria Tutukina, **Olga Bochkareva** Classification of _ipaH_ effectors in pathogenic _Escherichia_ In preparation
 - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit. Bioarxiv 2021 May 20 [DOI](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1) 
 - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. [(DOI)](https://doi.org/10.3389/fmicb.2021.628622)
 - Viktoriia Oshurkova, Olga Troshina, Vladimir Trubitsyn, Yana Ryzhmanova, **Olga Bochkareva**, Viktoria Shcherbakova. "Characterization of _Methanosarcina mazei_ JL01 Isolated from Holocene Arctic Permafrost and Study of the Archaeon Cooperation with Bacterium _Sphaerochaeta associata_ GLS2T" Proceedings 2020; 66(1):4. [DOI](ttps://doi.org/10.3390/proceedings2020066004)

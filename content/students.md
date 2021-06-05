@@ -13,15 +13,15 @@ title: "Supervised students"
 
 **2017** Anna Karan, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
 
-## Master:
+## Masters:
 
 **2019** Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
 
-## Bachelor:
+## Bachelors:
 
 **2018** Natalia Dranenko, MIPT, Moscow, Russia, in Russian
 
-## Ongoing
+## Ongoing:
 - Ariadna Semenova, term paper, Moscow State University, Moscow, Russia
 - Ivan Chernykh, term paper, Moscow State University, Moscow, Russia
 - Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia
