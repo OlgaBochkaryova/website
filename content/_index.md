@@ -7,11 +7,10 @@ title: "My awesome title"
   <img src="/me2.jpg" alt="my photo" class="img-av">
 </div>
 
-  **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria
+  **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria, since 2019
 
-  **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en)
+  **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en), since 2020
 
-  
 
   _Computational biology, Genomics, Molecular Evolution_
 
@@ -30,5 +29,5 @@ ISTplus postdoctoral fellowship, funding from the European Union’s Horizon 202
 
 ## Education
 
-- **Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS (2012). PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
+- **Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS (2019). PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
 - **Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (2012; BSc in 2010).
