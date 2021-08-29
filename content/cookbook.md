@@ -120,6 +120,13 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **🔧 Tool** [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) ([paper](https://academic.oup.com/mbe/article/24/8/1586/1103731)) - a package of programs for phylogenetic analyses of DNA and protein sequences using maximum likelihood (ML). The programs may be used to compare and test phylogenetic trees, but their main strengths lie in the rich repertoire of evolutionary models implemented, which can be used to estimate parameters in models of sequence evolution and to test interesting biological hypotheses.
 
+## evolutionary rates
+
+**🔧 Tool** [ETE](http://etetoolkit.org/documentation/ete-evol/) - a tool that automates CodeML and Slr analyses by using pre-configured evolutionary models and directly producing a graphical representation of the results.
+
+**🔧 Tool** [ProtParCon])(https://pypi.org/project/ProtParCon/) ([paper](doi: 10.1093/molbev/msw046)) - an application framework for manipulating molecular data and identifying parallel and convergent amino acid replacements at the molecular level. Although ProtParCon was not designed for implementing new methods or algorithms for molecular data manipulation, ProtParCon integrates several widely used programs for multiple sequence alignment (MSA), ancestral states reconstruction (ASR), protein sequence simulation, Maximum-Likelihood tree inference (ML Tree) and molecular convergence identification. Therefore, it can be used as a general tool to do MSA, ASR, and simulation under a common interface by using various pre-existed programs under hood.
+
+
 ## GO enrichment
 
 **📦 R Package** [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) ([documentation]()) - a tool set for testing GO terms while accounting for the topology of the GO graph. Different test statistics and different methods for eliminating local similarities and dependencies between GO terms can be implemented and applied.
