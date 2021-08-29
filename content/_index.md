@@ -24,7 +24,7 @@ title: "My awesome title"
 - pathoadaptation, microbe-host interactions, intracellular pathogens
 - evolution of complexity
 
-## Funding
+## Awards
 ISTplus postdoctoral fellowship, funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
 
 ## Education
