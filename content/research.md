@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-*A short description of the projects I am supervising:*
+*A short description of the projects I am initiated and working on:*
 
 ### Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
 
