@@ -5,7 +5,7 @@ title: "Research"
 
 ### Development of the bioinformatic toolkit for detection of large-scale variants in bacteria
 
-*collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany*
+*A collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany*
 
 <div class="col-left">
   <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
