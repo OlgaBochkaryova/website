@@ -12,7 +12,7 @@ title: "Teaching"
 
 The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field. Practice part comprises a set of home assignments which would require basic programming skills. The participants will get an overview of evolutionary processes at genome level and be able to analyze the genomic data in the context of both theoretical and practical genomics problems.
 
-[sylabus]()
+[syllabus]()
 
 **Open / invited lectures**
 
