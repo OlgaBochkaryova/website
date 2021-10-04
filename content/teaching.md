@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## Courses
+### Courses
 
 **Comparative Genomics of Prokaryotes**
 
@@ -13,14 +13,15 @@ Taught at:
 **2020 autumn term** Bioinformatics Institute (St Petersburg, Russia), in Russian, online
 **2021 autumn term** IST Austria (Klosterneuburg, Austria), in English
 
-## Open / invited lectures
+### Open / invited lectures
 **2020** [Structure and evolution of bacterial chromosomes](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) (video, in Russian) -- Bioinformatics Institute Open Lectures.
 **2020** [Comparative genomics of prokaryotes, cookbook](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) (video, in Russian) -- Summer School of Bioinformatics Institute.
 
 
-## Projects for School of Theoretical and Molecular Biology
+### Projects for School of Theoretical and Molecular Biology
 There is an [initiative](https://molbioschool.org/) by Dr. Kondrashov and Co. to let high-school students participate in real scientific research. Supervised projects:
 
+- 2021 [Evolution of genome complexity: Are bacteria as trivial as we expect?](https://molbioschool.org/en/archive/10/)
 - 2020 [Effectors' evolution in pathogenic _E.coli_](https://molbioschool.org/en/archive/9/)
 - 2019 [Mystery of the secondary chromosome](https://molbioschool.org/media/archive/school2019/77-laboratory-of-bacterial-and-functional-genomics/Poster_Gelfand_1_Boc_KToYuq1.pdf)
 - 2019 [Extinction of the secondary chromosome](https://molbioschool.org/media/archive/school2019/77-laboratory-of-bacterial-and-functional-genomics/Poster_Gelfand_3_Boc_9fSM6n3.pdf)

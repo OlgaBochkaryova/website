@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-*A short description of the projects I am initiated and working on:*
+*My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
 ### Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
 
@@ -40,6 +40,8 @@ mostly pathogens and plant symbionts, have essential megaplasmids and/or chromid
 under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 
 [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+
+### Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
 
 *A collaboration with Dr. Nikita Alexeyev, Russia
 
