@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-*A short description of the current projects I am supervising:*
+*A short description of the projects I am supervising:*
 
 ### Development of the bioinformatic toolkit for detection and analysis of large-scale variants in bacteria
 
