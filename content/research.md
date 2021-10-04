@@ -3,7 +3,7 @@ title: "Research"
 ---
 *A short description of the projects I have initiated and\or supervised:*
 
-### Development of the bioinformatic toolkit for detection of large-scale variants in bacteria
+### Development of the bioinformatic toolkit for detection nd analysis of large-scale variants in bacteria
 
 *A collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany*
 
