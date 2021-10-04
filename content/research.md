@@ -1,9 +1,9 @@
 ---
 title: "Research"
 ---
-*A short description of the projects I have initiated and\or supervised:*
+*A short description of the current projects I am supervising:*
 
-### Development of the bioinformatic toolkit for detection nd analysis of large-scale variants in bacteria
+### Development of the bioinformatic toolkit for detection and analysis of large-scale variants in bacteria
 
 *A collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany*
 
@@ -62,4 +62,4 @@ under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 ### Other collaborative projects:
 - ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
 with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
-- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes**, with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
