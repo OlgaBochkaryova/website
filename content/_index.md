@@ -11,21 +11,23 @@ title: "My awesome title"
 
   **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en), since 2020
 
-
   _Computational biology, Genomics, Molecular Evolution_
+  
 
-## Research interests
-- architecture and evolution of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species.
-- evolution of protein sequences and operons structure.
-- evolution of bacterial communities: pan-genome, metagenomics, taxonomy.
-- pathoadaptation, microbe-host interactions, intracellular pathogens
-- evolution of complexity
+### Research interests
+My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution.
 
-## Awards
-ISTplus postdoctoral fellowship, funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
+My [current projects](https://www.bochkareva.me/research/) are focused on:
+- architecture of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species;
+- evolution of virulence factor, plasmids, antibiotic resistance; microbe-host interactions;
+- evolution of bacterial communities: pan-genomics, metagenomics, taxonomy.
 
-## Education
 
-**Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS (2019). PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
+### Awards
+**2019** [ISTplus postdoctoral fellowship](https://istplus.pages.ist.ac.at/), funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
 
-**Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (2012; BSc in 2010).
+### Education
+
+**2019 Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS. PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
+
+**2012 Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (BSc in 2010).

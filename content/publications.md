@@ -4,10 +4,6 @@ title: "Publications"
 
 [ <sup>#</sup> -- equal contribution. ]
 
-### Preprints / papers in preparation
-
-- Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov **Olga Bochkareva** Comparative genomic of ipaH effectors of pathogenic _Escherichia_ from different hosts In preparation
-
 ### Peer-revierew publications
 
 - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
@@ -17,7 +13,11 @@ title: "Publications"
 - **Olga O Bochkareva**, Elena V Moroz, Iakov I Davydov, Mikhail S Gelfand. Genome rearrangements and selection in multi-chromosome bacteria _Burkholderia_ spp. BMC Genomics. 2018 Dec 27;19(1):965. [(DOI)](https://doi.org/10.1186/s12864-018-5245-1)
 - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. PeerJ. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
 
-## Conference proceedings:
+### Preprints / papers in preparation
+
+- Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov **Olga Bochkareva** Comparative genomic of ipaH effectors of pathogenic _Escherichia_ from different hosts In preparation
+
+### Conference proceedings:
 
 - Kristina Y. Perevoshchikova , Vera Emelianenko , Mikhail S. Gelfand , Fyodor Kondrashov, **Olga O. Bochkareva** Evolutionary benefits of bacterial genomes with chromids Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 - Ariadna A Semenova, **Olga O Bochkareva** Insertion sequences in B. mallei: adaptation to intracellular lifestyle Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)

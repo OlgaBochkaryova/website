@@ -1,6 +1,7 @@
 ---
 title: "Research"
 ---
+*A short description of the projects I have initiated and\or supervised:*
 
 ### Development of the bioinformatic toolkit for detection of large-scale variants in bacteria
 
@@ -59,6 +60,6 @@ under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 
 ### Other collaborative projects:
-- (2020-present) Genetic factors under biofilms formation in pathogenic _E.coli_
-with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria *Tutukina, Russia*
-- (2016-2018) **Positive selection and horizontal gene transfer in prokaryotes**, with Evolutionary Bioinformatics Lab, Prof. Marc Robinson-Rechavi, Department of Ecology and Evolution, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+- ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
+with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
+- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes**, with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
