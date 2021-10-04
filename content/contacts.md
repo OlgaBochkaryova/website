@@ -8,4 +8,4 @@ title: "Contact"
 
 **Web page:** [current lab](https://ist.ac.at/en/research/kondrashov-group/)
 
-**List of all publications:** 	https://orcid.org/0000-0003-1006-6639
+**ORCID:** 	0000-0003-1006-6639

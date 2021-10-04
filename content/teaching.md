@@ -10,15 +10,15 @@ The course covers basic and advanced topics of comparative genomics necessary fo
 
 Taught at:
 
-- Bioinformatics Institute (St Petersburg, Russia), autumn term, in Russian, online
-- IST Austria (Klosterneuburg, Austria), spring term, in English
+**2020 autumn term** Bioinformatics Institute (St Petersburg, Russia), in Russian, online
+**2021 autumn term** IST Austria (Klosterneuburg, Austria), in English
 
 ## Open / invited lectures
-- [Structure and evolution of bacterial chromosomes](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) (video, in Russian) -- Bioinformatics Institute Open Lectures, 2020.
-- [Comparative genomics of prokaryotes, cookbook](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) (video, in Russian) -- Summer School of Bioinformatics Institute, 2020.
+**2020** [Structure and evolution of bacterial chromosomes](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) (video, in Russian) -- Bioinformatics Institute Open Lectures.
+**2020** [Comparative genomics of prokaryotes, cookbook](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) (video, in Russian) -- Summer School of Bioinformatics Institute.
 
 
-## Student projects for School of Theoretical and Molecular Biology
+## Projects for School of Theoretical and Molecular Biology
 There is an [initiative](https://molbioschool.org/) by Dr. Kondrashov and Co. to let high-school students participate in real scientific research. Supervised projects:
 
 - 2020 [Effectors' evolution in pathogenic _E.coli_](https://molbioschool.org/en/archive/9/)

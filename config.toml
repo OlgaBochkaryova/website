@@ -23,21 +23,25 @@ theme = "desk"
     url = "/research/"
     weight = 2
   [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.main]]
     name = "Teaching"
     url = "/teaching/"
     weight = 4
   [[menu.main]]
     name = "Students"
     url = "/students/"
-    weight = 3
-  [[menu.main]]
-    name = "BioInf CookBook"
-    url = "/cookbook/"
     weight = 5
+  [[menu.main]]
+    name = "CookBook"
+    url = "/cookbook/"
+    weight = 6
   [[menu.main]]
     name = "Contact"
     url = "/contacts/"
-    weight = 6
+    weight = 7
 
   # Icons menu
   [[menu.side]]

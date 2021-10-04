@@ -14,9 +14,6 @@ title: "My awesome title"
 
   _Computational biology, Genomics, Molecular Evolution_
 
-
-
-
 ## Research interests
 - architecture and evolution of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species.
 - evolution of protein sequences and operons structure.
@@ -29,5 +26,6 @@ ISTplus postdoctoral fellowship, funding from the European Union’s Horizon 202
 
 ## Education
 
-- **Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS (2019). PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
-- **Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (2012; BSc in 2010).
+**Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS (2019). PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
+
+**Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (2012; BSc in 2010).

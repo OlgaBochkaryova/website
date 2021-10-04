@@ -1,7 +1,6 @@
 ---
-title: "BioInf CookBook"
+title: "Collection of tools and packages for bacterial genomics"
 ---
-Tools and packages for bacterial genomics.
 
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 
@@ -26,6 +25,8 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 **💾 Data** [BacDive](http://bacdive.dsmz.de) ([paper](https://academic.oup.com/nar/article/47/D1/D631/5106998)) -  a comprehensive resource for structured data on the taxonomy, morphology, physiology, cultivation, isolation and molecular data of prokaryotes. The database offers information for 63 669 bacterial and archaeal strains
 
 **💾 Data**  [PATRIC](https://www.patricbrc.org/) ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965095/)) - the all-bacterial Bioinformatics Resource Center (BRC) that provides researchers with an online resource that stores and integrates a variety of data types [e.g. genomics, transcriptomics, protein–protein interactions (PPIs), three-dimensional protein structures and sequence typing data] and associated metadata.
+
+**💾 Data** [ProGenomes](https://progenomes.embl.de/) provides 84,096 consistently annotated bacterial and archaeal genomes from over 12000 species. These can be interactively explored and downloaded, whereby subsets can be customized e.g. taxonomic clades, representatives of each species or habitat-specific subsets. For each species cluster, precomputed pangenomes are available. In this update, genomes flagged for contamination were removed to provide a higher quality dataset. 
 
 ## assemblers
 
