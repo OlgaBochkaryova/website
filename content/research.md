@@ -3,26 +3,6 @@ title: "Research"
 ---
 *A short description of the projects I am supervising:*
 
-### Development of the bioinformatic toolkit for detection and analysis of large-scale variants in bacteria
-
-*A collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany*
-
-<div class="col-left">
-  <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
-</div>
-
-**The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes.**
-We have developed a strategy for extract information form genomic data to detect parallel
-rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic
-resistance mechanisms and formation of small colony variants, and the
-study of the selective forces in genomic evolution underlying complex
-phenotypes. The application of this approach and the concomitant
-understanding of connections between detected genome rearrangements
-and medically-relevant phenotypes may contribute to the efficient
-development of drugs and vaccines.
-
-[PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
-
 ### Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
 
 <div class="col-left">
@@ -45,6 +25,8 @@ Copy number variation is the important genomic trait associated with bacterial p
 
 ### Origin and evolution of the multichromosome bacterial genomes
 
+*A collaboration with Prof. Mikhail Gelfand, Russia and Prof. Fyodor Kondrashov, Austria
+
 <div class="col-left">
   <img src="/burkholderia.png" alt="Research picture" style="max-width: 90%">
 </div>
@@ -58,6 +40,24 @@ mostly pathogens and plant symbionts, have essential megaplasmids and/or chromid
 under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 
 [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+
+*A collaboration with Dr. Nikita Alexeyev, Russia
+
+<div class="col-left">
+  <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
+</div>
+
+**The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes.**
+We have developed a strategy for extract information form genomic data to detect parallel
+rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic
+resistance mechanisms and formation of small colony variants, and the
+study of the selective forces in genomic evolution underlying complex
+phenotypes. The application of this approach and the concomitant
+understanding of connections between detected genome rearrangements
+and medically-relevant phenotypes may contribute to the efficient
+development of drugs and vaccines.
+
+[PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
 
 ### Other collaborative projects:
 - ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
