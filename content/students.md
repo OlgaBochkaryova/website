@@ -1,27 +1,22 @@
 ---
-title: "Supervised students"
+title: "(Co-)Supervised students"
 ---
 ## Term papers:
 
-**2020** Yulia Yakovleva Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.3389/fmicb.2021.628622)
+**2021 Ariadna Semenova**, term paper, Moscow State University, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)
 
-**2020** Alexey Zabelkin Bioinformatics Institute, Moscow, Russia [paper](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
+**2020 Yulia Yakovleva, Alexey Zabelkin**, Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.1093/bioinformatics/btab691)
 
-**2020** Kristina Perevoshchikova, Moscow State University, Moscow, Russia
+**2020 Kristina Perevoshchikova**, Moscow State University, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 
-**2019** Zaira Seferbekova, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
+**2019 Zaira Seferbekova**, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
 
-**2017** Anna Karan, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
+**2017 Anna Karan**, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
 
-## Masters:
+## Master theses:
 
-**2019** Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
+**2019 Moldir Zhiyenbayeva**, HSE, Moscow, Russia, in English
 
-## Bachelors:
+## Bachelor  theses:
 
-**2018** Natalia Dranenko, MIPT, Moscow, Russia, in Russian
-
-## Ongoing:
-- Ariadna Semenova, term paper, Moscow State University, Moscow, Russia
-- Ivan Chernykh, term paper, Moscow State University, Moscow, Russia
-- Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia
+**2018 Natalia Dranenko**, MIPT, Moscow, Russia, in Russian

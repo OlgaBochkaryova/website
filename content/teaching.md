@@ -22,7 +22,7 @@ The course covers basic and advanced topics of comparative genomics necessary fo
 
 
 
-<div style="width: 150px; float: left">
+<div style="width: 100px; float: left">
     <img src="/smtblogo.png" style="max-width: 90%;">
 </div>
 
