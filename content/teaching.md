@@ -26,7 +26,7 @@ The course covers basic and advanced topics of comparative genomics necessary fo
     <img src="/smtblogo.png" style="max-width: 90%;">
 </div>
 
-# School of Theoretical and Molecular Biology
+## School of Theoretical and Molecular Biology
 an initiative by Dr. Kondrashov to let high-school students participate in real scientific research.
 
 **Supervised projects**
