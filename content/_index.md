@@ -31,3 +31,5 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
 **2019 Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS. PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
 
 **2012 Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (BSc in 2010).
+
+[Full CV](/2021-09-01_CV_Bochkareva.pdf)
