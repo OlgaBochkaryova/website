@@ -4,7 +4,7 @@ title: "Publications"
 
 [ <sup>#</sup> -- equal contribution. ]
 
-### Peer-revierew publications
+### Peer-reviewed publications
 
 - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
 - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. [(DOI)](https://doi.org/10.3389/fmicb.2021.628622)
