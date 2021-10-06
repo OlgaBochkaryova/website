@@ -3,20 +3,20 @@ title: "(Co-)Supervised students"
 ---
 ## Term papers:
 
-**2021 Ariadna Semenova**, term paper, Moscow State University, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)
+**2021 Ariadna Semenova** Insertion sequences in _B. mallei_ and their role in adaptation to intracellular lifestyle, term paper, Moscow State University, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)
 
-**2020 Yulia Yakovleva, Alexey Zabelkin**, Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.1093/bioinformatics/btab691)
+**2020 Yulia Yakovleva, Alexey Zabelkin** Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.1093/bioinformatics/btab691). Co-supervisor: Nikita Alexeyev.
 
-**2020 Kristina Perevoshchikova**, Moscow State University, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+**2020 Kristina Perevoshchikova** Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 
-**2019 Zaira Seferbekova**, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
+**2019 Zaira Seferbekova** Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
 
-**2017 Anna Karan**, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
+**2017 Anna Karan** Evolutionary history of rearrangements in _Streptococcus pneumoniae_, Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
 
 ## Master theses:
 
-**2019 Moldir Zhiyenbayeva**, HSE, Moscow, Russia, in English
+**2019 Moldir Zhiyenbayeva** Comparative Genomics of _Bacillus_ spp., HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
 ## Bachelor  theses:
 
-**2018 Natalia Dranenko**, MIPT, Moscow, Russia, in Russian
+**2018 Natalia Dranenko** Reconstruction of OxyR ancestor sequence in bacteria, MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.

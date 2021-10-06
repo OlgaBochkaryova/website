@@ -23,7 +23,7 @@ These genes are key factors of *Shigella* invasion that which are used for disea
 **The project aims to investigate the patterns on genomic repeats across the circular bacterial chromosome to reveal interplay between chromosome topology and gene paralogization.**
 Copy number variation is the important genomic trait associated with bacterial phenotype. In particular, number of rRNA gene operons is species-specific and supposed to be associated with ecological niches. On the other hand, such genomic repeats provide substrates for intra-genomic recombination leading to genome rearrangements. We assume that recombination events as well as composition of genomic repeats are shaped by selection forces balancing profit and damages on different levels of chromosome organization.
 
-### Origin and evolution of the multichromosome bacterial genomes
+### Origin and evolution of the multi-chromosome bacterial genomes
 
 *A collaboration with Prof. Mikhail Gelfand, Russia and Prof. Fyodor Kondrashov, Austria
 
