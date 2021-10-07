@@ -45,6 +45,9 @@ theme = "desk"
 
   # Icons menu
   [[menu.side]]
+    name="i-CV"
+    url="2021-09-01_CV_Bochkareva.pdf"
+  [[menu.side]]
     name="i-envelope"
     url="mailto:olga.bochkareva@ist.ac.at"
   [[menu.side]]

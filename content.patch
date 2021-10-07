@@ -1,3 +1,18 @@
+From e4d3d9cdf9f0b67670ee76f5e0fca7d0c218e8d0 Mon Sep 17 00:00:00 2001
+From: Alexey Bochkarev <a@bochkarev.io>
+Date: Wed, 6 Oct 2021 22:52:10 -0400
+Subject: [PATCH 1/2] minor fixes for theme update
+
+---
+ config.toml             |  3 +++
+ content/_index.md       | 19 ++++++++++++-------
+ content/contacts.md     |  2 +-
+ content/publications.md |  6 +++---
+ content/research.md     | 28 ++++++++++++++++++----------
+ content/teaching.md     | 13 ++++++-------
+ themes/desk             |  2 +-
+ 7 files changed, 44 insertions(+), 29 deletions(-)
+
 diff --git a/config.toml b/config.toml
 index b27f9e3..bf48ec1 100644
 --- a/config.toml
@@ -217,6 +232,26 @@ index e15608a..6a05a64 100644
  an initiative by Dr. Kondrashov to let high-school students participate in real scientific research.
  
  **Supervised projects**
+diff --git a/themes/desk b/themes/desk
+index 7a8aacc..09c3fd7 160000
+--- a/themes/desk
++++ b/themes/desk
+@@ -1 +1 @@
+-Subproject commit 7a8aacc14fd277e546885e97c81adfeb2dcc33b1
++Subproject commit 09c3fd7c7696eab547040b68e96df90d319ea5c3
+-- 
+2.33.0
+
+
+From 178a4f24f3c5b93f59e355fcf96e5fc26cce277e Mon Sep 17 00:00:00 2001
+From: Alexey Bochkarev <a@bochkarev.io>
+Date: Wed, 6 Oct 2021 22:59:06 -0400
+Subject: [PATCH 2/2] minor fixes + publish script
+
+---
+ publish | 29 +++++++++++++++--------------
+ 1 file changed, 15 insertions(+), 14 deletions(-)
+
 diff --git a/publish b/publish
 index c3e4606..e850658 100755
 --- a/publish
@@ -271,10 +306,6 @@ index c3e4606..e850658 100755
 \ No newline at end of file
 +git commit -m"$msg"
 +git push origin master && printf "\033[0;32mDone!\033[0m\n"
-diff --git a/themes/desk b/themes/desk
-index 7a8aacc..4492fe3 160000
---- a/themes/desk
-+++ b/themes/desk
-@@ -1 +1 @@
--Subproject commit 7a8aacc14fd277e546885e97c81adfeb2dcc33b1
-+Subproject commit 4492fe3672c7f728ec53fadfa7b5e58f01a559ee
+-- 
+2.33.0
+

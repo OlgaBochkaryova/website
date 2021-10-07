@@ -2,11 +2,10 @@
 title: "Teaching"
 ---
 
-<div style="width: 80px; float: left">
-    <img src="/bi_logo.png" style="max-width: 90%;">
+<div class="mainWrapper">
+  <img src="/bi_logo.png" style="max-width: 50px;">
+  <h2>Bioinformatics Institute (St Petersburg, Russia) </h2>
 </div>
-
-## Bioinformatics Institute (St Petersburg, Russia)
 
 **Term course 'Comparative Genomics of Prokaryotes'**
 
@@ -22,11 +21,11 @@ The course covers basic and advanced topics of comparative genomics necessary fo
 
 
 
-<div style="width: 100px; float: left">
-    <img src="/smtblogo.png" style="max-width: 90%;">
+<div class="mainWrapper">
+    <img src="/smtblogo.png" style="max-width: 50px;">
+    <h2>School of Theoretical and Molecular Biology</h2>
 </div>
 
-## School of Theoretical and Molecular Biology
 an initiative by Dr. Kondrashov to let high-school students participate in real scientific research.
 
 **Supervised projects**

@@ -1,11 +1,14 @@
 ---
 title: "My awesome title"
+hidetoc: true
 ---
 
 # Dr. Olga Bochkareva
-<div class="col-left">
-  <img src="/me2.jpg" alt="my photo" class="img-av">
-</div>
+<div class="mainWrapper">
+  <div class="col-left">
+    <img src="/me2.jpg" alt="my photo" class="img-av">
+  </div>
+  <div class="col-right">
 
   **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria, since 2019 [google scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao)
 
@@ -13,8 +16,10 @@ title: "My awesome title"
 
   _Computational biology, Genomics, Molecular Evolution_
   
+  </div>
+</div> 
 
-### Research interests
+## Research interests
 My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution.
 
 My [current projects](https://www.bochkareva.me/research/) are focused on:
@@ -23,10 +28,10 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
 - evolution of bacterial communities: pan-genomics, metagenomics, taxonomy.
 
 
-### Awards
+## Awards
 **2019** [ISTplus postdoctoral fellowship](https://istplus.pages.ist.ac.at/), funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
 
-### Education
+## Education
 
 **2019 Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS. PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
 
