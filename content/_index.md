@@ -12,7 +12,7 @@ hidetoc: true
 
   **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria, since 2019 [google scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao)
 
-  **Course instructor** at [Institute of Bioinformatics](https://bioinf.me/en), since 2020
+  **Course instructor** at [Bioinformatics Institute](https://bioinf.me/en), since 2020
 
   _Computational biology, Genomics, Molecular Evolution_
   
