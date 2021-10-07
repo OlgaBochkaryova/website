@@ -43,7 +43,7 @@ under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 
 ### Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
 
-*A collaboration with Dr. Nikita Alexeyev, Russia
+*A collaboration with Dr. Nikita Alexeev, Russia
 
 <div class="col-left">
   <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
@@ -62,6 +62,7 @@ development of drugs and vaccines.
 [PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
 
 ### Other collaborative projects:
+- ***(2021-present)*** **Fitness effects of short random peptides** with Dr. Roderich КRomhild, IST Austria.
 - ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
-with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
-- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia.
+- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant.

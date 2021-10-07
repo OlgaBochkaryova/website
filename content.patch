@@ -1,0 +1,280 @@
+diff --git a/config.toml b/config.toml
+index b27f9e3..bf48ec1 100644
+--- a/config.toml
++++ b/config.toml
+@@ -44,6 +44,9 @@ theme = "desk"
+     weight = 7
+ 
+   # Icons menu
++  [[menu.side]]
++    name="i-CV"
++    url="2021-09-01_CV_Bochkareva.pdf"
+   [[menu.side]]
+     name="i-envelope"
+     url="mailto:olga.bochkareva@ist.ac.at"
+diff --git a/content/_index.md b/content/_index.md
+index 1c3d114..116d006 100644
+--- a/content/_index.md
++++ b/content/_index.md
+@@ -1,11 +1,14 @@
+ ---
+ title: "My awesome title"
++hidetoc: true
+ ---
+ 
+ # Dr. Olga Bochkareva
+-<div class="col-left">
+-  <img src="/me2.jpg" alt="my photo" class="img-av">
+-</div>
++<div class="mainWrapper">
++  <div class="col-left">
++    <img src="/me2.jpg" alt="my photo" class="img-av">
++  </div>
++  <div class="col-right">
+ 
+   **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria, since 2019 [google scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao)
+ 
+@@ -13,8 +16,10 @@ title: "My awesome title"
+ 
+   _Computational biology, Genomics, Molecular Evolution_
+   
++  </div>
++</div> 
+ 
+-### Research interests
++## Research interests
+ My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution.
+ 
+ My [current projects](https://www.bochkareva.me/research/) are focused on:
+@@ -23,13 +28,13 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
+ - evolution of bacterial communities: pan-genomics, metagenomics, taxonomy.
+ 
+ 
+-### Awards
++## Awards
+ **2019** [ISTplus postdoctoral fellowship](https://istplus.pages.ist.ac.at/), funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
+ 
+-### Education
++## Education
+ 
+ **2019 Ph.D.** (bioinformatics) from Kharkevich Institute for Information Transmission Problems RAS. PhD thesis: “Reconstruction of evolutionary history of genome rearrangements in bacteria”, supervisor: [Prof. Mikhail S. Gelfand](https://faculty.skoltech.ru/people/mikhailgelfand).
+ 
+ **2012 Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (BSc in 2010).
+ 
+-[Full CV](/2021-09-01_CV_Bochkareva.pdf)
+\ No newline at end of file
++[Full CV](/2021-09-01_CV_Bochkareva.pdf)
+diff --git a/content/contacts.md b/content/contacts.md
+index d51f2b9..8de590f 100644
+--- a/content/contacts.md
++++ b/content/contacts.md
+@@ -8,4 +8,4 @@ title: "Contact"
+ 
+ **Web page:** [current lab](https://ist.ac.at/en/research/kondrashov-group/)
+ 
+-**ORCID:** 	0000-0003-1006-6639
++**ORCID:** 	0000-0003-1006-6639 [(profile)](https://orcid.org/0000-0003-1006-6639)
+diff --git a/content/publications.md b/content/publications.md
+index 923457b..7379300 100644
+--- a/content/publications.md
++++ b/content/publications.md
+@@ -4,7 +4,7 @@ title: "Publications"
+ 
+ [ <sup>#</sup> -- equal contribution. ]
+ 
+-### Peer-reviewed publications
++## Peer-reviewed publications
+ 
+ - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
+ - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. [(DOI)](https://doi.org/10.3389/fmicb.2021.628622)
+@@ -13,11 +13,11 @@ title: "Publications"
+ - **Olga O Bochkareva**, Elena V Moroz, Iakov I Davydov, Mikhail S Gelfand. Genome rearrangements and selection in multi-chromosome bacteria _Burkholderia_ spp. BMC Genomics. 2018 Dec 27;19(1):965. [(DOI)](https://doi.org/10.1186/s12864-018-5245-1)
+ - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. PeerJ. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
+ 
+-### Preprints / papers in preparation
++## Preprints / papers in preparation
+ 
+ - Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov **Olga Bochkareva** Comparative genomic of ipaH effectors of pathogenic _Escherichia_ from different hosts In preparation
+ 
+-### Conference proceedings:
++## Conference proceedings:
+ 
+ - Kristina Y. Perevoshchikova , Vera Emelianenko , Mikhail S. Gelfand , Fyodor Kondrashov, **Olga O. Bochkareva** Evolutionary benefits of bacterial genomes with chromids Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+ - Ariadna A Semenova, **Olga O Bochkareva** Insertion sequences in B. mallei: adaptation to intracellular lifestyle Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)
+diff --git a/content/research.md b/content/research.md
+index fd777e2..42fe211 100644
+--- a/content/research.md
++++ b/content/research.md
+@@ -3,19 +3,20 @@ title: "Research"
+ ---
+ *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
+ 
+-### Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
+-
++## Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
++<p style="margin-top: 15px;">
+ <div class="col-left">
+   <img src="/Shigella_animals.jpg" alt="Research picture" style="max-width: 90%">
+-</div>
++</div></p>
+ 
+ **The project aims to describe composition and evolution of *ipaH* genes, effectors of Type 3 secretion system, in pathogens of different hosts.**
+ These genes are key factors of *Shigella* invasion that which are used for disease genotyping. Until recently, Shigella were thought to be primate-restricted pathogens. However, recent genomic studies confirmed ipaH genes in genome of Escherichia marmotae, a potential marmot pathogen, and of an E. coli extracted from fecal samples of bovine calves, suggesting that non-human hosts may also be infected by these potentially pathogenic to humans strains. We employ a computational approach to predict whether different Escherichia may also be an infectious agent of non-human hosts, which, therefore, may serve as a reservoir of human pathogens and virulence genes.
+ 
+ [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/108_MCCMB_2021.pdf)
+ 
+-### Role of gene paralogs in bacterial chromosome maintainance
++## Role of gene paralogs in bacterial chromosome maintainance
+ 
++<p style="margin-top: 15px;">
+ <div class="col-left">
+   <img src="/repeats.png" alt="Research picture" style="max-width: 90%">
+ </div>
+@@ -23,10 +24,13 @@ These genes are key factors of *Shigella* invasion that which are used for disea
+ **The project aims to investigate the patterns on genomic repeats across the circular bacterial chromosome to reveal interplay between chromosome topology and gene paralogization.**
+ Copy number variation is the important genomic trait associated with bacterial phenotype. In particular, number of rRNA gene operons is species-specific and supposed to be associated with ecological niches. On the other hand, such genomic repeats provide substrates for intra-genomic recombination leading to genome rearrangements. We assume that recombination events as well as composition of genomic repeats are shaped by selection forces balancing profit and damages on different levels of chromosome organization.
+ 
+-### Origin and evolution of the multi-chromosome bacterial genomes
++</p>
+ 
+-*A collaboration with Prof. Mikhail Gelfand, Russia and Prof. Fyodor Kondrashov, Austria
++## Origin and evolution of the multi-chromosome bacterial genomes
+ 
++<sup>*</sup>A collaboration with Prof. Mikhail Gelfand, Russia and Prof. Fyodor Kondrashov, Austria
++
++<p style="margin-top: 15px;">
+ <div class="col-left">
+   <img src="/burkholderia.png" alt="Research picture" style="max-width: 90%">
+ </div>
+@@ -35,16 +39,18 @@ Copy number variation is the important genomic trait associated with bacterial p
+ Most bacterial genomes have a single chromosome that may be supplemented by a few smaller,
+ dispensable plasmids. But approximately 10% of the bacteria with completely sequenced genome,
+ mostly pathogens and plant symbionts, have essential megaplasmids and/or chromids.  However, the advantages of multi­chromosomal genome organiza­tion remain unclear.
++</p>
+ 
+ *The project is supported by the European Union’s Horizon 2020 Research and Innovation Programme
+ under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
+ 
+ [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+ 
+-### Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
++## Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
+ 
+-*A collaboration with Dr. Nikita Alexeyev, Russia
++<sup>*</sup>A collaboration with Dr. Nikita Alexeyev, Russia
+ 
++<p style="margin-top: 15px;">
+ <div class="col-left">
+   <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
+ </div>
+@@ -59,9 +65,11 @@ understanding of connections between detected genome rearrangements
+ and medically-relevant phenotypes may contribute to the efficient
+ development of drugs and vaccines.
+ 
++</p>
++
+ [PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
+ 
+-### Other collaborative projects:
++## Other collaborative projects:
+ - ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
+ with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
+-- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+\ No newline at end of file
++- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supposted by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+diff --git a/content/teaching.md b/content/teaching.md
+index e15608a..6a05a64 100644
+--- a/content/teaching.md
++++ b/content/teaching.md
+@@ -2,12 +2,11 @@
+ title: "Teaching"
+ ---
+ 
+-<div style="width: 80px; float: left">
+-    <img src="/bi_logo.png" style="max-width: 90%;">
++<div class="mainWrapper">
++  <img src="/bi_logo.png" style="max-width: 50px;">
++  <h2>Bioinformatics Institute (St Petersburg, Russia) </h2>
+ </div>
+ 
+-## Bioinformatics Institute (St Petersburg, Russia)
+-
+ **Term course 'Comparative Genomics of Prokaryotes'**
+ 
+ The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field. Practice part comprises a set of home assignments which would require basic programming skills. The participants will get an overview of evolutionary processes at genome level and be able to analyze the genomic data in the context of both theoretical and practical genomics problems.
+@@ -22,11 +21,11 @@ The course covers basic and advanced topics of comparative genomics necessary fo
+ 
+ 
+ 
+-<div style="width: 100px; float: left">
+-    <img src="/smtblogo.png" style="max-width: 90%;">
++<div class="mainWrapper">
++    <img src="/smtblogo.png" style="max-width: 50px;">
++    <h2>School of Theoretical and Molecular Biology</h2>
+ </div>
+ 
+-## School of Theoretical and Molecular Biology
+ an initiative by Dr. Kondrashov to let high-school students participate in real scientific research.
+ 
+ **Supervised projects**
+diff --git a/publish b/publish
+index c3e4606..e850658 100755
+--- a/publish
++++ b/publish
+@@ -1,33 +1,34 @@
+ #!/bin/sh
++# -*- sh-mode -*-
+ 
+ # If a command fails then the deploy stops
+-set -e
+-
+-printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
+ 
+ msg="rebuilding site $(date)"
+ if [ -n "$*" ]; then
+ 	msg="$*"
+ fi
+ 
++echo "Updating the theme..."
++cd themes/desk
++git add .
++git commit -m"$msg"
++git push origin master && echo "Theme updates pushed.\n"
++cd ../..
++
+ # Build the project.
+-hugo -t desk
++hugo -t desk || exit 1
+ 
++printf "\033[0;32mDeploying updates to GitHub Pages...\033[0m\n"
+ # Go To Public folder
+ cd public
+ 
+-# Add changes to git.
+-git add .
+-
+-# Commit changes.
+-git commit -m "$msg"
+-
+-# Push source and build repos.
+-git push origin main
++git add . # Add changes to git.
++git commit -m "$msg" # Commit changes.
++git push origin master && echo "Site deployed." # Push source and build repos.
+ 
+ printf "\033[0;32mSaving sources to GitHub...\033[0m\n"
+ 
+ cd ..
+ git add .
+-git commit -m"$msg" && printf printf "\033[0;32mDone!\033[0m\n"
+-git push origin main
+\ No newline at end of file
++git commit -m"$msg"
++git push origin master && printf "\033[0;32mDone!\033[0m\n"
+diff --git a/themes/desk b/themes/desk
+index 7a8aacc..4492fe3 160000
+--- a/themes/desk
++++ b/themes/desk
+@@ -1 +1 @@
+-Subproject commit 7a8aacc14fd277e546885e97c81adfeb2dcc33b1
++Subproject commit 4492fe3672c7f728ec53fadfa7b5e58f01a559ee
