@@ -24,11 +24,11 @@ cd public
 
 git add . # Add changes to git.
 git commit -m "$msg" # Commit changes.
-git push origin master && echo "Site deployed." # Push source and build repos.
+git push origin main && echo "Site deployed." # Push source and build repos.
 
 printf "\033[0;32mSaving sources to GitHub...\033[0m\n"
 
 cd ..
 git add .
 git commit -m"$msg"
-git push origin master && printf "\033[0;32mDone!\033[0m\n"
+git push origin main && printf "\033[0;32mDone!\033[0m\n"
