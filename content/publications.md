@@ -15,7 +15,7 @@ title: "Publications"
 
 ## Preprints / papers in preparation
 
-- Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov **Olga Bochkareva** Comparative genomic of ipaH effectors of pathogenic _Escherichia_ from different hosts In preparation
+- Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva** Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ BioRxiv October 19, 2021 [(DOI)](https://www.biorxiv.org/content/10.1101/2021.10.19.464960v1)
 
 ## Conference proceedings:
 
