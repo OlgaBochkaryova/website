@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Time Trees Overview","url":"Time_Trees.htm"},{"type":"item","name":"Calibration Dialog","url":"Calibration_Dialog.htm"},{"type":"item","name":"Time Tree Tool","url":"Time_Tree_Tool.htm"},{"type":"item","name":"Calibration File Format","url":"Calibration_File_Format.htm"},{"type":"item","name":"Calibrate Timetree with Molecular Clock","url":"Calibrate_Timetree_with_Molecular_Clock.htm"},{"type":"item","name":"Autocorrelated Rates Test","url":"Autocorrelated_Rates_Test.htm"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

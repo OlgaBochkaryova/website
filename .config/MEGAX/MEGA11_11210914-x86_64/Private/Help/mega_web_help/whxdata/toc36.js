@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc14.js\"  name=\"Text Editor\"><item name=\"Text File Editor\" url=\"Part_II_Assembling_Data_For_Analysis/Text_Editor_And_Utilities/Text_Editor.htm#bc-1\" /><book name=\"Using Text File Editor\" src=\"toc37.js\" /></data>";

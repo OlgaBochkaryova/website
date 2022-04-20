@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Basic Sequence Statistics","url":"Part_IV_Evolutionary_Analyses/Computing_Basic_Statistical_Quantities_For_Sequence_Data/Basic_Sequence_Statistics.htm"},{"type":"item","name":"Nucleotide and Amino Acid Compositions","url":"Nucleotide_and_Amino_Acid_Compositions.htm"},{"type":"item","name":"Nucleotide Pair Frequencies","url":"Nucleotide_Pair_Frequencies.htm#bc-1"},{"type":"item","name":"Codon Usage","url":"Codon_Usage.htm#bc-1"},{"type":"item","name":"Pattern Tests","url":"Pattern_Tests.htm"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

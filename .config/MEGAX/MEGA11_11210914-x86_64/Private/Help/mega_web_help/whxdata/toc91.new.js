@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Main MEGA Window","url":"Main_MEGA_Window.htm"},{"type":"book","name":"Align Menu","key":"toc92"},{"type":"book","name":"Data Menu","key":"toc93"},{"type":"book","name":"Distances Menu","key":"toc94"},{"type":"book","name":"Diversity Menu","key":"toc95"},{"type":"book","name":"Models Menu","key":"toc96"},{"type":"book","name":"Phylogeny Menu","key":"toc97"},{"type":"book","name":"User Tree Menu","key":"toc98"},{"type":"book","name":"Ancestors Menu","key":"toc99"},{"type":"book","name":"Selection Menu","key":"toc100"},{"type":"book","name":"Rates Menu","key":"toc101"},{"type":"book","name":"Clocks Menu","key":"toc102"},{"type":"book","name":"Diagnose Menu","key":"toc103"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

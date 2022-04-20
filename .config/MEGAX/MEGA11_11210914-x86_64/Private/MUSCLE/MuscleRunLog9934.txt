@@ -1,3 +1,0 @@
-Started Fri Nov 12 17:06:54 2021
-/home/obochkar/.config/MEGAX/MEGA11_11210914-x86_64/Private/MUSCLE/muscleUnix64.exe -gapopen -400.00 -gapextend 0.00 -maxmb 2048 -maxiters 16 -cluster1 upgma -cluster2 upgma -maxiters 16 -seqtype DNA -in SelectedDataFromMEGA9934.fas -out MuscleResultForSelectedData9934.fas -log MuscleRunLog9934.txt 
-Finished Fri Nov 12 17:06:58 2021

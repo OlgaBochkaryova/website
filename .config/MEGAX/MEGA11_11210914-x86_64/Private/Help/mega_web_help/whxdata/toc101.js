@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc91.js\"  name=\"Rates Menu\"><item name=\"Estimate Position-by-Position Rates (ML)\" url=\"Estimate_Position-by-Position_Rates_ML.htm\" /><item name=\"Estimate Gamma Parameter for Site Rates (ML)\" url=\"Estimate_Gamma_Parameter_for_Site_Rates_(ML).htm\" /></data>";

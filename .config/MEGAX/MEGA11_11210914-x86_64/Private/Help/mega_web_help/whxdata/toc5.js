@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc1.js\"  name=\"Using the Command-line Interface (MEGA-CC)\"><item name=\"MEGA-CC Overview\" url=\"MEGA-CC_Overview.htm\" /><item name=\"MEGA-CC Quick Start Tutorial\" url=\"Quick_Start_Tutorial.htm\" /></data>";

@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Introduction to Alignment Explorer","url":"Part_II_Assembling_Data_For_Analysis/Building_Sequence_Alignments/Introduction_to_Alignment_Explorer.htm"},{"type":"item","name":"Aligning Sequences","url":"Part_I_Getting_Started/A_Walk_Through_MEGA/Aligning_Sequences.htm#bc-1"},{"type":"item","name":"Aligning Coding Sequences via Protein Sequences","url":"Part_II_Assembling_Data_For_Analysis/Aligning_Coding_Sequences_via_Protein_Sequences.htm"},{"type":"book","name":"MUSCLE","key":"toc9"},{"type":"book","name":"ClustalW","key":"toc10"},{"type":"book","name":"BLAST","key":"toc11"},{"type":"book","name":"Menu Items in the Alignment Explorer","key":"toc12"},{"type":"book","name":"Concatenate Sequence Data","key":"toc13"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

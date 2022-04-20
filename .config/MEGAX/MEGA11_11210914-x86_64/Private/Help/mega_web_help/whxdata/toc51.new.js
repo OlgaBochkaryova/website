@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"No. of differences","url":"No_of_differences_Amino_acids.htm"},{"type":"item","name":"p-distance","url":"p-distance_Amino_acids.htm"},{"type":"item","name":"Equal Input Model","url":"Equal_Input_Model_Amino_acids.htm"},{"type":"item","name":"Poisson Correction (PC) distance","url":"Poisson_Correction_PC_distance.htm"},{"type":"item","name":"Dayhoff and JTT Models","url":"Dayhoff_and_JTT_Models.htm"},{"type":"book","name":"Gamma Distances","key":"toc52"},{"type":"book","name":"Heterogeneous Patterns","key":"toc53"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

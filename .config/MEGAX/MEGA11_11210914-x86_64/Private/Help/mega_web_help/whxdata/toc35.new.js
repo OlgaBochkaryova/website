@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"General Description","url":"Distance_Data_Explorer.htm"},{"type":"item","name":"File Menu (in Distance Data Explorer)","url":"File_Menu_in_Distance_Data_Explorer.htm"},{"type":"item","name":"Display Menu (in Distance Data Explorer)","url":"Display_Menu_in_Distance_Data_Explorer.htm"},{"type":"item","name":"Average Menu (in Distance Data Explorer)","url":"Average_Menu_in_Distance_Data_Explorer.htm"},{"type":"item","name":"Export/Write Distance Matrix","url":"Options_dialog_box.htm"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

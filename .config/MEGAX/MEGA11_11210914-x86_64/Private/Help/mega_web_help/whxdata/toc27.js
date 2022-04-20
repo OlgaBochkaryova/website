@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc14.js\"  name=\"Viewing And Exploring Input Data\"><book name=\"Sequence Data Explorer\" src=\"toc28.js\" /></data>";

@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"General Overview","url":"Phylogenetic_Inference.htm"},{"type":"book","name":"NJ/UPGMA Methods","key":"toc57"},{"type":"book","name":"Minimum Evolution Method","key":"toc58"},{"type":"book","name":"Maximum Parsimony (MP) Method","key":"toc60"},{"type":"book","name":"Maximum Likelihood (ML) Methods","key":"toc62"},{"type":"book","name":"Statistical Tests of a Tree Obtained","key":"toc64"},{"type":"book","name":"Molecular Clock Tests","key":"toc67"},{"type":"book","name":"Ancestral States","key":"toc68"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

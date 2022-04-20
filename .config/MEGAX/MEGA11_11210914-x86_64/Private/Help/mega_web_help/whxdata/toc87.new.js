@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Introduction to Alignment Explorer","url":"Part_II_Assembling_Data_For_Analysis/Building_Sequence_Alignments/Introduction_to_Alignment_Explorer.htm#bc-1"},{"type":"item","name":"A Tutorial on Sequence Alignment","url":"Part_I_Getting_Started/A_Walk_Through_MEGA/Aligning_Sequences.htm#bc-2"},{"type":"item","name":"Aligning Coding Sequences via Protein Sequences","url":"Part_II_Assembling_Data_For_Analysis/Aligning_Coding_Sequences_via_Protein_Sequences.htm#bc-1"},{"type":"item","name":"Toolbars in Alignment Explorer","url":"Toolbars_in_Alignment_Explorer.htm"},{"type":"book","name":"Menu Items","key":"toc88"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

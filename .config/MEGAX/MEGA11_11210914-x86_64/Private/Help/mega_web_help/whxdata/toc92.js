@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc91.js\"  name=\"Align Menu\"><item name=\"Overview\" url=\"Alignment_Menu.htm\" /><item name=\"Query Databanks\" url=\"Query_Databanks.htm\" /><item name=\"Show Web Browser\" url=\"Show_Web_Browser.htm\" /><item name=\"View/Edit Sequencer Files\" url=\"View_Edit_Sequencer_Files.htm\" /></data>";

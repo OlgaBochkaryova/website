@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc64.js\"  name=\"Interior Branch Tests\"><item name=\"General Overview\" url=\"Interior_Branch_Test_of_Phylogeny.htm\" /><item name=\"Testing a Neighbor Joining Tree\" url=\"Neighbor_Joining_Construct_Phylogeny.htm\" /></data>";

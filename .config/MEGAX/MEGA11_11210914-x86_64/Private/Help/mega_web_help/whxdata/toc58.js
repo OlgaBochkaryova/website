@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc56.js\"  name=\"Minimum Evolution Method\"><item name=\"Overview\" url=\"Minimum_Evolution.htm\" /><item name=\"Analysis Options\" url=\"Analysis_Preferences_Minimum_Evolution.htm\" /><book name=\"Heuristic Search\" src=\"toc59.js\" /></data>";

@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"General Considerations","url":"General_Considerations.htm"},{"type":"item","name":"IUPAC Single Letter Codes","url":"IUPAC_Single_Letter_Codes.htm"},{"type":"item","name":"Keywords for Format Statement (Sequence Data)","url":"Keywords_for_Format_Statement_(Sequence_Data).htm"},{"type":"book","name":"Defining Genes and Domains","key":"toc18"},{"type":"book","name":"Defining Groups and Meta Data","key":"toc19"},{"type":"book","name":"Labelling Individual Sites","key":"toc20"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

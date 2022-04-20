@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Appendix B: Main Menu Items and Dialogs Reference\"><book name=\"Main MEGA Menus\" src=\"toc91.js\" /><book name=\"MEGA Dialogs\" src=\"toc104.js\" /></data>";

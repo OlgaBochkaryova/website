@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc31.js\"  name=\"Highlight Special\"><item name=\"Highlight Coverage\" url=\"Highlight_Coverage.htm\" /><item name=\"Highlight CpG/TpG/CpA\" url=\"Highlight_CpG_TpG_CpA.htm\" /></data>";

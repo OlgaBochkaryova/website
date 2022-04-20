@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"book","name":"Computing Basic Statistical Quantities for Sequence Data","key":"toc44"},{"type":"book","name":"Computing Evolutionary Distances","key":"toc45"},{"type":"book","name":"Constructing Phylogenetic Trees","key":"toc56"},{"type":"book","name":"Constructing Time Trees","key":"toc69"},{"type":"book","name":"Handling Missing Data and Alignment Gaps","key":"toc70"},{"type":"book","name":"Tests of Selection","key":"toc71"},{"type":"book","name":"Exploring the Impact of nsSNVs","key":"toc74"},{"type":"book","name":"Identifying Gene Duplications","key":"toc78"},{"type":"item","name":"Evolutionary Probabilities","url":"Evolutionary_Probabilities.htm"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

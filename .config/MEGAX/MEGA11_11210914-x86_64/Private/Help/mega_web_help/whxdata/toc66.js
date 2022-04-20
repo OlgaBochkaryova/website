@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc64.js\"  name=\"Bootstrap Tests\"><item name=\"General Overview\" url=\"Bootstrap_Test_of_Phylogeny.htm\" /><item name=\"Computing Standard Error of Distance Estimates\" url=\"Bootstrap_method_to_compute_standard_error_of_distance_estimates.htm#bc-1\" /></data>";

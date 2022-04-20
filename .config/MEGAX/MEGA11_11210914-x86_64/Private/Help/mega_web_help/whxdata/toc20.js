@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc17.js\"  name=\"Labelling Individual Sites\"><item name=\"What is a Site Label?\" url=\"What_is_a_Site_Label_.htm\" /><item name=\"How to Label Sites\" url=\"How_to_Label_Sites.htm\" /></data>";

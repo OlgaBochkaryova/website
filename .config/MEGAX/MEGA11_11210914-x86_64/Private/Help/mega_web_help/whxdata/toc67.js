@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc56.js\"  name=\"Molecular Clock Tests\"><item name=\"Tajima's Test (Relative Rate)\" url=\"Tajima_s_Test_Relative_Rate.htm\" /><item name=\"Molecular Clock Test (ML)\" url=\"Molecular_Clock_Test_ML.htm\" /></data>";

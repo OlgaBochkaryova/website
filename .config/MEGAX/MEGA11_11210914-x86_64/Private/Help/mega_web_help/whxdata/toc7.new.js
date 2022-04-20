@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Text Editor","url":"Part_II_Assembling_Data_For_Analysis/Text_Editor_And_Utilities/Text_Editor.htm"},{"type":"item","name":"Format Selected Sequence","url":"Part_II_Assembling_Data_For_Analysis/Text_Editor_And_Utilities/Format_Selected_Sequence.htm"},{"type":"item","name":"Reverse Complement","url":"Part_II_Assembling_Data_For_Analysis/Text_Editor_And_Utilities/Reverse_Complement.htm"},{"type":"item","name":"Convert to MEGA Format","url":"Part_II_Assembling_Data_For_Analysis/Text_Editor_And_Utilities/Convert_to_MEGA_Format.htm"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

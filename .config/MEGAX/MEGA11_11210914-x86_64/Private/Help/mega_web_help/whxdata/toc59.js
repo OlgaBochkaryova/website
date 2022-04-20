@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc58.js\"  name=\"Heuristic Search\"><item name=\"Close-Neighbor-Interchange (CNI)\" url=\"Close-Neighbor-Interchange_CNI.htm\" /></data>";

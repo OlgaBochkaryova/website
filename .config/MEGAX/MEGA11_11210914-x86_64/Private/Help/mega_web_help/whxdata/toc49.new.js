@@ -1,4 +1,0 @@
-(function() {
-var toc =  [{"type":"item","name":"Tajima Nei Distance (Heterogeneous patterns)","url":"Tajima_Nei_Distance_Heterogeneous_patterns.htm"},{"type":"item","name":"Tamura 3 parameter (Heterogeneous patterns)","url":"Tamura_3_parameter_Heterogeneous_patterns.htm"},{"type":"item","name":"Tamura-Nei distance (Heterogeneous Patterns)","url":"Tamura-Nei_distance_Heterogeneous_Patterns.htm"},{"type":"item","name":"Maximum Composite Likelihood (Heterogeneous Patterns)","url":"Maximum_Composite_Likelihood_Heterogeneous_Patterns.htm"},{"type":"book","name":"Gamma Rates","key":"toc50"}];
-window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
-})();

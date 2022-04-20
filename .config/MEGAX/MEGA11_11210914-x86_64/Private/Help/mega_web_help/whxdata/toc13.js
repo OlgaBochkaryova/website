@@ -1,1 +1,0 @@
-gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc8.js\"  name=\"Concatenate Sequence Data\"><item name=\"Concatenation Utility\" url=\"Concatenation_Utility.htm\" /></data>";
