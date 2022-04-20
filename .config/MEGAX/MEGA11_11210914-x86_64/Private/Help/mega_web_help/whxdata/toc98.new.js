@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Analyze User Tree by Maximum Likelihood","url":"Analyze_User_Tree_by_Maximum_Likelihood.htm"},{"type":"item","name":"Analyze User Tree by Least Squares","url":"Analyze_User_Tree_by_Least_Squares.htm"},{"type":"item","name":"Analyze User Tree by Parsimony","url":"Analyze_User_Tree_by_Parsimony.htm"},{"type":"item","name":"Display Newick Tree From File","url":"Display_Newick_Trees_from_File.htm"},{"type":"item","name":"Edit/Draw Tree Manually","url":"Tree_Topology_Editor.htm#bc-1"},{"type":"item","name":"Display Saved Tree Session","url":"Display_Saved_Tree_Session.htm#bc-1"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc62.js\"  name=\"Heuristic Search\"><item name=\"Nearest-Neighbor-Interchange (NNI)\" url=\"Nearest-Neighbor-Interchange_NNI.htm\" /><item name=\"Subtree-Pruning-Regrafting (SPR)\" url=\"Subtree-Pruning-Regrafting_SPR.htm\" /></data>";

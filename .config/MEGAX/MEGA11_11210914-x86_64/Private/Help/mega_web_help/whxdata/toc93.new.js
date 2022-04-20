@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Overview","url":"Data_Menu.htm"},{"type":"item","name":"Open A File","url":"Open_A_File.htm"},{"type":"item","name":"Reopen Data","url":"Reopen_Data.htm"},{"type":"item","name":"Save Data Session To File","url":"Save_Data_Session_To_File.htm"},{"type":"item","name":"Export Data","url":"Export_Data.htm"},{"type":"item","name":"Close Data","url":"Close_Data.htm"},{"type":"item","name":"Data Explorer","url":"Data_Explorer.htm"},{"type":"item","name":"Setup/Select Genes & Domains","url":"Setup_Select_Genes_Domains.htm"},{"type":"item","name":"Setup/Select Taxa & Groups","url":"Setup_Select_Taxa_Groups.htm"},{"type":"item","name":"Printer Setup","url":"Printer_Setup.htm"},{"type":"item","name":"Exit","url":"Exit.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

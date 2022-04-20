@@ -6,7 +6,7 @@ title: "Publications"
 
 ## Peer-reviewed publications
 
-- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
+- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 Oct 03; 38(2):357-363 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
 - Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, **Olga Bochkareva**. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. [(DOI)](https://doi.org/10.3389/fmicb.2021.628622)
 - Olga Sigalova, Andrei V Chaplin, **Olga O Bochkareva**, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand. _Chlamydia_ pan-genomic analysis reveals balance between host adaptation and selective pressure to genome reduction. BMC Genomics. 2019 Sep 12;20(1):710. [(DOI)](https://doi.org/10.1186/s12864-019-6059-5)
 - Pavel V Shelyakin<sup>#</sup>, **Olga O Bochkareva**<sup>#</sup>, Anna A Karan, Mikhail S Gelfand. Micro-evolution of three _Streptococcus_ species: selection, antigenic variation, and horizontal gene inflow. BMC Evol. Biol. 2019. Mar 27;19(1):83. [(DOI)](https://doi.org/10.1186/s12862-019-1403-6).
@@ -15,9 +15,10 @@ title: "Publications"
 
 ## Preprints / papers in preparation
 
-- Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva** Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ BioRxiv October 19, 2021 [(DOI)](https://www.biorxiv.org/content/10.1101/2021.10.19.464960v1)
+- Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva** Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ BioRxiv October 19, 2021 [(DOI)](https://www.biorxiv.org/content/10.1101/2021.10.19.464960v1) **Accepted to SciRep**
+- Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche Atypical Enteropathogenic E. coli are Associated with Flares in Ulcerative Colitis **under review**
 
-## Conference proceedings:
+## Conference proceedings
 
 - Kristina Y. Perevoshchikova , Vera Emelianenko , Mikhail S. Gelfand , Fyodor Kondrashov, **Olga O. Bochkareva** Evolutionary benefits of bacterial genomes with chromids Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 - Ariadna A Semenova, **Olga O Bochkareva** Insertion sequences in B. mallei: adaptation to intracellular lifestyle Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)

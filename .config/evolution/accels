@@ -1,0 +1,13 @@
+; evolution GtkAccelMap rc-file         -*- scheme -*-
+; this file is an automated accelerator map dump
+;
+; (gtk_accel_path "<Actions>/mailto/mailto-copy" "<Primary>c")
+; (gtk_accel_path "<Actions>/image/image-copy" "<Primary>c")
+; (gtk_accel_path "<Actions>/image/image-save" "<Primary>s")
+; (gtk_accel_path "<Actions>/selection/copy-clipboard" "<Primary>c")
+; (gtk_accel_path "<Actions>/http/http-open" "")
+; (gtk_accel_path "<Actions>/mailto/send-message" "")
+; (gtk_accel_path "<Actions>/selection/search-web" "")
+; (gtk_accel_path "<Actions>/uri/uri-copy" "<Primary>c")
+; (gtk_accel_path "<Actions>/mailto/mailto-copy-raw" "")
+; (gtk_accel_path "<Actions>/standard/select-all" "")

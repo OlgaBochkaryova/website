@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc60.js\"  name=\"Heuristic Search\"><item name=\"Min-mini algorithm\" url=\"Min-mini_algorithm.htm\" /><item name=\"Tree Bisection Reconnection (TBR)\" url=\"Tree_Bisection_Reconnection_TBR.htm\" /></data>";

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"What's New In This Version","url":"Part_I_Getting_Started/Features_and_Support/What_s_New_In_This_Version.htm#bc-1"},{"type":"item","name":"Analyze and Prototype Modes","url":"Analyze_and_Prototype_Modes.htm"},{"type":"item","name":"Using MEGA in the Classroom","url":"Part_I_Getting_Started/Features_and_Support/Using_MEGA_in_the_Classroom.htm"},{"type":"item","name":"Technical Support and Updates","url":"Part_I_Getting_Started/Features_and_Support/Technical_Support_and_Updates.htm"},{"type":"item","name":"Reporting Bugs","url":"Part_I_Getting_Started/Features_and_Support/Reporting_Bugs.htm"},{"type":"item","name":"Guide to Notations Used","url":"Part_I_Getting_Started/Features_and_Support/Guide_to_Notations_Used.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

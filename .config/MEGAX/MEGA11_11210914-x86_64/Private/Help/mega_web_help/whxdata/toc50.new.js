@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Equal Input Model (Heterogeneous Patterns)","url":"Equal_Input_Model_Heterogeneous_Patterns.htm"},{"type":"item","name":"Tajima Nei Distance (Gamma Rates and Heterogeneous patterns)","url":"Tajima_Nei_Distance_Gamma_Rates_and_Heterogeneous_patterns.htm"},{"type":"item","name":"Tamura-Nei distance (Gamma rates and Heterogeneous patterns)","url":"Tamura-Nei_distance_Gamma_rates_and_Heterogeneous_patterns.htm"},{"type":"item","name":"Tamura 3 parameter (Gamma rates and Heterogeneous patterns)","url":"Tamura_3_parameter_Gamma_rates_and_Heterogeneous_patterns.htm"},{"type":"item","name":"Maximum Composite Likelihood (Gamma Rates and Heterogeneous Patterns)","url":"Maximum_Composite_Likelihood_Gamma_Rates_and_Heterogeneous_Patterns.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

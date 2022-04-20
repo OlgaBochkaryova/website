@@ -1,0 +1,22 @@
+[Aisleriot Config]
+ShowToolbar=true
+ShowStatusbar=true
+Sound=true
+Animations=true
+Recent=spider;odessa;westhaven;valentine;whitehead;
+Variation=spider.scm
+
+[klondike.scm]
+Statistic=0;2;0;0;
+
+[spiderette.scm]
+Statistic=0;1;0;0;
+
+[spider.scm]
+Statistic=0;7;0;0;
+
+[westhaven.scm]
+Statistic=3;5;207;273;
+
+[odessa.scm]
+Statistic=0;1;0;0;

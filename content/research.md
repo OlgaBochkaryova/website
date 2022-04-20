@@ -12,7 +12,7 @@ title: "Research"
 **The project aims to describe composition and evolution of *ipaH* genes, effectors of Type 3 secretion system, in pathogens of different hosts.**
 These genes are key factors of *Shigella* invasion that which are used for disease genotyping. Until recently, Shigella were thought to be primate-restricted pathogens. However, recent genomic studies confirmed ipaH genes in genome of Escherichia marmotae, a potential marmot pathogen, and of an E. coli extracted from fecal samples of bovine calves, suggesting that non-human hosts may also be infected by these potentially pathogenic to humans strains. We employ a computational approach to predict whether different Escherichia may also be an infectious agent of non-human hosts, which, therefore, may serve as a reservoir of human pathogens and virulence genes.
 
-[Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/108_MCCMB_2021.pdf)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.10.19.464960v1)
 
 ## Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
 
@@ -35,7 +35,7 @@ development of drugs and vaccines.
 
 </p>
 
-[PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444676v1)
+[PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab691/6380551)
 
 ## Role of gene paralogs in bacterial chromosome maintainance
 
@@ -71,7 +71,7 @@ under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 
 
 ## Other collaborative projects:
-- ***(2021-present)*** **Fitness effects of short random peptides** with Dr. Roderich КRomhild, IST Austria.
+- ***(2021-present)*** **Fitness effects of short random peptides** with Dr. Roderich Кromhild, IST Austria.
 - ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
 with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
 - ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supported by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"General Description","url":"Statistics_Menu_in_Sequence_Data_Explorer.htm#bc-1"},{"type":"item","name":"Nucleotide Composition","url":"Nucleotide_Composition.htm#bc-1"},{"type":"item","name":"Nucleotide Pair Frequencies","url":"Nucleotide_Pair_Frequencies.htm#bc-2"},{"type":"item","name":"Codon Usage","url":"Codon_Usage.htm#bc-2"},{"type":"item","name":"Amino Acid Composition","url":"Amino_Acid_Composition.htm#bc-1"},{"type":"item","name":"Use All Selected Sites","url":"Use_All_Selected_Sites.htm#bc-1"},{"type":"item","name":"Use only Highlighted Sites","url":"Use_only_Highlighted_Sites.htm#bc-1"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

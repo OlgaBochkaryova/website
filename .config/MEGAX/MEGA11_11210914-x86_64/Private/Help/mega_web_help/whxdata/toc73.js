@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc71.js\"  name=\"Other Tests\"><item name=\"Tajima's Test of Neutrality\" url=\"Tajima_s_Test_of_Neutrality.htm\" /></data>";

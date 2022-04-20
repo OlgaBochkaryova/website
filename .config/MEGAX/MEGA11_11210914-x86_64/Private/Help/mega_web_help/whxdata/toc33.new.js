@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Find Prev Name","url":"Find_Prev_Name.htm"},{"type":"item","name":"Find Next Name","url":"Find_Next_Name.htm"},{"type":"item","name":"Find Sequence Name","url":"Find_Sequence_Name.htm"},{"type":"item","name":"Hide Name Result","url":"Hide_Name_Result.htm"},{"type":"item","name":"Find Prev Motif","url":"Find_Prev_Motif.htm"},{"type":"item","name":"Find Next Motif","url":"Find_Next_Motif.htm"},{"type":"item","name":"Find Motif","url":"Find_Motif.htm"},{"type":"item","name":"Hide Motif","url":"Hide_Motif.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

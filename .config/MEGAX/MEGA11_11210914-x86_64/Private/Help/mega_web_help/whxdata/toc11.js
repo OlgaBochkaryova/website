@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc8.js\"  name=\"BLAST\"><item name=\"About BLAST\" url=\"Part_II_Assembling_Data_For_Analysis/Building_Sequence_Alignments/BLAST/About_BLAST.htm\" /><item name=\"Using BLAST Within MEGA\" url=\"Part_II_Assembling_Data_For_Analysis/Building_Sequence_Alignments/BLAST/Using_BLAST_Within_MEGA.htm\" /></data>";

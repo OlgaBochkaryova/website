@@ -37,4 +37,4 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
 
 **2012 Master of Science** (applied mathematics and physics), Moscow Institute of Physics and Technology (BSc in 2010).
 
-[Full CV](/2021-09-01_CV_Bochkareva.pdf)
+[Full CV](/cv_bochkareva.pdf)

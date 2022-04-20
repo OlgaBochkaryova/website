@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Overview","url":"Distances_Menu.htm"},{"type":"item","name":"Compute Pairwise","url":"Compute_Pairwise.htm"},{"type":"item","name":"Compute Overall Mean","url":"Compute_Overall_Mean.htm"},{"type":"item","name":"Compute Within Groups Mean","url":"Compute_Within_Groups_Mean.htm"},{"type":"item","name":"Compute Between Groups Means","url":"Compute_Between_Groups_Means.htm"},{"type":"item","name":"Compute Net Between Groups Means","url":"Compute_Net_Between_Groups_Means.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"No. of differences","url":"No_of_differences_Nucleotide.htm"},{"type":"item","name":"p-distance","url":"p-distance_Nucleotide.htm"},{"type":"item","name":"Jukes-Cantor distance","url":"Jukes-Cantor_distance.htm"},{"type":"item","name":"Tajima-Nei distance","url":"Tajima-Nei_distance.htm"},{"type":"item","name":"Kimura 2-parameter distance","url":"Kimura_2-parameter_distance.htm"},{"type":"item","name":"Tamura 3-parameter distance","url":"Tamura_3-parameter_distance.htm"},{"type":"item","name":"Tamura-Nei distance","url":"Tamura-Nei_distance.htm"},{"type":"item","name":"Maximum Composite Likelihood Method","url":"Maximum_Composite_Likelihood_Method.htm"},{"type":"book","name":"Gamma Distances","key":"toc48"},{"type":"book","name":"Heterogeneous Patterns","key":"toc49"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

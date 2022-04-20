@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Computing the Gamma Parameter (a)","url":"Computing_the_Gamma_Parameter_a.htm"},{"type":"item","name":"Equal Input Model","url":"Equal_Input_Model_Gamma.htm"},{"type":"item","name":"Jukes-Cantor Gamma distance","url":"Jukes-Cantor_Gamma_distance.htm"},{"type":"item","name":"Kimura gamma distance","url":"Kimura_gamma_distance.htm"},{"type":"item","name":"Tajima Nei distance","url":"Tajima_Nei_distance_Gamma_rates.htm"},{"type":"item","name":"Tamura-Nei gamma distance","url":"Tamura-Nei_gamma_distance.htm"},{"type":"item","name":"Tamura 3-parameter","url":"Tamura_3-parameter_Gamma.htm"},{"type":"item","name":"Maximum Composite Likelihood (Gamma Rates)","url":"Maximum_Composite_Likelihood_Gamma_Rates.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

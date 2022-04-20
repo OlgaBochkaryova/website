@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Part V: Visualizing and Exploring Data\"><book name=\"Distance Matrix Explorer\" src=\"toc80.js\" /><book name=\"Sequence Data Explorer\" src=\"toc81.js\" /><book name=\"Tree Explorer\" src=\"toc86.js\" /><book name=\"Alignment Explorer\" src=\"toc87.js\" /></data>";

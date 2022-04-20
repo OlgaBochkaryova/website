@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Data Menu","url":"Data_Menu_(Sequence_Data_Explorer).htm#bc-1"},{"type":"item","name":"Translate/Untranslate","url":"Translate_Untranslate_(in_Sequence_Data_Explorer).htm#bc-1"},{"type":"item","name":"Select Genetic Code","url":"Select_Genetic_Code_(in_Sequence_Data_Explorer).htm#bc-1"},{"type":"item","name":"Setup/Select Taxa & Groups","url":"Setup_Select_Taxa_Groups_in_Sequence_Data_Explorer.htm#bc-2"},{"type":"item","name":"Setup/Select Genes & Domains","url":"Setup_Select_Genes___Domains_(Sequence_Data_Explorer).htm#bc-2"},{"type":"item","name":"Export Data","url":"Export_Data_(Sequence_Data_Explorer).htm#bc-1"},{"type":"item","name":"Quit Data Viewer","url":"Quit_Data_Viewer.htm#bc-1"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

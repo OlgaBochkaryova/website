@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc37.js\"  name=\"Search Menu\"><item name=\"Find\" url=\"Find_in_Text_Editor.htm\" /><item name=\"Find Again\" url=\"Find_Again_in_Text_Editor.htm\" /><item name=\"Replace\" url=\"Replace_in_Text_Editor.htm\" /></data>";

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Alignment Menu","url":"Alignment_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Display Menu","url":"Display_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Edit Menu","url":"Edit_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Data Menu","url":"Data_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Search Menu","url":"Search_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Sequencer Menu","url":"Sequencer_Menu_in_Alignment_Explorer.htm"},{"type":"item","name":"Web Menu","url":"Web_Menu_in_Alignment_Explorer.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

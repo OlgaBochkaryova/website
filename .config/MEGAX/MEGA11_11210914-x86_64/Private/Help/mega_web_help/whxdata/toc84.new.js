@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"General Description","url":"Highlight_Menu_in_Sequence_Data_Explorer.htm#bc-1"},{"type":"item","name":"Highlight Conserved Sites","url":"Highlight_Conserved_Sites.htm#bc-1"},{"type":"item","name":"Highlight Variable Sites","url":"Highlight_Variable_Sites.htm#bc-1"},{"type":"item","name":"Highlight Singleton Sites","url":"Highlight_Singleton_Sites.htm#bc-1"},{"type":"item","name":"Highlight Parsimony Informative Sites","url":"Highlight_Parsimony_Informative_Sites.htm#bc-1"},{"type":"item","name":"Highlight 0-fold Degenerate Sites","url":"Highlight_0-fold_Degenerate_Sites.htm#bc-1"},{"type":"item","name":"Highlight 2-fold Degenerate Sites","url":"Highlight_2-fold_Degenerate_Sites.htm#bc-1"},{"type":"item","name":"Highlight 4-fold Degenerate Sites","url":"Highlight_4-fold_Degenerate_Sites.htm#bc-1"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

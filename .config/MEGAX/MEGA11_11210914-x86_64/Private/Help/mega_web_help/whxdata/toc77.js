@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc74.js\"  name=\"References\"><item name=\"Pauline and Henikoff 2003\" url=\"Pauline_and_Henikoff_2003.htm\" /><item name=\"Kumar et al. 2012\" url=\"Kumar_et_al_EvoD_2012.htm\" /><item name=\"Adzhubei et al. 2010\" url=\"Adzhubei_et_al_2010.htm\" /></data>";

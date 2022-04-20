@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc91.js\"  name=\"Ancestors Menu\"><item name=\"Infer Ancestral Sequences (ML)\" url=\"Inferring_Ancestral_Sequences_ML.htm#bc-1\" /><item name=\"Infer Ancestral Sequences (MP)\" url=\"Inferring_Ancestral_Sequences_MP.htm#bc-1\" /></data>";

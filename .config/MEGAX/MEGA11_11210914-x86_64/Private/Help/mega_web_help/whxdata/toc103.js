@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc91.js\"  name=\"Diagnose Menu\"><item name=\"Diagnose Mutations\" url=\"Diagnose_Mutations.htm\" /></data>";

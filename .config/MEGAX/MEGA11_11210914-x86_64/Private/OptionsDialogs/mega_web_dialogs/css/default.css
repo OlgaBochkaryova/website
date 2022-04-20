@@ -1,0 +1,1004 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+/*html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+}
+ HTML5 display-role reset for older browsers 
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+        display: block;
+}
+body {
+        line-height: 1;
+}
+ol, ul {
+        list-style: none;
+}
+blockquote, q {
+        quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+        content: '';
+        content: none;
+}
+table {
+        border-collapse: collapse;
+        border-spacing: 0;
+}*/
+
+/**** FONTS ****/
+@font-face {
+  font-family: "Proxima Nova";
+  src: url('../fonts/proxima-nova/ProximaNova-Regular_0.otf');
+}
+
+@font-face {
+  font-family: "Proxima Nova Bold";
+  src: url('../fonts/proxima-nova/ProximaNova-Bold_0.otf');
+}
+
+@font-face {
+  font-family: "Flama";
+  src: url('../fonts/flama/Flama-Regular_7.otf');
+}
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+window, input, textarea, label,
+section-label, div {
+  font-family: "Proxima Nova";
+  color: #222;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  text-align: center;
+}
+
+.h1 {
+  font-size: 24px;
+}
+.h2 {
+  font-size: 20px;
+}
+.h3 {
+  font-size: 18px;
+}
+.h4 {
+  font-size: 16px;
+}
+
+label {
+  font-family: "Flama";
+  margin: 0 10px 0 0;
+  color: #222;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+/**** SITE WIDE ****/
+html {
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow-x: hidden;
+}
+html, body {
+    padding: 0;
+    background-color: #F7F8F8;
+    font-size: 13px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100%;
+}
+textarea {
+    height: auto;
+    overflow-y: scroll;
+    resize: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+* {
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+}
+.active {
+    color: #e74c3c !important;
+}
+.active:hover  {
+    color: #f9f9f9 !important;
+}
+
+.error {
+    color: red;
+}
+.container {
+    position: fixed;
+    width: 388px;
+    height: 500px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin: 1px;
+    border: none;
+}
+.main-container {
+    margin-top: 20px;
+    position: fixed;
+}
+.container-default {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: fixed;
+}
+#clustal_container {
+    margin-left: 12px;
+}
+.boxed {
+    padding: 0 15px;
+    margin: 0;
+}
+.box_outside_accordion {
+    border-top: 1px solid #8BAAC6;
+    padding: 10px 0 10px 30px;
+    width: 100%;
+}
+div.accordion_box {
+    width: 100%;
+    margin: 5px 0 15px 15px;
+    display: inline-block;
+}
+.main-heading {
+  font-family: "Proxima Nova Bold", sans-serif;
+  font-size: 14.55px;
+  color: #222;
+  margin: 10px 0 5px 0;
+}
+
+.secondary-heading {
+  font-family: "Proxima Nova Bold", sans-serif;
+  font-size: 13px;
+  color: #222;
+  margin: 4px 0 5px -15px;
+}
+
+.small_box {
+    border: 1px solid #8BAAC6;
+    width: 174px;
+    height: 81px;
+    padding: 9px;
+}
+
+
+.ui-accordion {
+    margin-left: 0px;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: none;
+    font-weight: normal;
+}
+.ui-icon-background, .ui-state-active .ui-icon-background {
+    border: #68110d;
+}
+/*Dropdown Arrows*/
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 6px;
+  right: 1px;
+}
+#selectable .ui-selecting { background: #007fff; }
+#selectable .ui-selected { background: #007fff; color: white; }
+#selectable { 
+    list-style-type: none; 
+    margin-left: 0px; 
+    padding: 9px; 
+    width: 80%; 
+    height: 450px;
+    width: 170px;
+    border: 1px solid #8BAAC6;
+    background-color: #FFF;
+
+}
+
+.select2-container--open .select2-dropdown--below {
+  margin-top: -5px;
+}
+
+.ui-spinner {
+    display: flex;
+    align-items: center;
+    width: 60px;
+    height: 28px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.ui-spinner-input {
+  padding: 1px 0;
+}
+
+span.ui-widget input:focus,
+span.ui-widget select:focus,
+span.ui-widget textarea:focus,
+span.ui-widget button:focus {
+  outline: none;
+}
+
+#br-half {
+    height: 0.5px;
+}
+.section-label {
+    font-weight: bold;
+}
+.red {
+    background-color: red;
+}
+.white {
+    background-color: white;
+}
+.yellow {
+    background-color: yellow;
+}
+
+
+#accordion .ui-accordion-header {
+    display: flex;
+    align-items: center;
+    background-color: #ccc;
+    color: #111;
+    border: #0D3349;
+    height: 30px;
+    font-size: 15px;
+    margin: 0 -9px 2px -9px;
+}
+#accordion .ui-accordion-header:focus {
+  outline: none;
+}
+
+.select2-container {
+  margin-right: 0;
+}
+
+.select2-container--default .select2-selection--single {
+  margin: 5px 0;
+}
+
+.select2-container--default:focus, .select2-selection--single:focus, .select2-selection__rendered:focus {
+  outline: 1px solid #ddd;
+}
+
+
+#accordion .ui-state-active{ 
+    background-color: #48a2b1;
+    color: #FFF;
+}
+.ui-accordion .ui-accordion-content {
+  padding: 0 15px;
+  overflow: hidden;
+}
+.ui-accordion-content {
+    width: 100%;
+    background-color: #F7F8F8;
+    overflow-x: hidden;
+    border: none;
+}
+
+.code_table_dialog {
+    width: 400px;
+    height: 500px;
+    margin-left: -10px;
+}
+
+.file-upload {
+    position: relative;
+    margin:0px;
+}
+.file-upload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1px;
+    padding: 1px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=2);
+    height: 27px;
+}
+
+selectpicker {
+    background-color: white;
+    text-align: center;
+    height: 30px;
+    position: relative;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+.selectpicker.active {
+    background-color: white;
+    text-align: center;
+    height: 20px;
+    position: relative;
+}
+.selectpicker.option {
+    text-align: center;
+    position: relative;
+}
+.scrollbox {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #8BAAC6;
+    padding: 3px;
+}
+input {
+    height: 28px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    padding: 0px 0px 0px 8px;
+}
+.gap_input {
+    height: 28px;
+    width: 100px;
+}
+.vertical {
+    margin-left: -280px;
+    padding-top: 350px;
+    padding-left: 0px;
+    position: absolute;
+    width: 230px;
+    -webkit-transform: rotate(-90deg); 
+    -moz-transform: rotate(-90deg); 
+    -o-transform: rotate(-90deg); 
+    transform: rotate(-90deg);
+}
+.vertical2 {
+    margin-left: 220px;
+    padding-top: 580px;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    -webkit-transform: rotate(-270deg); 
+    -moz-transform: rotate(-270deg); 
+    -o-transform: rotate(-270deg); 
+    transform: rotate(-270deg);
+}
+.width_100 {
+    height: 28px;
+    width: 100px;
+}
+.width_135 {
+    height: 28px;
+    width: 135px;
+}
+.width_150 {
+    height: 28px;
+    width: 150px;
+}
+.width_170 {
+    height: 28px;
+    width: 170px;
+}
+.width_200 {
+    height: 28px;
+    width: 200px;
+}
+.width_225 {
+    height: 28px;
+    width: 225px;
+}
+.codon_table_page {
+    margin-top: -42px;
+    margin-left: -43px;
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    transform: scale(0.85);
+    position: fixed;
+    padding-left: 20px;
+    min-height: 550px;
+    max-height: 550px;
+    min-width: 450px;
+    max-width: 450px;
+}
+
+.genetic_code_output_page {
+    width: 400px;
+    max-width: 400px;
+    margin-left: -10px;
+}
+.genetic_code_view_table {
+    width: 400px;
+    max-width: 400px;
+    margin-left: -10px;
+}
+#clustalw_codons_upload_guide_tree_file {
+    /*visibility: hidden;*/
+}
+#codon_table {
+    height: 300px;
+    width: 350px;
+    margin-left: 20px;
+}
+.genetic_code_title {
+    height: 20px;
+    width: 240px;
+}
+.codon_name_label {
+    padding-left: 30px;
+}
+select.genetic_code_output_option {
+    height: 27px;
+    width: 360px;
+}
+select.genetic_code_view_option {
+    height: 27px;
+    width: 360px;
+}
+.genetic_code_output_filename {
+    height: 27px;
+    width: 320px;
+}
+#genetic_code_output_upload_file {
+    visibility: hidden;
+}
+#code_output_upload_file {
+    visibility: hidden;
+}
+.seqdata_export_title {
+    height: 27px;
+    width: 252px;
+}
+.seqdata_export_description {
+    height: 45px;
+    width: 252px;
+}
+select {
+    width: 153px;
+    height: 27px;
+}
+select.select_codon {
+    height: 30px;
+    width: 80px;
+}
+option:checked {
+    color: white;
+    background: white;
+}
+.font_button {
+    height: 27px;
+    width: 108px;
+    color: #222;
+    font-weight: bold;
+    background-color: #E1E2E1;
+    border-color: #8BAAC6;
+    border-width: 1px;
+    padding-left: 4px;;
+    padding-left: 0;
+}
+.upload_button {
+    height: 27px;
+    width: 80px;
+    color: #222;
+    background-color: #E1E2E1;
+}
+.color_input{
+    height: 20px;
+    width: 28px;
+}
+
+.color_input2{
+    height: 20px;
+    width: 28px;
+    margin: 0;
+    background: #222;
+
+}
+.color_label {
+    margin-right: 2px;
+    padding-right: 2px;
+}
+.font_weight_normal {
+    font-weight: normal;
+}
+.font_weight_500 {
+    font-weight: 500;
+}
+
+input.subtree_options_name_caption {
+    height: 28px;
+    width: 100%; 
+}
+
+.subtree_image_upload_box {
+    height: 290px;
+    width: 370px;
+    background-color: #fff;
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+select.subtree_options_branch_lines {
+    height: 27px;
+    width: 117px;
+}
+select.subtree_options_select_lines_2 {
+    height: 27px;
+    width: 260px;    
+}
+select.subtree_options_node_shape {
+    height: 27px;
+    width: 117px;    
+}
+select.subtree_options_bracket_style{
+    height: 27px;
+    width: 108px;
+}
+select.subtree_options_fill_pattern {
+    height: 27px;
+    width: 260px;
+}
+select.subtree_options_branch_width {
+    height: 27px;
+    width: 260px;
+}
+select.subtree_options_branch_style {
+    height: 27px;
+    width: 260px;
+}
+.ui-button {
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+/* Hide the checkbox */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: absolute;
+    left: -9999px;
+}
+
+/* Prepare the label */
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+    position: relative; /* permet de positionner les pseudo-éléments */
+    padding-left: 25px; /* fait un peu d'espace pour notre case à venir */
+    cursor: pointer;    /* affiche un curseur adapté */
+}
+/* Checkboxes aspect */
+/* :before is for the box */
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 18px;
+    height: 18px; /* dim. of the box */
+    border: 1px solid lightgrey;
+    background: white;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 4px;
+}
+
+/* Check symbol aspect */
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+    content: '✔';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) !important;
+    left: 2px;
+    font-size: 16px;
+    color: #222;
+    transition: all .2s; /* animation incoming :p */
+}
+/* if "not checked" */
+[type="checkbox"]:not(:checked) + label:after {
+    opacity: 0; /* invisible */
+    transform: scale(0); /* scaled down to 0 */
+}
+/* If "checked" */
+[type="checkbox"]:checked + label:after {
+    opacity: 1; /* visible */
+    transform: scale(1); /* scaled up to normal */
+}
+/* Disabled aspect */
+[type="checkbox"]:disabled:not(:checked) + label:before,
+[type="checkbox"]:disabled:checked + label:before {
+    box-shadow: none;
+    border-color: #bbb;
+    background-color: #ddd;
+}
+/* Disabled checked aspect */
+[type="checkbox"]:disabled:checked + label:after {
+    color: #999;
+}
+/* Styling label when disabled? :p */
+[type="checkbox"]:disabled + label {
+    color: #aaa;
+}
+
+/* Focused item */
+[type="checkbox"]:checked:focus + label:before,
+[type="checkbox"]:not(:checked):focus + label:before {
+    border: 1px dotted blue;
+}
+
+.rectangle_tree_image {
+  display: block;
+  margin: 30px auto;
+  height: auto;
+  max-width: 100%;
+  padding: 0;
+}
+
+.circle_tree_image {
+    background-image: url("img/circle.png");
+    height: 200px;
+    width: 335px;
+}
+
+.radiation_tree_image {
+    background-image: url("img/radiation_tree.png");
+    height: 200px;
+    width: 335px;
+}
+
+select.tree_options_branch_lines {
+    height: 27px;
+    width: 250px;
+}
+
+select.tree_options_scale_lines {
+    height: 27px;
+    width: 165px; 
+}
+
+select.tree_options_labels_shape_options {
+    height: 27px;
+    width: 118px;
+    font-size: 25px;
+}
+option.avatar {
+    background-repeat: no-repeat ;
+    height:30px;
+    width: 200px;                    
+}
+.avatar .ui-icon {
+    background-position: center;
+    height:30px;
+    width: 200px; 
+}
+
+.subtree_options_branch_width.w1  {
+    font-size: 5px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+    width: 130px;
+
+}
+
+option.w2  {
+    font-size:8px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+}
+
+option.w3 {
+    font-size: 11px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+}
+
+option.w4 {
+    font-size: 14px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+}
+
+option.w5 {
+    font-size: 17px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+}
+
+option.w6 {
+    font-size: 20px;
+    background-repeat: repeat;
+    display: inline-block;
+    position: static;
+}
+
+.grayout {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+.dloop_data_type {
+    height: 87px;
+    width: 160px;
+    border: solid #8BAAC6 1px;
+    background-color: #FFF;
+    padding: 7px;
+    margin-left: -15px;
+    margin-top: 6px;
+}
+.dloop_input {
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+.dloop_container {
+    display: none;
+    position: fixed;
+}
+.dloop_boxed {
+    border: solid #8BAAC6 1px;
+    margin-left: 2px;
+    margin-right: 4px;
+    margin-top: 6px;
+    padding: 5px;
+    width: 165px;
+}
+.dloop_input_form {
+    margin-top: -5px;
+    margin-left: 5px;
+}
+.add-small-margin {
+    margin-top: 4px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    margin-top: 7px;
+}
+.tabLink {
+  display: block;
+  margin: 0;
+  padding: 0px 0px 0px 7px;
+  color: #222;
+}
+a:active {
+    background-color: #007fff;
+    color: white;
+}
+a:hover {
+  text-decoration: none;
+}
+.clusterize-content{
+    width: 200px;
+}
+.shift_buttons {
+    padding-left: 15px;
+}
+.modal {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+.subtree_color {
+    width: 250px;
+
+}
+.td_selected {
+    background-color:#8BAAC6;;
+}
+.clusterize {
+    width: 300px !important;
+}
+.taxon_header {
+    padding-left: 66px;
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+    margin-bottom: 0;
+}
+.delete_genetic_code_dialog {
+    color: #222;
+    font-weight: bold;
+}
+option:empty {
+    width: 153px;
+    height: 27px;
+    background: white;
+}
+.output_format {
+    width: 320px;
+}
+.code_output_filename {
+    height: 27px;
+    width: 320px;
+}
+.choose_sites {
+    width: 320px;
+}
+.section-label-codon-positions {
+    font-size: 12.5px;
+}
+fieldset.dloop_border {
+    border-color: #8BAAC6;
+    border: 1px solid #8BAAC6;
+    padding-left: 0px;
+    color: #222;
+}
+
+legend.dloop_border {
+    border-color: #8BAAC6;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    width:auto;
+    border-bottom:none;
+    color: #222;
+    margin-bottom: 5px;
+}
+.dloop_border {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+fieldset.newick_border {
+    border-color: #8BAAC6;
+    border: 1px solid #8BAAC6;
+    padding-left: 4px;
+    color: #222;
+    font-size: 12px;
+}
+
+legend.newick_border {
+    border-color: #8BAAC6;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    width:auto;
+    margin-left: 4px;
+    border-bottom:none;
+    margin-bottom: 5px;
+    color: #222;
+}
+.newick_border {
+    margin-left: -8px;
+    margin-right: 0px;   
+    width: 120px;
+}
+
+#subtree_options_upload_image_file {
+    visibility: hidden;
+}
+#subtree_options_export_image_file {
+    visibility: hidden;
+}
+.width_80 {
+    width: 80px;
+}
+.subtree_options_export_image_button {
+    appearance: button;
+    -moz-appearance: button;
+    -webkit-appearance: button;
+    text-decoration: none;
+    display: inline-block; padding: 3px 18px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1em;
+} 
+.clustalw_upload_button {
+    width: 135px;
+    height: 25px;
+}
+.clustalw_upload_small_button {
+    width: 100px;
+    height: 25px;
+}
+.overflow-auto {
+	overflow: auto;
+}
+.cds-panel {
+	height: 300px;
+}
+
+/*UI Spinner*/
+.ui-spinner-input {
+  height: auto;
+  margin: 0;
+  padding: 0 0 0 8px;
+}
+
+
+
+/* Spacing */
+.add-top-margin {
+    margin-top: 9px;
+}
+.add-side-margin {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.subtract-left-margin {
+  margin-left: -15px;
+}
+
+
+
+/*CSS Grid*/
+.grid-col-1, .grid-col-2, .grid-col-3, .grid-col-4,
+.grid-col-1-aside, .grid-col-2-aside, .grid-col-3-aside, .grid-col-4-aside {
+  display: grid;
+  grid-gap: 5px;
+  width: 350px;
+}
+
+.grid-col-1 {grid-template-columns: auto;}
+.grid-col-2 {grid-template-columns: 50% auto;}
+.grid-col-3 {grid-template-columns: 110px 60px auto;}
+.grid-col-4 {grid-template-columns: auto;}
+
+/*Usually used with radio buttons*/
+.grid-col-2-aside {grid-template-columns: 10px auto;}
+
+/*Specific Grid overrides*/
+.input-data-options {grid-template-columns: 110px auto;}
+
+.tree-options {
+  grid-template-columns: 110px 60px 80px;
+  width: auto;
+}
+
+.tree-options-error {
+  width: 260px;
+}
+
+.tree-scale {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  grid-gap: 5px;
+  width: auto;
+}
+
+.tree-scale-format {
+  grid-template-columns: 70px 1fr 1fr;
+}
+
+.tree-cutoff {
+  grid-template-columns: 205px 60px auto;
+}
+
+.branch {
+  grid-template-columns: 70px 60px 1fr;
+}
+
+.subtree {
+  grid-template-columns: 71px 60px 1fr;
+}

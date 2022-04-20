@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc51.js\"  name=\"Heterogeneous Patterns\"><item name=\"Equal Input Model\" url=\"Equal_Input_Model_Heterogeneous_Patterns.htm#bc-1\" /></data>";

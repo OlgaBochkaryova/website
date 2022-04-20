@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"MEGA Format","url":"Part_III_Input_Data_Types_and_File_Format/MEGA_Input_Data_File_Formats/MEGA_Format.htm"},{"type":"item","name":"MEGA Saved Sessions","url":"Part_III_Input_Data_Types_and_File_Format/MEGA_Input_Data_File_Formats/MEGA_Saved_Sessions.htm"},{"type":"book","name":"General Conventions","key":"toc16"},{"type":"book","name":"Sequence Input Data","key":"toc17"},{"type":"book","name":"Distance Input Data","key":"toc21"},{"type":"book","name":"Tree Input Data","key":"toc23"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

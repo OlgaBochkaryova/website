@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc15.js\"  name=\"Distance Input Data\"><item name=\"General Considerations (Distance Data Format)\" url=\"General_Considerations_(Distance_Data_Format).htm\" /><item name=\"Keywords for Format Statement\" url=\"Keywords_for_Format_Statement.htm\" /><book name=\"Defining Groups\" src=\"toc22.js\" /></data>";

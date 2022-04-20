@@ -1,0 +1,5 @@
+2022/01/19-09:05:03.998 7e4 Reusing MANIFEST /home/obochkar/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/01/19-09:05:03.999 7e4 Recovering log #1302
+2022/01/19-09:05:04.001 7e4 Level-0 table #1305: started
+2022/01/19-09:05:04.006 7e4 Level-0 table #1305: 89776 bytes OK
+2022/01/19-09:05:04.011 7e4 Delete type=0 #1302
