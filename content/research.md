@@ -12,11 +12,11 @@ title: "Research"
 **The project aims to describe composition and evolution of *ipaH* genes, effectors of Type 3 secretion system, in pathogens of different hosts.**
 These genes are key factors of *Shigella* invasion that which are used for disease genotyping. Until recently, Shigella were thought to be primate-restricted pathogens. However, recent genomic studies confirmed ipaH genes in genome of Escherichia marmotae, a potential marmot pathogen, and of an E. coli extracted from fecal samples of bovine calves, suggesting that non-human hosts may also be infected by these potentially pathogenic to humans strains. We employ a computational approach to predict whether different Escherichia may also be an infectious agent of non-human hosts, which, therefore, may serve as a reservoir of human pathogens and virulence genes.
 
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.10.19.464960v1)
+[Paper]((https://doi.org/10.1038/s41598-022-10827-3))
 
 ## Development of bioinformatic tools for detection and analysis of large-scale genomic variants in bacterial genomes ###
 
-<sup>*</sup>A collaboration with Dr. Nikita Alexeev, Russia
+<sup>*</sup>A collaboration with Dr. Nikita Alexeev
 
 <p style="margin-top: 15px;">
 <div class="col-left">
@@ -35,7 +35,7 @@ development of drugs and vaccines.
 
 </p>
 
-[PaReBrick](https://github.com/ctlab/parallel-rearrangements) [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab691/6380551)
+[The PaReBrick toolkit](https://github.com/ctlab/parallel-rearrangements) [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab691/6380551)
 
 ## Role of gene paralogs in bacterial chromosome maintainance
 
@@ -51,7 +51,7 @@ Copy number variation is the important genomic trait associated with bacterial p
 
 ## Origin and evolution of the multi-chromosome bacterial genomes
 
-<sup>*</sup>A collaboration with Prof. Mikhail Gelfand, Russia and Prof. Fyodor Kondrashov, Austria
+<sup>*</sup>A collaboration with Prof. Mikhail Gelfand and Prof. Fyodor Kondrashov
 
 <p style="margin-top: 15px;">
 <div class="col-left">
