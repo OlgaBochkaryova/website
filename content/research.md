@@ -4,7 +4,7 @@ title: "Research"
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
 ## Fitness effects of short random peptides
-<sup>*</sup>A collaboration with with Dr. Roderich Кromhild, IST Austria
+<sup>*</sup>A collaboration with Dr. Roderich Кromhild, IST Austria
 
 <p style="margin-top: 15px;">
 <div class="col-left">

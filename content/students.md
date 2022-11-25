@@ -7,7 +7,7 @@ title: "(Co-)Supervised students"
 
 **2020 Yulia Yakovleva, Alexey Zabelkin** Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia [paper](https://doi.org/10.1093/bioinformatics/btab691). Co-supervisor: Nikita Alexeyev.
 
-**2020 Kristina Perevoshchikova** Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+**2019, 2020 Kristina Perevoshchikova** Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia [conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
 
 **2019 Zaira Seferbekova** Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
 

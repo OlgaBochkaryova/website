@@ -30,6 +30,7 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
 
 ## Awards
 **2019** [ISTplus postdoctoral fellowship](https://istplus.pages.ist.ac.at/), funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
+
 **2022** [ESPRIT Career Advancement for Postdocs](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme), funding from Austrian Science Fund (FWF) 
 
 ## Education
