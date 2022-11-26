@@ -28,10 +28,10 @@ My [current projects](https://www.bochkareva.me/research/) are focused on:
 - evolution of bacterial communities: pan-genomics, metagenomics, taxonomy.
 
 
-## Awards
+## Funding and Awards
 **2019** [ISTplus postdoctoral fellowship](https://istplus.pages.ist.ac.at/), funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754411.
 
-**2022** [ESPRIT Career Advancement for Postdocs](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme), funding from Austrian Science Fund (FWF) 
+**2022** [ESPRIT Programme (“Early Stage Programme: Research, Innovation and Training”)](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme), funding from Austrian Science Fund (FWF), total amount – 294.015€
 
 ## Education
 

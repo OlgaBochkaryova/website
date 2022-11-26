@@ -5,7 +5,7 @@ title: "Publications"
 [ <sup>#</sup> -- equal contribution. ]
 
 ## Peer-reviewed publications
-
+-- Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche Atypical enteropathogenic E. coli are associated with disease activity in ulcerative colitis, Gut Microbes, 2022, Nov 22; 14(1):2143218 [(DOI)](https://doi.org/10.1080/19490976.2022.2143218)
 - Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva** Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ SciRep 2022
 Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 Oct 03; 38(2):357-363 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
@@ -16,8 +16,6 @@ Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. PeerJ. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
 
 ## Preprints / under review
-
-- Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche Atypical Enteropathogenic E. coli are Associated with Flares in Ulcerative Colitis **under review**
 
 ## Conference proceedings
 
