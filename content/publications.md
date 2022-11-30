@@ -5,7 +5,7 @@ title: "Publications"
 [ <sup>#</sup> -- equal contribution. ]
 
 ## Peer-reviewed publications
-- Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche. Atypical enteropathogenic E. coli are associated with disease activity in ulcerative colitis **Gut Microbes** 2022, Nov 22; 14(1):2143218 [(DOI)](https://doi.org/10.1080/19490976.2022.2143218)
+- Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche. Atypical enteropathogenic _E. coli_ are associated with disease activity in ulcerative colitis **Gut Microbes** 2022, Nov 22; 14(1):2143218 [(DOI)](https://doi.org/10.1080/19490976.2022.2143218)
 - Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva**. Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ **SciRep** 2022
 Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 - Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**<sup>#</sup>, Nikita Alexeev<sup>#</sup>. PaReBrick: PArallel REarrangements and BReaks identification toolkit. **Bioinformatics** 2021 Oct 03; 38(2):357-363 [DOI](https://doi.org/10.1093/bioinformatics/btab691)
