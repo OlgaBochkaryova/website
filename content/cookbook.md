@@ -60,6 +60,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 
 **💾 Data** [OMA orthology database](https://omabrowser.org/oma/home/) ([paper](https://academic.oup.com/bioinformatics/article/33/14/i75/3953943)) - a method and database for the inference of orthologs among complete genomes. 
 
+**📦 Python Package** [PyHMMER](https://pyhmmer.readthedocs.io/en/stable/index.html) is a biological sequence analysis tool that uses profile hidden Markov models to search for sequence homologs.
 
 ## pangenomics
 
@@ -131,6 +132,7 @@ The initiative was started in Gelfand lab. I thank all colleagues for their sugg
 ## GO enrichment
 
 **📦 R Package** [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) ([documentation]()) - a tool set for testing GO terms while accounting for the topology of the GO graph. Different test statistics and different methods for eliminating local similarities and dependencies between GO terms can be implemented and applied.
+**📦 Python Package** [GSEApy](https://github.com/zqfang/GSEApy) ([citation](https://academic.oup.com/bioinformatics/article/39/1/btac757/6847088) - provides a fast and straightforward way to perform enrichment analysis. It requires minimal arguments, provides clear output and operates from both the command line and Python environment, which maximizes the ease of use, accommodates novice programmers and supports large-scale dataset analysis. It also can quickly generate high-quality, publication-ready plots. GSEApy will be one of the fundamental packages for enrichment analysis in Python.
 
 
 ## visualization
