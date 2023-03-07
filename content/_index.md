@@ -10,9 +10,9 @@ hidetoc: true
   </div>
   <div class="col-right">
 
-  **Postdoctoral researcher** at [Kondrashov lab](https://ist.ac.at/en/research/kondrashov-group/), IST Austria, since 2019 [google scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao)
+  **Principal Investigator** at CUBE, UniVienna [google scholar](https://scholar.google.ru/citations?user=vtFGPj8AAAAJ&hl=en&oi=ao)
 
-  **Course instructor** at [Bioinformatics Institute](https://bioinf.me/en), since 2020
+  **Course instructor** at [Bioinformatics Institute](https://bioinf.me/en)
 
   _Computational biology, Genomics, Molecular Evolution_
   

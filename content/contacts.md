@@ -2,9 +2,9 @@
 title: "Contact"
 ---
 
-**e-mail:** *olga.bochkareva@ist.ac.at*
+**e-mail:** *olga.bochkareva@univie.ac.at*
 
-**address:** Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria
+**address:** 1030 Faculty of Life Sciences, University of Vienna, Djerassiplatz 1, Vienna, Austria
 
 **Web page:** [current lab](https://ist.ac.at/en/research/kondrashov-group/)
 
