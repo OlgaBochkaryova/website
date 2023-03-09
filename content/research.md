@@ -3,6 +3,15 @@ title: "Research"
 ---
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
+## Evolution of start codons
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Ecoli starts per genome.png" alt="Research picture" style="max-width: 90%">
+</div></p>
+
+**The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
+
 ## Fitness effects of short random peptides
 <sup>*</sup>A collaboration with Dr. Roderich Кromhild, IST Austria
 
@@ -71,12 +80,12 @@ Copy number variation is the important genomic trait associated with bacterial p
 </div></p>
 
 **The project aims to describe composition and evolution of *ipaH* genes, effectors of Type 3 secretion system, in pathogens of different hosts.**
-These genes are key factors of *Shigella* invasion that which are used for disease genotyping. Until recently, Shigella were thought to be primate-restricted pathogens. However, recent genomic studies confirmed ipaH genes in genome of Escherichia marmotae, a potential marmot pathogen, and of an E. coli extracted from fecal samples of bovine calves, suggesting that non-human hosts may also be infected by these potentially pathogenic to humans strains. We employ a computational approach to predict whether different Escherichia may also be an infectious agent of non-human hosts, which, therefore, may serve as a reservoir of human pathogens and virulence genes.
+These genes are key factors of *Shigella* invasion that which are used for disease genotyping. Until recently, *Shigella* were thought to be primate-restricted pathogens. However, recent genomic studies confirmed *ipaH* genes in genome of *Escherichia marmotae*, a potential marmot pathogen, and of an *E. coli* extracted from fecal samples of bovine calves, suggesting that non-human hosts may also be infected by these potentially pathogenic to humans strains. We employ a computational approach to predict whether different *Escherichia* may also be an infectious agent of non-human hosts, which, therefore, may serve as a reservoir of human pathogens and virulence genes.
 
 [Paper]((https://doi.org/10.1038/s41598-022-10827-3))
 
 ## Other collaborative projects:
-- ***(2022-present)*** **Evolution of start codons** with Dr. Kirti Jain, IST Austria.
-- ***(2020-present)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
+- ***(2022-present)*** **Evolution of _maRAB_ operon in _gammaproteobacteria_** with Dr. Kirti Jain, IST Austria.
+- ***(2020-2022)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
 with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
 - ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supported by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
