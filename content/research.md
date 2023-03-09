@@ -7,7 +7,7 @@ title: "Research"
 
 <p style="margin-top: 15px;">
 <div class="col-left">
-  <img src="/Ecoli starts per genome.eps" alt="Research picture" style="max-width: 90%">
+  <img src="/Ecoli starts per genome.png" alt="Research picture" style="max-width: 90%">
 </div></p>
 
 **The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
