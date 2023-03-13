@@ -31,6 +31,6 @@ an initiative by Dr. Kondrashov to let high-school students participate in real 
 
 <h2>Public lectures </h2>
 
-**2020** Structure and evolution of bacterial chromosomes [video](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) [slides](/Structure and evolution of bacterial genomes.pdf)
+2020 **Structure and evolution of bacterial chromosomes** [video](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) [slides](/Structure and evolution of bacterial genomes.pdf)
 
-**2020** Comparative genomics of prokaryotes, cookbook [video](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) [slides](/IB_bacterial_genomics_2020.pdf)
+2020 **Comparative genomics of prokaryotes, cookbook** [video](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) [slides](/IB_bacterial_genomics_2020.pdf)
