@@ -13,14 +13,6 @@ The course covers basic and advanced topics of comparative genomics necessary fo
 
 [syllabus](/Comparative_genomics_Course_Syllabus.pdf)
 
-**Open / invited lectures**
-
-**2020** [Structure and evolution of bacterial chromosomes](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) (video, in Russian)
-
-**2020** [Comparative genomics of prokaryotes, cookbook](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) (video, in Russian)
-
-
-
 <div class="mainWrapper">
     <img src="/smtblogo.png" style="max-width: 50px;">
     <h2>School of Theoretical and Molecular Biology</h2>
@@ -36,3 +28,9 @@ an initiative by Dr. Kondrashov to let high-school students participate in real 
 - 2019 [Extinction of the secondary chromosome](https://molbioschool.org/media/archive/school2019/77-laboratory-of-bacterial-and-functional-genomics/Poster_Gelfand_3_Boc_9fSM6n3.pdf)
 - 2017 [Rearrangements in _Vibrio_ genomes](https://molbioschool.org/media/archive/2017/15/Gelfand-1-Bochkareva.pdf)
 - 2016 [Genome rearrangements in pathogens](https://molbioschool.org/media/archive/school2016/27-laboratory-of-bacterial-and-functional-genomics/MGelfand-Bochkareva.pdf)
+
+<h2>Public lectures </h2>
+
+**2020** Structure and evolution of bacterial chromosomes [video](https://www.youtube.com/watch?v=DTIpvAnPN_M&t=2405s) [slides](/Structure and evolution of bacterial genomes.pdf)
+
+**2020** Comparative genomics of prokaryotes, cookbook [video](https://www.youtube.com/watch?v=6r80Vrz9mGU&list=PLjKdf6AHvR-EIznBS2gIitIn8lbt1Zjx7&index=5) [slides](/IB_bacterial_genomics_2020.pdf)
