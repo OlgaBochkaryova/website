@@ -16,6 +16,7 @@ Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. **PeerJ**. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
 
 ## Preprints / under review
+- Natalia O Dranenko, Aleksandra D Rodina, Yaroslav V Demenchuk, Mikhail S. Gelfand, **Olga O Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes **bioRxiv** 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
 
 ## Conference proceedings
 
