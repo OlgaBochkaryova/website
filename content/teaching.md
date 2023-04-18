@@ -22,6 +22,8 @@ an initiative by Dr. Kondrashov to let high-school students participate in real 
 
 **Supervised projects**
 
+- 2022 [The dimensionality of protein sequence space](https://storage.googleapis.com/smtb-production.appspot.com/archive/school2022t/bioinformatics-lab/Lab01a_A0_Website_Poster_SeqSpace_full_copy.pdf)
+- 2022 [The Mysteries of the Histidine Triad Protein Family](https://storage.googleapis.com/smtb-production.appspot.com/archive/school2022o/histidine-triad-mysteries/WebsitePr01_Poster-eng_copy.pdf)
 - 2021 [Evolution of genome complexity: Are bacteria as trivial as we expect?](https://molbioschool.org/en/archive/10/)
 - 2020 [Effectors' evolution in pathogenic _E.coli_](https://molbioschool.org/en/archive/9/)
 - 2019 [Mystery of the secondary chromosome](https://molbioschool.org/media/archive/school2019/77-laboratory-of-bacterial-and-functional-genomics/Poster_Gelfand_1_Boc_KToYuq1.pdf)
