@@ -84,8 +84,14 @@ These genes are key factors of *Shigella* invasion that which are used for disea
 
 [Paper]((https://doi.org/10.1038/s41598-022-10827-3))
 
-## Other collaborative projects:
-- ***(2022-present)*** **Evolution of _maRAB_ operon in _gammaproteobacteria_** with Dr. Kirti Jain, IST Austria.
-- ***(2020-2022)*** **Genetic factors under biofilms formation in pathogenic _E.coli_**
-with Prof. Christoph Gasche, Medical University of Vienna, Austria and Dr. Maria Tutukina, Institute of Cell Biophysics RAS, Russia
-- ***(2016-2018)*** **Positive selection and horizontal gene transfer in prokaryotes** with Prof. Marc Robinson-Rechavi, Université de Lausanne, Lausanne, Switzerland, supported by the Russian Foundation of Basic Research and Swiss National Science Foundation, joint grant
+## Сooperation partners:
+2023-present **Prof. David Berry**, University of Vienna, Vienna, **Austria**. Project: Identification of shafflons in gut microbiomes.
+2022-present **Prof. Fyodor Kondrashov**, OIST, Okinawa, **Japan**. Project: Selection forces in multipartite bacterial genomes.
+2022-present **Prof. Calin Guet** IST Austria, Klosterneuburg, **Austria**. Project: Conservation of non-canonical start codons in mar operon genes.
+2022-present **Prof. Olga Kalinina**, Helmholtz Institute for Pharmazeutical Research Saarland (HIPS), **Germany**. Project: Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis
+2021-present **Prof. Dan I. Andersson**, Uppsala University, **Sweden**. Project: Fitness effects of short random peptides.
+2021-present **Prof. Mikhail Gelfand**, IITP RAS, **Russia**. Project: Evolution of multi-partite genomes.
+2020-2022 **Dr. Nikita Alexeev**, ITMO University, Saint Petersburg, **Russia**. Project: Development of the bioinformatic toolkit for whole-genome analysis.
+2020-2022 **Prof. Christoph Gasche**, Medical University of Vienna, Vienna, **Austria**. Project: Genetic factors under biofilms formation in pathogenic E.coli.
+2016-2018 **Prof. Marc Robinson-Rechavi**, Evolutionary Bioinformatics Lab, Department of Ecology and Evolution, Université de Lausanne, Lausanne, **Switzerland**. Project: Positive selection and horizontal gene transfer in prokaryotes.
+2010-2014 **Prof. Pavel Pevzner**, University of California at San Diego, California, **USA**. Project: Application of the MGRA (Multiple Genome Rearrangements and Ancestors) algorithm to microbial data.

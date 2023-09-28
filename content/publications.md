@@ -17,6 +17,7 @@ Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 
 ## Preprints / under review
 - Natalia O Dranenko, Aleksandra D Rodina, Yaroslav V Demenchuk, Mikhail S. Gelfand, **Olga O Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes **bioRxiv** 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
+- Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, **Olga O. Bochkareva** & Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis bioRxiv 2023 Sept 06:556328 [(DOI)](https://www.biorxiv.org/content/10.1101/2023.09.06.556328v1)
 
 ## Conference proceedings
 
