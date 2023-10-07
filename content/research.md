@@ -13,7 +13,7 @@ title: "Research"
 
 **The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them.** There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.g. new ecological niche or host organism) and small colony variation (sustaining variability of phenotypes in pathogenic populations to avoid the host organism’s immune system response).
 
-*The project is supported by the FWF grant #ESP 253-B*
+*The project is supported by the FWF grant [#ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
 ## Role of gene paralogs in bacterial chromosome maintainance
 
@@ -26,7 +26,7 @@ title: "Research"
 **The project aims to investigate the patterns on genomic repeats across the circular bacterial chromosome to reveal interplay between chromosome topology and gene paralogization.**
 Copy number variation is the important genomic trait associated with bacterial phenotype. In particular, number of rRNA gene operons is species-specific and supposed to be associated with ecological niches. On the other hand, such genomic repeats provide substrates for intra-genomic recombination leading to genome rearrangements. We assume that recombination events as well as composition of genomic repeats are shaped by selection forces balancing profit and damages on different levels of chromosome organization.
 
-*The project is supported by the FWF grant #ESP 253-B*
+*The project is supported by the FWF grant [#ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
 ## Machine learning and phylogenetic analysis for prediction of antibiotic resistance
 <sup>*</sup>A collaboration with Prof. Olga Kalinina, HIPS Germany
@@ -38,7 +38,7 @@ Copy number variation is the important genomic trait associated with bacterial p
 
 **The project is aimed to develop ML models for discovery of antibiotics resistance markers.** phylogeny-related measure to increase the performance of machine learning models. We introduce a novel phylogeny-related parallelism score (PRPS), which measures whether a certain feature is correlated with the population structure of a set of samples. We demonstrate that PRPS can be used, in combination with SVM- and random forest-based models, to reduce the number of features in the analysis, while simultaneously increasing models’ performance.
 
-*The project is supported by the FWF grant #ESP 253-B*
+*The project is supported by the FWF grant [#ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
 [preprint](https://www.biorxiv.org/content/10.1101/2023.09.06.556328v1)
 
@@ -53,7 +53,7 @@ Copy number variation is the important genomic trait associated with bacterial p
 **The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
 
 ## Fitness effects of short random peptides
-<sup>*</sup>A collaboration with Prof. Dan I. Andersson, Uppsala and Dr. Roderich Кromhild, IST Austria
+<sup>*</sup>A collaboration with Prof. Dan I. Andersson, Uppsala University and Dr. Roderich Кromhild, IST Austria
 
 <p style="margin-top: 15px;">
 <div class="col-left">
@@ -82,7 +82,7 @@ and medically-relevant phenotypes may contribute to the efficient development of
 
 ## Origin and evolution of the multi-chromosome bacterial genomes
 
-<sup>*</sup>A collaboration with Prof. Mikhail Gelfand and Prof. Fyodor Kondrashov
+<sup>*</sup>A collaboration with Prof. Mikhail Gelfand
 
 <p style="margin-top: 15px;">
 <div class="col-left">
