@@ -3,17 +3,57 @@ title: "Research"
 ---
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
-## Evolution of start codons
+## Detecting the impact of large-scale genomic features on bacterial phenotypes
 
 <p style="margin-top: 15px;">
 <div class="col-left">
-  <img src="/Ecoli starts per genome.png" alt="Research picture" style="max-width: 90%">
+  <img src="/Research/StructuralVariants.png" alt="Research picture" style="max-width: 90%">
+</div>
+</p>
+
+**The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them.** There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.g. new ecological niche or host organism) and small colony variation (sustaining variability of phenotypes in pathogenic populations to avoid the host organism’s immune system response).
+
+*The project is supported by the FWF grant #ESP 253-B*
+
+## Role of gene paralogs in bacterial chromosome maintainance
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/repeats.png" alt="Research picture" style="max-width: 90%">
+</div>
+</p>
+
+**The project aims to investigate the patterns on genomic repeats across the circular bacterial chromosome to reveal interplay between chromosome topology and gene paralogization.**
+Copy number variation is the important genomic trait associated with bacterial phenotype. In particular, number of rRNA gene operons is species-specific and supposed to be associated with ecological niches. On the other hand, such genomic repeats provide substrates for intra-genomic recombination leading to genome rearrangements. We assume that recombination events as well as composition of genomic repeats are shaped by selection forces balancing profit and damages on different levels of chromosome organization.
+
+*The project is supported by the FWF grant #ESP 253-B*
+
+## Machine learning and phylogenetic analysis for prediction of antibiotic resistance
+<sup>*</sup>A collaboration with Prof. Olga Kalinina, HIPS Germany
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Research/ML.png" alt="Research picture" style="max-width: 90%">
+</div></p>
+
+**The project is aimed to develop ML models for discovery of antibiotics resistance markers.** phylogeny-related measure to increase the performance of machine learning models. We introduce a novel phylogeny-related parallelism score (PRPS), which measures whether a certain feature is correlated with the population structure of a set of samples. We demonstrate that PRPS can be used, in combination with SVM- and random forest-based models, to reduce the number of features in the analysis, while simultaneously increasing models’ performance.
+
+*The project is supported by the FWF grant #ESP 253-B*
+
+[preprint](https://www.biorxiv.org/content/10.1101/2023.09.06.556328v1)
+
+## Role of non-canonical start codons in bacteria
+<sup>*</sup>A collaboration with Prof. Calin Guet, IST Austria
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Research/StartCodons.png" alt="Research picture" style="max-width: 90%">
 </div></p>
 
 **The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
 
 ## Fitness effects of short random peptides
-<sup>*</sup>A collaboration with Dr. Roderich Кromhild, IST Austria
+<sup>*</sup>A collaboration with Prof. Dan I. Andersson, Uppsala and Dr. Roderich Кromhild, IST Austria
 
 <p style="margin-top: 15px;">
 <div class="col-left">
@@ -30,13 +70,12 @@ title: "Research"
 <div class="col-left">
   <img src="/pipeline-1-1.png" alt="Research picture" style="max-width: 90%">
 </div>
+</p>
 
 **The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes.**
 We have developed a strategy for extract information form genomic data to detect parallel
 rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic resistance mechanisms and formation of small colony variants, and the study of the selective forces in genomic evolution underlying complex phenotypes. The application of this approach and the concomitant understanding of connections between detected genome rearrangements
 and medically-relevant phenotypes may contribute to the efficient development of drugs and vaccines.
-
-</p>
 
 [The PaReBrick toolkit](https://github.com/ctlab/parallel-rearrangements) [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab691/6380551)
 
@@ -56,22 +95,11 @@ dispensable plasmids. But approximately 10% of the bacteria with completely sequ
 mostly pathogens and plant symbionts, have essential megaplasmids and/or chromids.  However, the advantages of multi­chromosomal genome organiza­tion remain unclear.
 </p>
 
-*The project is supported by the European Union’s Horizon 2020 Research and Innovation Programme
+*The project was supported by the European Union’s Horizon 2020 Research and Innovation Programme
 under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
 
-[Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
+[Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf), [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.09.536151v2)
 
-## Role of gene paralogs in bacterial chromosome maintainance
-
-<p style="margin-top: 15px;">
-<div class="col-left">
-  <img src="/repeats.png" alt="Research picture" style="max-width: 90%">
-</div>
-
-**The project aims to investigate the patterns on genomic repeats across the circular bacterial chromosome to reveal interplay between chromosome topology and gene paralogization.**
-Copy number variation is the important genomic trait associated with bacterial phenotype. In particular, number of rRNA gene operons is species-specific and supposed to be associated with ecological niches. On the other hand, such genomic repeats provide substrates for intra-genomic recombination leading to genome rearrangements. We assume that recombination events as well as composition of genomic repeats are shaped by selection forces balancing profit and damages on different levels of chromosome organization.
-
-</p>
 
 ## Evolution of virulence factors in human-host and non-human-host invasive *Escherichia* 
 <p style="margin-top: 15px;">
