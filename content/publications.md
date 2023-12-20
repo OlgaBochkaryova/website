@@ -5,6 +5,7 @@ title: "Publications"
 [ <sup>#</sup> -- equal contribution. ]
 
 ## Peer-reviewed publications
+- Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, **Olga O. Bochkareva** & Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in _M. tuberculosis_ **BMC Microbiol** 23, 404 (2023) [(DOI)](https://doi.org/10.1186/s12866-023-03147-7)
 - Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, **Olga Bochkareva**, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche. Atypical enteropathogenic _E. coli_ are associated with disease activity in ulcerative colitis **Gut Microbes** 2022, Nov 22; 14(1):2143218 [(DOI)](https://doi.org/10.1080/19490976.2022.2143218)
 - Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, **Olga O Bochkareva**. Chromosome-encoded IpaH ubiquitin ligases indicate non-human pathogenic _Escherichia_ **SciRep** 2022
 Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
@@ -17,7 +18,7 @@ Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 
 ## Preprints / under review
 - Natalia O Dranenko, Aleksandra D Rodina, Yaroslav V Demenchuk, Mikhail S. Gelfand, **Olga O Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes **bioRxiv** 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
-- Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, **Olga O. Bochkareva** & Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis bioRxiv 2023 Sept 06:556328 [(DOI)](https://www.biorxiv.org/content/10.1101/2023.09.06.556328v1)
+- Ekaterina V. Vostokova, Natalia O. Dranenko, Mikhail S. Gelfand, **Olga O. Bochkareva** Genome rearrangements drive evolution of ANK genes in _Wolbachia_ bioRxiv 2023 October 27:563763 [(DOI)](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)
 
 ## Conference proceedings
 

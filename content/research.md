@@ -95,8 +95,7 @@ dispensable plasmids. But approximately 10% of the bacteria with completely sequ
 mostly pathogens and plant symbionts, have essential megaplasmids and/or chromids.  However, the advantages of multi­chromosomal genome organiza­tion remain unclear.
 </p>
 
-*The project was supported by the European Union’s Horizon 2020 Research and Innovation Programme
-under the Marie Skłodowska­Curie Grant Agreement No. 754411.*
+*The project was supported by the Marie Skłodowska­Curie Grant No. 754411.*
 
 [Conference paper](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf), [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.09.536151v2)
 
