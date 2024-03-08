@@ -3,6 +3,18 @@ title: "Research"
 ---
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
+## Phase variation of susC genes in Bacteroides
+<sup>*</sup>A collaboration with Prof. David Berry, CMESS, UniWien, Austria
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Research/bacteroides.png" alt="Research picture" style="max-width: 90%">
+</div>
+</p>
+
+**The project aims to investigate the molecular mechanism of phase variation producing shuffling of susC genes in Bacteroides**
+Bacteroides are a part of the human gut microbiota with an extensive capacity for glycan harvest. These bacteria express the starch utilization system (Sus) in the outer membrane, which binds, degrades, and imports starch into the cell. Bacteroides can alter the expression of SusC/SusD family outer membrane proteins and capsular polysaccharides through reversible DNA inversions, putatively driven by site-specific recombinases. The main goal of the project is to elucidate the mechanism of phase variation of susC proteins and shed light on its impact on the ability to degrade different glycans in host diets.
+
 ## Detecting the impact of large-scale genomic features on bacterial phenotypes
 
 <p style="margin-top: 15px;">
@@ -28,6 +40,16 @@ Copy number variation is the important genomic trait associated with bacterial p
 
 *The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
+## Role of non-canonical start codons in bacteria
+<sup>*</sup>A collaboration with Prof. Calin Guet, IST Austria
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Research/startcodons.png" alt="Research picture" style="max-width: 90%">
+</div></p>
+
+**The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
+
 ## Machine learning and phylogenetic analysis for prediction of antibiotic resistance
 <sup>*</sup>A collaboration with Prof. Olga Kalinina, HIPS Germany
 
@@ -36,24 +58,14 @@ Copy number variation is the important genomic trait associated with bacterial p
   <img src="/Research/ML.png" alt="Research picture" style="max-width: 90%">
 </div></p>
 
-**The project is aimed to develop ML models for discovery of antibiotics resistance markers.** phylogeny-related measure to increase the performance of machine learning models. We introduce a novel phylogeny-related parallelism score (PRPS), which measures whether a certain feature is correlated with the population structure of a set of samples. We demonstrate that PRPS can be used, in combination with SVM- and random forest-based models, to reduce the number of features in the analysis, while simultaneously increasing models’ performance.
+**The project is aimed to develop ML models for discovery of antibiotics resistance markers.** We present ML models for the discovery of antibiotic resistance markers. The models are trained using whole-genome sequences with accompanying resistance screens, and the resistance markers are extracted with feature importance analysis. We emphasize the importance of accounting for population structure within a bacterial species by introducing PRPS, phylogeny-related parallelism score. We show that ML models that employ PRPS-aware features demonstrate superior performance, as well as discover more biologically meaningful markers.
 
 *The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
-[preprint](https://www.biorxiv.org/content/10.1101/2023.09.06.556328v1)
-
-## Role of non-canonical start codons in bacteria
-<sup>*</sup>A collaboration with Prof. Calin Guet, IST Austria
-
-<p style="margin-top: 15px;">
-<div class="col-left">
-  <img src="/Research/StartCodons.png" alt="Research picture" style="max-width: 90%">
-</div></p>
-
-**The project is aimed to reconstruct the evolution of start codons in bacterial genes** While _ATG_ starts are most common among bacteria genes, _TTG_ and _GTG_ codons are also present in genomes. For example, an analysis of 620 bacterial genomes revealed that ~80% of annotated genes initiate at AUG codons, ~12% at GUG and ~8% at UUG, with variable incidences of AUU and AUC across species [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7256928/). In our research we reconstruct the evolution of genes with weak start codons and analyse the functions of these genes. 
+[paper](https://doi.org/10.1186/s12866-023-03147-7)
 
 ## Fitness effects of short random peptides
-<sup>*</sup>A collaboration with Prof. Dan I. Andersson, Uppsala University and Dr. Roderich Кromhild, IST Austria
+<sup>*</sup>A collaboration with Prof. Dan I. Andersson, Uppsala University and Dr. Roderich Roemhild, IST Austria
 
 <p style="margin-top: 15px;">
 <div class="col-left">
