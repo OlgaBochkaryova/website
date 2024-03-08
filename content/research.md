@@ -3,18 +3,6 @@ title: "Research"
 ---
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
-## Phase variation of susC genes in Bacteroides
-<sup>*</sup>A collaboration with Prof. David Berry, CMESS, UniWien, Austria
-
-<p style="margin-top: 15px;">
-<div class="col-left">
-  <img src="/Research/bacteroides.png" alt="Research picture" style="max-width: 90%">
-</div>
-</p>
-
-**The project aims to investigate the molecular mechanism of phase variation producing shuffling of susC genes in Bacteroides**
-Bacteroides are a part of the human gut microbiota with an extensive capacity for glycan harvest. These bacteria express the starch utilization system (Sus) in the outer membrane, which binds, degrades, and imports starch into the cell. Bacteroides can alter the expression of SusC/SusD family outer membrane proteins and capsular polysaccharides through reversible DNA inversions, putatively driven by site-specific recombinases. The main goal of the project is to elucidate the mechanism of phase variation of susC proteins and shed light on its impact on the ability to degrade different glycans in host diets.
-
 ## Detecting the impact of large-scale genomic features on bacterial phenotypes
 
 <p style="margin-top: 15px;">
@@ -40,6 +28,18 @@ Copy number variation is the important genomic trait associated with bacterial p
 
 *The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
+## Phase variation of susC genes in Bacteroides
+<sup>*</sup>A collaboration with Prof. David Berry, CMESS, UniWien, Austria
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Research/bacteroides.png" alt="Research picture" style="max-width: 90%">
+</div>
+</p>
+
+**The project aims to investigate the molecular mechanism of phase variation producing shuffling of susC genes in Bacteroides**
+Bacteroides are a part of the human gut microbiota with an extensive capacity for glycan harvest. These bacteria express the starch utilization system (Sus) in the outer membrane, which binds, degrades, and imports starch into the cell. Bacteroides can alter the expression of SusC/SusD family outer membrane proteins and capsular polysaccharides through reversible DNA inversions, putatively driven by site-specific recombinases. The main goal of the project is to elucidate the mechanism of phase variation of susC proteins and shed light on its impact on the ability to degrade different glycans in host diets.
+
 ## Role of non-canonical start codons in bacteria
 <sup>*</sup>A collaboration with Prof. Calin Guet, IST Austria
 
@@ -59,8 +59,6 @@ Copy number variation is the important genomic trait associated with bacterial p
 </div></p>
 
 **The project is aimed to develop ML models for discovery of antibiotics resistance markers.** We present ML models for the discovery of antibiotic resistance markers. The models are trained using whole-genome sequences with accompanying resistance screens, and the resistance markers are extracted with feature importance analysis. We emphasize the importance of accounting for population structure within a bacterial species by introducing PRPS, phylogeny-related parallelism score. We show that ML models that employ PRPS-aware features demonstrate superior performance, as well as discover more biologically meaningful markers.
-
-*The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
 [paper](https://doi.org/10.1186/s12866-023-03147-7)
 
