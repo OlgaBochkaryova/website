@@ -1,5 +1,5 @@
 ---
-title: "My awesome title"
+title: "Bochkareva group"
 hidetoc: true
 ---
 
@@ -20,12 +20,13 @@ hidetoc: true
 </div> 
 
 ## Research interests
-My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution.
+My research interests cover various topics of microbial genomics from fundamental questions of genome organization and evolution to their applications for human health and climate change problems. I combine evolutionary and genomics approaches, development of new bioinformatic tools and system biology experiments to study the molecular mechanisms and selection forces
+shaped bacterial genome architecture and colony composition.
 
 My [current projects](https://www.bochkareva.me/research/) are focused on:
 - architecture of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species;
-- evolution of virulence factor, plasmids, antibiotic resistance; microbe-host interactions;
-- evolution of bacterial communities: pan-genomics, metagenomics, taxonomy.
+- prediction of genotype-phenotype connections: virulence, antibiotic resistance, host-microbe interections
+- heteroigenity of bacterial communities: phase variation mechanisms, colony fitness and adaptation
 
 
 ## Funding and Awards
