@@ -1,6 +1,19 @@
 ---
 title: "Supervised students"
 ---
+
+## Master theses:
+
+**(expected) 2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
+
+**2023 Ekaterina Vostokova** Comparative Genomics of _Wolbachia_ spp. Skoltech, Moscow, Russia. Co-supervisor: Mikhail Gelfand. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)
+
+**2019 Moldir Zhiyenbayeva** Comparative Genomics of _Bacillus_ spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
+
+## Bachelor  theses:
+
+**2018 Natalia Dranenko** Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
+
 ## Term papers:
 
 **2023 Bogdan Sotnikov, Valeria Rubinova** Conservation of start codons in bacterial gene families. Bioinformatics Institute, St. Petersburg, Russia
@@ -16,15 +29,3 @@ title: "Supervised students"
 **2019 Zaira Seferbekova** Impact of mobile elements into pathogenicity of Shigella. Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1101/2020.06.12.147751)
 
 **2017 Anna Karan** Evolutionary history of rearrangements in _Streptococcus pneumoniae_. Moscow State University, Moscow, Russia [(paper)](https://doi.org/10.1186/s12862-019-1403-6)
-
-## Master theses:
-
-**(expected) 2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
-
-**2023 Ekaterina Vostokova** Comparative Genomics of _Wolbachia_ spp. Skoltech, Moscow, Russia. Co-supervisor: Mikhail Gelfand. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)
-
-**2019 Moldir Zhiyenbayeva** Comparative Genomics of _Bacillus_ spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
-
-## Bachelor  theses:
-
-**2018 Natalia Dranenko** Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
