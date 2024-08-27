@@ -1,3 +1,8 @@
+---
+title: "Teaching"
+hidetoc: true
+---
+
 <div class="mainWrapper">
   <div class="col-left">
     
@@ -9,9 +14,7 @@
   </div>
 </div> 
 
----
-title: "Teaching"
----
+# Teaching
 
 <div class="mainWrapper">
   <img src="/bi_logo.png" style="max-width: 50px;">

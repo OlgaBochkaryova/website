@@ -1,3 +1,9 @@
+---
+title: "Publications"
+hidetoc: true
+---
+
+
 <div class="mainWrapper">
   <div class="col-left">
     
@@ -7,11 +13,9 @@
   <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
   
   </div>
-</div> 
+</div>
 
----
-title: "Publications"
----
+# Publications
 
 [ <sup>#</sup> -- equal contribution. ]
 
