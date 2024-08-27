@@ -3,7 +3,17 @@ title: "Bochkareva group"
 hidetoc: true
 ---
 
-<img style="float: right;" src="/group_logo.png" alt="group_logo" style="max-width: 40%">
+<div class="mainWrapper">
+  <div class="col-left">
+    
+  </div>
+  <div class="col-right">
+
+  <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
+  
+  </div>
+</div> 
+
 
 # Bacterial Genome Instability group
 <div class="mainWrapper">
