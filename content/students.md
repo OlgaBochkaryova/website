@@ -1,9 +1,3 @@
----
-title: "Supervised students"
-hidetoc: true
----
-
-
 <div class="mainWrapper">
   <div class="col-left">
     

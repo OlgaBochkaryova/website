@@ -10,9 +10,9 @@
   </div>
 </div> 
 
----
-title: "Research"
----
+
+# Research
+
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
 ## Detecting the impact of large-scale genomic features on bacterial phenotypes

@@ -1,9 +1,3 @@
----
-title: "Publications"
-hidetoc: true
----
-
-
 <div class="mainWrapper">
   <div class="col-left">
     

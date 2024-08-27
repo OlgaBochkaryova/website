@@ -1,8 +1,3 @@
----
-title: "Teaching"
-hidetoc: true
----
-
 <div class="mainWrapper">
   <div class="col-left">
     
