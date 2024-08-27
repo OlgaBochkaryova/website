@@ -3,17 +3,7 @@ title: "Bochkareva group"
 hidetoc: true
 ---
 
-<div class="mainWrapper">
-  <div class="col-left">
-    
-  </div>
-  <div class="col-right">
-
-  <img src="/group_logo.png" alt="group_logo" style="max-width: 40%">
-  
-  </div>
-</div> 
-
+<img style="float: right;" src="/group_logo.png" alt="group_logo" style="max-width: 40%">
 
 # Bacterial Genome Instability group
 <div class="mainWrapper">
@@ -22,7 +12,7 @@ hidetoc: true
   </div>
   <div class="col-right">
 
-  Principal Investigator **Dr. Olga Bochkareva**
+  ### Principal Investigator Dr. Olga Bochkareva
   
   The Centre for Microbiology and Environmental Systems Science (CeMESS), UniVienna
 
