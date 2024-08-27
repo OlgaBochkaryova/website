@@ -1,16 +1,6 @@
-<div class="mainWrapper">
-  <div class="col-left">
-    
-  </div>
-  <div class="col-right">
+<div><img src="/group_logo.png" width="180px" style="max-width: 50%" align="right"></div>
 
-  <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
-  
-  </div>
-</div> 
-
----
-title: "Contact"
+# Contact
 ---
 
 **e-mail:** *olga.bochkareva@univie.ac.at*

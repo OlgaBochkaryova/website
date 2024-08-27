@@ -1,15 +1,7 @@
-<div class="mainWrapper">
-  <div class="col-left">
-    
-  </div>
-  <div class="col-right">
-
-  <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
-  
-  </div>
-</div> 
+<div><img src="/group_logo.png" width="180px" style="max-width: 50%" align="right"></div>
 
 # Teaching
+---
 
 <div class="mainWrapper">
   <img src="/bi_logo.png" style="max-width: 50px;">
@@ -40,7 +32,12 @@ an initiative by Dr. Kondrashov to let high-school students participate in real 
 - 2017 [Rearrangements in _Vibrio_ genomes](https://molbioschool.org/media/archive/2017/15/Gelfand-1-Bochkareva.pdf)
 - 2016 [Genome rearrangements in pathogens](https://molbioschool.org/media/archive/school2016/27-laboratory-of-bacterial-and-functional-genomics/MGelfand-Bochkareva.pdf)
 
-<h2>Youtube lectures </h2>
+**Youtube lectures/workshops**
+
+<div class="mainWrapper">
+    <img src="/youtube_logo.png" style="max-width: 20px;">
+    <h2>Youtube lectures</h2>
+</div>
 
 2023 **How bacteria switch to dark side** (In Russian) [video](https://youtu.be/S4hhqIhC-Jo) [slides](/how_Ecoli_switch_to_dark_side.pdf)
 

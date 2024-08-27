@@ -1,11 +1,9 @@
-<p style="margin-right: 15px;">
-<div class="col-right">
-  <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
-</div>
-</p>
+
+<div><img src="/group_logo.png" width="180px" style="max-width: 50%" align="right"></div>
 
 # Research
-
+---
+  
 *My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
 
 ## Detecting the impact of large-scale genomic features on bacterial phenotypes
