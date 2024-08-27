@@ -9,7 +9,7 @@ hidetoc: true
   </div>
   <div class="col-right">
 
-  <img src="/group_logo.png" alt="group_logo" class="img-av">
+  <img src="/group_logo.png" alt="group_logo" style="max-width: 90%">
   
   </div>
 </div> 
