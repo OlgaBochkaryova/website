@@ -1,5 +1,5 @@
 <p style="margin-right: 15px;">
-<div class="col-left">
+<div class="col-right">
   <img src="/group_logo.png" alt="group_logo" style="max-width: 50%">
 </div>
 </p>
