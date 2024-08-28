@@ -4,7 +4,9 @@
 # Research
 ---
   
-*My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:*
+*My research interests cover various topics of microbial*
+
+*genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution.*
 
 ## Detecting the impact of large-scale genomic features on bacterial phenotypes
 
@@ -14,9 +16,9 @@
 </div>
 </p>
 
-**The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them.** There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.g. new ecological niche or host organism) and small colony variation (sustaining variability of phenotypes in pathogenic populations to avoid the host organism’s immune system response).
+**The main goal of the project is to connect the structural variants with phenotypic changes.** To date, the important role of genome rearrangements in generating phenotypic variation in bacteria were shown, provoking the high interest of microbiologists to the topic and highlighting the necessity of comparative genomics pipelines to study structural variants in genotype-phenotype context. Representation of microbial genomes as an ordered set of locally collinear blocks (LCBs) is an efficient strategy for revealing structural variants in bacterial genomes on genus, species or colony level of evolution. But not being integrated into comparative genomics pipelines, such tools are not commonly used, as the biological interpretation of their results remains challenging. Here we close this gap by introducing the term 'pan-blockome', the whole LCB repertoire of a studied group of genomes, and present the package for pan-blockome genomic studies called BADLON.
 
-*The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
+[The BADLON pipeline](https://github.com/oxygen311/badlon) *The project is supported by the [FWF grant #ESP 253-B](https://pf.fwf.ac.at/en/research-in-practice/project-finder/58815)*
 
 ## Role of gene paralogs in bacterial chromosome maintainance
 
@@ -87,8 +89,7 @@ Bacteroides are a part of the human gut microbiota with an extensive capacity fo
 
 **The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes.**
 We have developed a strategy for extract information form genomic data to detect parallel
-rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic resistance mechanisms and formation of small colony variants, and the study of the selective forces in genomic evolution underlying complex phenotypes. The application of this approach and the concomitant understanding of connections between detected genome rearrangements
-and medically-relevant phenotypes may contribute to the efficient development of drugs and vaccines.
+rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic resistance mechanisms and formation of small colony variants, and the study of the selective forces in genomic evolution underlying complex phenotypes. The application of this approach and the concomitant understanding of connections between detected genome rearrangements and medically-relevant phenotypes may contribute to the efficient development of drugs and vaccines.
 
 [The PaReBrick toolkit](https://github.com/ctlab/parallel-rearrangements) [Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab691/6380551)
 
