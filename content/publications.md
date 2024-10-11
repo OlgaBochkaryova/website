@@ -18,14 +18,6 @@ Apr 27, 12:6868 [(DOI)](https://doi.org/10.1038/s41598-022-10827-3)
 - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. **PeerJ**. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
 
 ## Preprints / under review
-- Natalia O Dranenko, Aleksandra D Rodina, Yaroslav V Demenchuk, Mikhail S. Gelfand, **Olga O Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes **bioRxiv** 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
-- Ekaterina V. Vostokova, Natalia O. Dranenko, Mikhail S. Gelfand, **Olga O. Bochkareva** Genome rearrangements drive evolution of ANK genes in _Wolbachia_ bioRxiv 2023 October 27:563763 [(DOI)](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)
-
-## Conference proceedings
-
-- Kristina Y. Perevoshchikova , Vera Emelianenko , Mikhail S. Gelfand , Fyodor Kondrashov, **Olga O. Bochkareva** Evolutionary benefits of bacterial genomes with chromids Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/93_MCCMB_2021.pdf)
-- Ariadna A Semenova, **Olga O Bochkareva** Insertion sequences in B. mallei: adaptation to intracellular lifestyle Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/193_MCCMB_2021.pdf)
-- Natalia Dranenko, Maria Tutukina, **Olga Bochkareva** The Classification of _ipaH_ Genes in _Shigella_ and Enteroinvasive _Escherichia_ Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/108_MCCMB_2021.pdf)
-- Vera Emelianenko, Anna Kaznadzey, Maria Tutukina, **Olga Bochkareva** Two sequence variants of the _yjjM_ gene in the _Escherichia coli_ genomes Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/206_MCCMB_2021.pdf)
-- Alexey Zabelkin, Yulia Yakovleva, **Olga Bochkareva**, Nikita Alexeev Method for detection of parallel adaptation with genome rearrangements in bacterial populations Moscow Conference on Computational Molecular Biology (MCCMB 2021) [(pdf)](http://mccmb.belozersky.msu.ru/2021/thesis/abstracts/39_MCCMB_2021.pdf)
-- Viktoriia Oshurkova, Olga Troshina, Vladimir Trubitsyn, Yana Ryzhmanova, **Olga Bochkareva**, Viktoria Shcherbakova. "Characterization of _Methanosarcina mazei_ JL01 Isolated from Holocene Arctic Permafrost and Study of the Archaeon Cooperation with Bacterium _Sphaerochaeta associata_ GLS2T" Proceedings 2020; 66(1):4. [DOI](ttps://doi.org/10.3390/proceedings2020066004)
+- K Jain, R Hauschild, **OO Bochkareva**, R Roemhild, G Tkacik, CC Guet Pulsatile basal gene expression as a fitness determinant in bacteria bioRxiv, 2024.09. 30.61587 [(DOI)](https://doi.org/10.1101/2024.09.30.615870)
+- NO Dranenko, AD Rodina, YV Demenchuk, MS Gelfand, **OO Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes **bioRxiv** 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
+- EV Vostokova, NO Dranenko, MS Gelfand, **OO Bochkareva** Genome rearrangements drive evolution of ANK genes in _Wolbachia_ bioRxiv 2023 October 27:563763 [(DOI)](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)

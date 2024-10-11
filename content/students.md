@@ -1,9 +1,40 @@
 <div><img src="/group_logo.png" width="180px" style="max-width: 50%" align="right"></div>
 
-# Supervised students 
+# Our team 
 ---
 
-## Master theses:
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Team/sanaz.jpg" alt="Research picture" style="max-width: 70%">
+</div>
+</p>
+
+**Sanaz Khadem, MSc**
+
+Research technician
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Team/katya.jpg" alt="Research picture" style="max-width: 70%">
+</div>
+</p>
+
+**Ekaterina Kolodyazhnaya**
+
+Master student (remote)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Master theses:
 
 **(expected) 2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
 
@@ -11,11 +42,12 @@
 
 **2019 Moldir Zhiyenbayeva** Comparative Genomics of _Bacillus_ spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
-## Bachelor  theses:
+### Bachelor  theses:
+**(expected) 2024 Günther Patterer** Machine learning allows for predicting antibiotic resistance in staphylocci bacteria isolated from skin of atopic dermatitis patients and advice doctors for right antimicrobial drug, CMESS, UniWien, Austria. Co-supervisor: David Berry.
 
 **2018 Natalia Dranenko** Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
-## Term papers:
+### Term papers:
 
 **2023 Bogdan Sotnikov, Valeria Rubinova** Conservation of start codons in bacterial gene families. Bioinformatics Institute, St. Petersburg, Russia
 
