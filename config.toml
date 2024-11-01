@@ -3,9 +3,9 @@ languageCode = "en-us"
 title = "O.B."
 theme = "desk"
 
-[Author]
-  name = "Olga Bochkareva"
-  email = "olga.bochkareva@ist.ac.at"
+#[Author]
+#  name = "Olga Bochkareva"
+#  email = "olga.bochkareva@ist.ac.at"
 
 [params]
   AuthorName = "Olga Bochkareva"
@@ -25,15 +25,15 @@ theme = "desk"
   [[menu.main]]
     name = "Publications"
     url = "/publications/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Teaching"
     url = "/teaching/"
-    weight = 4
-  [[menu.main]]
-    name = "Students"
-    url = "/students/"
     weight = 5
+  [[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 3
   [[menu.main]]
     name = "CookBook"
     url = "/cookbook/"
