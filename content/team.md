@@ -34,16 +34,31 @@ Master student (remote)
 <br/>
 <br/>
 
+<p style="margin-top: 15px;">
+<div class="col-left">
+  <img src="/Team/bernhard.jpeg" alt="Research picture" style="max-width: 70%">
+</div>
+</p>
+
+**Bernhard Hekele**
+
+Master student
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### Master theses:
 
-**(expected) 2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
+**2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
 
 **2023 Ekaterina Vostokova** Comparative Genomics of _Wolbachia_ spp. Skoltech, Moscow, Russia. Co-supervisor: Mikhail Gelfand. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract)
 
 **2019 Moldir Zhiyenbayeva** Comparative Genomics of _Bacillus_ spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
 ### Bachelor  theses:
-**(expected) 2024 Günther Patterer** Machine learning allows for predicting antibiotic resistance in staphylocci bacteria isolated from skin of atopic dermatitis patients and advice doctors for right antimicrobial drug, CMESS, UniWien, Austria. Co-supervisor: David Berry.
+**2024 Günther Patterer** Machine learning allows for predicting antibiotic resistance in staphylocci bacteria isolated from skin of atopic dermatitis patients and advice doctors for right antimicrobial drug, CMESS, UniWien, Austria. Co-supervisor: David Berry.
 
 **2018 Natalia Dranenko** Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
