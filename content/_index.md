@@ -7,7 +7,7 @@ hidetoc: true
 # Bacterial Genome Instability group
 <div class="mainWrapper">
   <div class="col-left">
-    <img src="/me4.jpg" alt="my photo" class="img-av">
+    <img src="/me.jpg" alt="my photo" class="img-av">
   </div>
   <div class="col-right">
 
