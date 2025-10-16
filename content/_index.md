@@ -7,7 +7,7 @@ hidetoc: true
 # Bacterial Genome Instability group
 <div class="mainWrapper">
   <div class="col-left">
-    <img src="/Team/me.JPG" alt="my photo" class="img-av">
+    <img src="/Team/me_2.JPG" alt="my photo" class="img-av">
   </div>
   <div class="col-right">
 
@@ -23,13 +23,9 @@ hidetoc: true
 </div> 
 
 ## Research interests
-My research interests cover various topics of microbial genomics from fundamental questions of genome organization and evolution to their applications for human health and climate change problems. I combine evolutionary and genomics approaches, development of new bioinformatic tools and system biology experiments to study the molecular mechanisms and selection forces
-shaped bacterial genome architecture and colony composition.
+Bacterial genomes hide rapid and reversible mechanisms, commonly called ‘phase variation’, responsible for switching of gene expression and lead to genetic/phenotypic heterogeneity of pure bacterial cultures. Although independent phase-variable genes are reported in many species, phase-variable loci, which modulate expression of many genes and produce a mixed population expressing multiple allelic variants, remains under-investigated. How many genotypes are present simultaneously in a pure bacterial colony? What is responsible for the rates of genotype switching in a one cell line? What are the limitations of the classic model ‘one bacterial colony - one genome’ which is still a basis of genome assemblers?
 
-My [current projects](https://www.bochkareva.me/research/) are focused on:
-- architecture of bacterial chromosomes: genome rearrangements, horizontal gene transfer, homologous recombination, multi-chromosome bacterial species;
-- prediction of genotype-phenotype connections: virulence, antibiotic resistance, host-microbe interections
-- heteroigenity of bacterial communities: phase variation mechanisms, colony fitness and adaptation
+I’m working on the intersection of comparative genomics, algorithmic biology, and evolutionary biology to build a deep understanding of bacterial genome organization and the molecular mechanisms providing complex dynamic genotype-phenotype connections. To tackle my research goals, I created a synthesis between theory and experimentation under the confines of a single laboratory combining the computational methods developed by myself and experimental assays of engineered cultures performed in collaborations with top-ranked scientists. Mainly working on fundamental knowledge about bacterial genome complexity, I create efficient pipelines which might be used as a basis for clinical and industrial applications.
 
 
 ## Funding and Awards

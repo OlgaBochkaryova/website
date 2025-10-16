@@ -25,21 +25,6 @@ Research technician
 </div>
 </p>
 
-**Ekaterina Kolodyazhnaya**
-
-Master student (remote)
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p style="margin-top: 15px;">
-<div class="col-left">
-  <img src="/Team/bernhard.jpeg" alt="Research picture" style="max-width: 70%">
-</div>
-</p>
-
 **Bernhard Hekele**
 
 Master student
@@ -50,6 +35,7 @@ Master student
 <br/>
 
 ### Master theses:
+**2025 Ekaterina Koloyazhnaya** Identification of phase-variable loci in _Bacteorodes_. MSU, Moscow, Russia. Co-supervisor: Mikhail Gelfand.
 
 **2024 Mina Joseph** Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.
 
