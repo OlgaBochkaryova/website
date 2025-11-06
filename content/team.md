@@ -21,7 +21,7 @@ Research technician
 
 <p style="margin-top: 15px;">
 <div class="col-left">
-  <img src="/Team/bernhard.jpeg.jpg" alt="Research picture" style="max-width: 70%">
+  <img src="/Team/bernhard.jpeg" alt="Research picture" style="max-width: 70%">
 </div>
 </p>
 
