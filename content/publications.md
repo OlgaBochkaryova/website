@@ -18,6 +18,7 @@
 - **Olga O Bochkareva**, Natalia O Dranenko, Elena S Ocheredko, German M Kanevsky, Yaroslav N Lozinsky, Vera A Khalaycheva, Irena I Artamonova, Mikhail S Gelfand. Genome rearrangements and phylogeny reconstruction in _Yersinia pestis_. **PeerJ**. 2018 Mar 27;6:e4545. [(DOI)](https://doi.org/10.7717/peerj.4545)
 
 ## Preprints / under review
+- LH Isakova, E Streltsova, OO Bochkareva, PK Vlasov, FA Kondrashov Descent from a common ancestor restricts evolutionary exploration of protein sequence space Submitted, materials are available [here](https://github.com/oist/sequence-space-dimension)
 - C Zioutis, M Lang, F Pereira, **O Bochkareva**, E Kolodyazhnaya, J Osvatic, KD McCoy, S Künzel, H Fokt, JF Baines, D Berry Rapid genetic diversification of _Bacteroides thetaiotaomicron_ in mono-associated mice revealed through deep population-level sequencing. bioRxiv 2025.06.24.661302 [(DOI)](https://doi.org/10.1101/2025.06.24.661302)
 - M Lang, C Zioutis, A Heberlein, N Ivanovova, J Schwarz, S Köstlbacher, **O Bochkareva**, KJ Flanagan, FC Pereira, D Berry Nutrient landscape shapes the genetic diversification of the human gut commensal Bacteroides thetaiotaomicron bioRxiv 2025.06.24.661248 [(DOI)](https://doi.org/10.1101/2025.06.24.661248)
 - NO Dranenko, AD Rodina, YV Demenchuk, MS Gelfand, **OO Bochkareva**. Evolutionary trajectories of secondary replicons in multipartite genomes bioRxiv 2023 Apr 09: 536151; [(DOI)](https://doi.org/10.1101/2023.04.09.536151)
